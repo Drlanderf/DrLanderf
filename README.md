@@ -32,7 +32,7 @@
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=9B9B9B)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=9B9B9B)
 
-## GitHub Statistics
+## 📊 GitHub Statistics
 
 
 <p align="center">
@@ -42,7 +42,7 @@
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Drlanderf&theme=dark&date_format=j%20M%5B%20Y%5D" /></a>
 </a>
 </p>
-##
+##--
 <h3 align=center>Show some ❤️ by starring some of the repositories or dropping a follow!</h3>
 <!--
 **Drlanderf/DrLanderf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
