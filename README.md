@@ -7,18 +7,23 @@
 
 ## 🔧 Technologies & Tools
 <h4 align=center>OS used</h4>
+
 ![](https://img.shields.io/badge/OS-Windows11-informational?style=flat&logo=Windows11&logoColor=white&color=9B9B9B)
 ![](https://img.shields.io/badge/OS-UNIX-informational?style=flat&logo=Unix&logoColor=white&color=9B9B9B)
 ![](https://img.shields.io/badge/OS-Solaris-informational?style=flat&logo=Oracle&logoColor=white&color=9B9B9B)
 ![](https://img.shields.io/badge/OS-Oracle_SGBD-informational?style=flat&logo=Oracle&logoColor=white&color=9B9B9B)
 ![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=9B9B9B)
+
 <h4 align=center>Editor.s used</h4>
+
 ![](https://img.shields.io/badge/Editor-Jet_Brain-informational?style=flat&logo=Jet_Brain&logoColor=white&color=9B9B9B)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=9B9B9B)
 ![](https://img.shields.io/badge/Editor-Visual_Studio-informational?style=flat&logo=visualstudio&logoColor=white&color=9B9B9B)
 ![](https://img.shields.io/badge/Editor-DBeaver-informational?style=flat&logo=DBeaver&logoColor=white&color=9B9B9B)
 ![](https://img.shields.io/badge/Editor-SQL_Dev-informational?style=flat&logo=Oracle&logoColor=white&color=9B9B9B)
+
 <h4 align=center>Code.s used/know</h4>
+
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=9B9B9B)
 ![](https://img.shields.io/badge/Code-Node.JS-nformational?style=flat&logo=nodedotjs&logoColor=white&color=9B9B9B)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=9B9B9B)
@@ -29,7 +34,9 @@
 ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=Oracle&logoColor=white&color=9B9B9B)
 ![](https://img.shields.io/badge/Code-PL/SQL-informational?style=flat&logo=Oracle&logoColor=white&color=9B9B9B)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=9B9B9B)
+
 <h4 align=center>Tool.s used</h4>
+
 ![](https://img.shields.io/badge/Tools-SQLDev-informational?style=flat&logo=Oracle&logoColor=white&color=9B9B9B)
 ![](https://img.shields.io/badge/Tools-vSphere-informational?style=flat&logo=VMware&logoColor=white&color=9B9B9B)
 ![](https://img.shields.io/badge/Tools-unRAID-informational?style=flat&logo=unRAID&logoColor=white&color=9B9B9B)
