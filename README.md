@@ -1,11 +1,13 @@
 <p align="center">
-<a href="https://github.com/Itz-Hyperz">
+<a href="https://github.com/Drlanderf">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DrLanderf&show_icons=true&theme=dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrLanderf&show_icons=true&theme=dark"/>
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Drlanderf&theme=dark&date_format=j%20M%5B%20Y%5D" /></a>
 </a>
 </p>
-   
+---
+
+<h3 align=center>Show some ❤️ by starring some of the repositories or dropping a follow!</h3>
 <!--
 **Drlanderf/DrLanderf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
