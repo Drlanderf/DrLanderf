@@ -13,6 +13,7 @@
 ![](https://img.shields.io/badge/OS-UNIX-informational?style=flat&logo=Unix&logoColor=white&color=9B9B9B)
 ![](https://img.shields.io/badge/OS-Solaris-informational?style=flat&logo=Oracle&logoColor=white&color=9B9B9B)
 ![](https://img.shields.io/badge/OS-Oracle_SGBD-informational?style=flat&logo=Oracle&logoColor=white&color=9B9B9B)
+![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=9B9B9B)
 
 ![](https://img.shields.io/badge/Editor-Jet_Brain-informational?style=flat&logo=Jet_Brain&logoColor=white&color=9B9B9B)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=9B9B9B)
