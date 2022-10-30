@@ -10,6 +10,7 @@
 ![](https://img.shields.io/badge/Editor-JetBrain-informational?style=flat&logo=JetBrain&logoColor=white&color=9B9B9B)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=9B9B9B)
 ![](https://img.shields.io/badge/Editor-VS-informational?style=flat&logo=visualstudio&logoColor=white&color=9B9B9B)
+![](https://img.shields.io/badge/Editor-DBeaver-informational?style=flat&logo=DBeaver&logoColor=white&color=9B9B9B)
 
 
 
