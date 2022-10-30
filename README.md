@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=DrLanderf&label=Views&color=lightgrey)
 [![Twitter Follow](https://img.shields.io/twitter/follow/LanderfCorp?label=Follow)](https://twitter.com/intent/follow?screen_name=LanderfCorp)
 [![GitHub followers](https://img.shields.io/github/followers/DrLanderf?label=Follow&style=social)](https://github.com/itz-hyperz)
-[![discord](https://img.shields.io/badge/Join_Discord-5865F2.svg?&style=flat-square&logo=discord&logoColor=white&link=https://discord.gg/rqNgRkvZsq)]
+[![discord](https://img.shields.io/badge/Join_Discord-5865F2.svg?&style=flat-square&logo=discord&logoColor=white&link=https://discord.gg/rqNgRkvZsq)
 
 
 
