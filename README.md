@@ -19,8 +19,8 @@
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=9B9B9B)
 ![](https://img.shields.io/badge/Tools-SQLDev-informational?style=flat&logo=Oracle&logoColor=white&color=9B9B9B)
 ![](https://img.shields.io/badge/Tools-vSphere-informational?style=flat&logo=VMware&logoColor=white&color=9B9B9B)
+![](https://img.shields.io/badge/Tools-unRAID-informational?style=flat&logo=unRAID&logoColor=white&color=9B9B9B)
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=9B9B9B)
-![](https://img.shields.io/badge/Tools-Spotify-informational?style=flat&logo=spotify&logoColor=white&color=9B9B9B)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=9B9B9B)
 
 ## GitHub Statistics
