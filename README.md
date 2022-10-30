@@ -8,7 +8,8 @@
 ![](https://img.shields.io/badge/OS-Solaris-informational?style=flat&logo=Oracle&logoColor=white&color=9B9B9B)
 
 ![](https://img.shields.io/badge/Editor-JetBrain-informational?style=flat&logo=JetBrain&logoColor=white&color=9B9B9B)
-![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=vscode&logoColor=white&color=9B9B9B)
+![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=9B9B9B)
+![](https://img.shields.io/badge/Editor-VS-informational?style=flat&logo=visualstudio&logoColor=white&color=9B9B9B)
 
 
 
