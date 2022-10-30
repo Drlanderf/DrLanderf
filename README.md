@@ -2,7 +2,8 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/LanderfCorp?label=Follow)](https://twitter.com/intent/follow?screen_name=LanderfCorp)
 [![GitHub followers](https://img.shields.io/github/followers/DrLanderf?label=Follow&style=social)](https://github.com/itz-hyperz)
 [![discord](https://img.shields.io/badge/Join_Discord-5865F2.svg?&style=flat-square&logo=discord&logoColor=white&link=https://discord.gg/rqNgRkvZsq)](https://discord.gg/rqNgRkvZsq)
-[![discord](https://img.shields.io/youtube/channel/subscribers/UCnK7oWn1A7RvKiB19ZIECZg?style=social)](https://www.youtube.com/channel/UCnK7oWn1A7RvKiB19ZIECZg)
+[![youtube](https://img.shields.io/youtube/channel/subscribers/UCnK7oWn1A7RvKiB19ZIECZg?style=social)](https://www.youtube.com/channel/UCnK7oWn1A7RvKiB19ZIECZg)
+[![youtube](https://img.shields.io/twitch/status/doc_landerf?style=social)](https://www.twitch.tv/doc_landerf)
 
 
 
