@@ -15,6 +15,7 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Unraid](https://img.shields.io/badge/unraid-%23F15A2C.svg?style=for-the-badge&logo=unraid&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows11-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
+![vSphere](https://img.shields.io/badge/ESXi-008CC1?style=for-the-badge&logo=ESXi&logoColor=ffdd54)
 <h4 align=left>💻 Editor.s used</h4>
 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
@@ -35,7 +36,6 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <h4 align=left>Tool.s used</h4>
 
-![vSphere](https://img.shields.io/badge/vSphere-008CC1?style=for-the-badge&logo=vSphere&logoColor=ffdd54)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
