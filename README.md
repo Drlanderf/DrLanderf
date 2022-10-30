@@ -35,8 +35,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <h4 align=left>Tool.s used</h4>
 
-![](https://img.shields.io/badge/Tools-SQLDev-informational?style=flat&logo=Oracle&logoColor=white&color=9B9B9B)
-![](https://img.shields.io/badge/Tools-vSphere-informational?style=flat&logo=VMware&logoColor=white&color=9B9B9B)
+![vSphere](https://img.shields.io/badge/vSphere-008CC1?style=for-the-badge&logo=vSphere&logoColor=ffdd54)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
