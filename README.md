@@ -6,7 +6,9 @@
 ![](https://img.shields.io/badge/OS-Windows11-informational?style=flat&logo=Windows11&logoColor=white&color=9B9B9B)
 ![](https://img.shields.io/badge/OS-UNIX-informational?style=flat&logo=Unix&logoColor=white&color=9B9B9B)
 ![](https://img.shields.io/badge/OS-Solaris-informational?style=flat&logo=Oracle&logoColor=white&color=9B9B9B)
+
 ![](https://img.shields.io/badge/Editor-JetBrain-informational?style=flat&logo=JetBrain&logoColor=white&color=9B9B9B)
+
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=9B9B9B)
 ![](https://img.shields.io/badge/Code-Node.JS-nformational?style=flat&logo=nodedotjs&logoColor=white&color=9B9B9B)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=9B9B9B)
