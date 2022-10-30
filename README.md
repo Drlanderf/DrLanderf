@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/Itz-Hyperz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DrLanderf&show_icons=true&theme=dark)"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DrLanderf&show_icons=true&theme=dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrLanderf&show_icons=true&theme=dark"/>
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Drlanderf&theme=dark&date_format=j%20M%5B%20Y%5D" /></a>
 </a>
