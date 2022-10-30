@@ -12,7 +12,7 @@
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=9B9B9B)
 ![](https://img.shields.io/badge/Code-Csharp-informational?style=flat&logo=Csharp&logoColor=white&color=9B9B9B)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=9B9B9B)
-![](https://img.shields.io/badge/Code-Cplusplus-informational?style=flat&logo=C++&logoColor=white&color=9B9B9B)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=Cplusplus&logoColor=white&color=9B9B9B)
 ![](https://img.shields.io/badge/Code-ASM-informational?style=flat&logo=ASM&logoColor=white&color=9B9B9B)
 ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=Oracle&logoColor=white&color=9B9B9B)
 ![](https://img.shields.io/badge/Code-PL/SQL-informational?style=flat&logo=Oracle&logoColor=white&color=9B9B9B)
