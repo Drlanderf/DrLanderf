@@ -6,13 +6,15 @@
 [![youtube](https://img.shields.io/twitch/status/doc_landerf?style=social)](https://www.twitch.tv/doc_landerf)
 
 ## 🔧 Technologies & Tools
-<h4 align=left>OS used</h4>
+<h4 align=left>)🎛️ OS used</h4>
 
-![](https://img.shields.io/badge/OS-Windows11-informational?style=flat&logo=Windows11&logoColor=white&color=9B9B9B)
-![](https://img.shields.io/badge/OS-UNIX-informational?style=flat&logo=Unix&logoColor=white&color=9B9B9B)
-![](https://img.shields.io/badge/OS-Solaris-informational?style=flat&logo=Oracle&logoColor=white&color=9B9B9B)
-![](https://img.shields.io/badge/OS-Oracle_SGBD-informational?style=flat&logo=Oracle&logoColor=white&color=9B9B9B)
-![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=9B9B9B)
+![Cent OS](https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0)
+![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![OpenBSD](https://img.shields.io/badge/-OpenBSD-%23FCC771?style=for-the-badge&logo=openbsd&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Unraid](https://img.shields.io/badge/unraid-%23F15A2C.svg?style=for-the-badge&logo=unraid&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows11-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
 <h4 align=left>💻 Editor.s used</h4>
 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
