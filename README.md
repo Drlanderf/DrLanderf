@@ -2,8 +2,19 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/LanderfCorp?label=Follow)](https://twitter.com/intent/follow?screen_name=LanderfCorp)
 [![GitHub followers](https://img.shields.io/github/followers/DrLanderf?label=Follow&style=social)](https://github.com/itz-hyperz)
 [![discord](https://img.shields.io/badge/Join_Discord-5865F2.svg?&style=flat-square&logo=discord&logoColor=white&link=https://discord.gg/rqNgRkvZsq)](https://discord.gg/rqNgRkvZsq)
-
-
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=9B9B9B)
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=vscode&logoColor=white&color=9B9B9B)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=9B9B9B)
+![](https://img.shields.io/badge/Code-Node.JS-nformational?style=flat&logo=nodedotjs&logoColor=white&color=9B9B9B)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=9B9B9B)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=9B9B9B)
+![](https://img.shields.io/badge/Code-HTML%20&%20CSS-informational?style=flat&logo=HTML5&logoColor=white&color=9B9B9B)
+![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=9B9B9B)
+![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=9B9B9B)
+![](https://img.shields.io/badge/Tools-Spotify-informational?style=flat&logo=spotify&logoColor=white&color=9B9B9B)
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=9B9B9B)
+## GitHub Statistics
 
 
 <p align="center">
