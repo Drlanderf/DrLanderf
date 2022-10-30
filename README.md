@@ -7,11 +7,11 @@
 ![](https://img.shields.io/badge/OS-UNIX-informational?style=flat&logo=Unix&logoColor=white&color=9B9B9B)
 ![](https://img.shields.io/badge/OS-Solaris-informational?style=flat&logo=Oracle&logoColor=white&color=9B9B9B)
 
-![](https://img.shields.io/badge/Editor-JetBrain-informational?style=flat&logo=JetBrain&logoColor=white&color=9B9B9B)
-![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=9B9B9B)
-![](https://img.shields.io/badge/Editor-VS-informational?style=flat&logo=visualstudio&logoColor=white&color=9B9B9B)
+![](https://img.shields.io/badge/Editor-Jet_Brain-informational?style=flat&logo=Jet_Brain&logoColor=white&color=9B9B9B)
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=9B9B9B)
+![](https://img.shields.io/badge/Editor-Visual_Studio-informational?style=flat&logo=visualstudio&logoColor=white&color=9B9B9B)
 ![](https://img.shields.io/badge/Editor-DBeaver-informational?style=flat&logo=DBeaver&logoColor=white&color=9B9B9B)
-
+![](https://img.shields.io/badge/Editor-SQL_Dev-informational?style=flat&logo=Oracle&logoColor=white&color=9B9B9B)
 
 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=9B9B9B)
