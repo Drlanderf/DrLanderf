@@ -10,10 +10,12 @@
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=9B9B9B)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=9B9B9B)
 ![](https://img.shields.io/badge/Code-HTML%20&%20CSS-informational?style=flat&logo=HTML5&logoColor=white&color=9B9B9B)
+![][(https://img.shields.io/endpoint?label=Tools&logo=Oracle&url=%2Fendpoint)](https://img.shields.io/endpoint?label=Tools&logo=Oracle)
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=9B9B9B)
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=9B9B9B)
 ![](https://img.shields.io/badge/Tools-Spotify-informational?style=flat&logo=spotify&logoColor=white&color=9B9B9B)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=9B9B9B)
+
 ## GitHub Statistics
 
 
