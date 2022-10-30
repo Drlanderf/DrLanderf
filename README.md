@@ -1,8 +1,11 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DrLanderf&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrLanderf&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Drlanderf&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-
+<p align="center">
+<a href="https://github.com/Itz-Hyperz">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DrLanderf&show_icons=true&theme=dark)"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrLanderf&show_icons=true&theme=dark"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Drlanderf&theme=dark&date_format=j%20M%5B%20Y%5D" /></a>
+</a>
+</p>
+   
 <!--
 **Drlanderf/DrLanderf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
