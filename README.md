@@ -7,13 +7,14 @@
 
 ## 🔧 Technologies & Tools
 <h4 align=left>OS used</h4>
+
 ![](https://img.shields.io/badge/OS-Windows11-informational?style=flat&logo=Windows11&logoColor=white&color=9B9B9B)
 ![](https://img.shields.io/badge/OS-UNIX-informational?style=flat&logo=Unix&logoColor=white&color=9B9B9B)
 ![](https://img.shields.io/badge/OS-Solaris-informational?style=flat&logo=Oracle&logoColor=white&color=9B9B9B)
 ![](https://img.shields.io/badge/OS-Oracle_SGBD-informational?style=flat&logo=Oracle&logoColor=white&color=9B9B9B)
 ![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=9B9B9B)
-
 <h4 align=left>Editor.s used</h4>
+
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
@@ -22,8 +23,8 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
-
 <h4 align=left>Code.s used/know</h4>
+
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=9B9B9B)
 ![](https://img.shields.io/badge/Code-Node.JS-nformational?style=flat&logo=nodedotjs&logoColor=white&color=9B9B9B)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=9B9B9B)
@@ -34,8 +35,8 @@
 ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=Oracle&logoColor=white&color=9B9B9B)
 ![](https://img.shields.io/badge/Code-PL/SQL-informational?style=flat&logo=Oracle&logoColor=white&color=9B9B9B)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=9B9B9B)
-
 <h4 align=left>Tool.s used</h4>
+
 ![](https://img.shields.io/badge/Tools-SQLDev-informational?style=flat&logo=Oracle&logoColor=white&color=9B9B9B)
 ![](https://img.shields.io/badge/Tools-vSphere-informational?style=flat&logo=VMware&logoColor=white&color=9B9B9B)
 ![](https://img.shields.io/badge/Tools-unRAID-informational?style=flat&logo=unRAID&logoColor=white&color=9B9B9B)
@@ -44,8 +45,8 @@
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=9B9B9B)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=Docker&logoColor=white&color=9B9B9B)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-
 <h4 align=left>SGBD used</h4>
+
 ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
