@@ -37,11 +37,10 @@
 
 ![](https://img.shields.io/badge/Tools-SQLDev-informational?style=flat&logo=Oracle&logoColor=white&color=9B9B9B)
 ![](https://img.shields.io/badge/Tools-vSphere-informational?style=flat&logo=VMware&logoColor=white&color=9B9B9B)
-![](https://img.shields.io/badge/Tools-unRAID-informational?style=flat&logo=unRAID&logoColor=white&color=9B9B9B)
-![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=9B9B9B)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=9B9B9B)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=9B9B9B)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=Docker&logoColor=white&color=9B9B9B)
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 <h4 align=left>💾 SGBD used</h4>
 
