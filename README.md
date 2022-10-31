@@ -62,9 +62,9 @@
 ![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D)
 
 
-<h4 align=left>⚙️ JetBrain Extensions</h4>
+## ⚙️ JetBrain Extensions
 
-⚙️ | .env files - https://plugins.jetbrains.com/plugin/9525--env-files-support
+🔐 | .env files - https://plugins.jetbrains.com/plugin/9525--env-files-support
 
 📦 | Icons - https://plugins.jetbrains.com/plugin/10044-atom-material-icons
 
