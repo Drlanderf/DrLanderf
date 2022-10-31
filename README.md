@@ -74,19 +74,13 @@
 
 
 ---
-<h2 align=center>DevOps Enthousiast</h3>
-<h3 align=center>Show some ❤️ by starring some of the repositories or dropping a follow!</h3>
-<!--
-**Drlanderf/DrLanderf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align=center>DevOps Enthousiast</h2>
+<h2 align=center>
+Contact/hire me :
+  
+[![OUTLOOK](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)][hireme]
 
-Here are some ideas to get you started:
+</h3>
+<h5 align=center>Show some ❤️ by starring some of the repositories or dropping a follow!</h5>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[hireme]: mailto:lukas.paquay@outlook.be
