@@ -63,9 +63,13 @@
 
 
 <h4 align=left>⚙️ JetBrain Extensions</h4>
+
 ⚙️ | .env files - https://plugins.jetbrains.com/plugin/9525--env-files-support
+
 📦 | Icons - https://plugins.jetbrains.com/plugin/10044-atom-material-icons
+
 🟣 | Discord Integration: https://plugins.jetbrains.com/plugin/10233-discord-integration
+
 📝 | Formatter - https://plugins.jetbrains.com/plugin/10456-prettier
 
 
