@@ -92,8 +92,10 @@
 
 ---
 
-## 📜 🇫🇷 My recent French videos
-<img src="https://img.shields.io/youtube/channel/subscribers/UCnK7oWn1A7RvKiB19ZIECZg?style=for-the-badge"></img>
+## 📜 Youtube French video
+
+[![youtube](https://img.shields.io/youtube/channel/subscribers/UCnK7oWn1A7RvKiB19ZIECZg?style=social)](https://www.youtube.com/channel/UCnK7oWn1A7RvKiB19ZIECZg)
+
 <table>
 
 <tr>
@@ -111,7 +113,6 @@
 </td>
 </tr>
 </table>
-
 
 #### 👷 Check out what I'm currently working on
 
@@ -131,14 +132,12 @@
 - [Drlanderf/TestSQL](https://github.com/Drlanderf/TestSQL) - Some SQL testing
 - [Drlanderf/CaisseManager](https://github.com/Drlanderf/CaisseManager) - Application de caisse enregistreuse en C# WPF MVVM Ready
 
-
 #### 🔭 Latest releases I've contributed to
 
 - [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) ([v3.6.5-0](https://github.com/Drlanderf/clara_oswald/releases/tag/v3.6.5-0), today) - 
 
 #### 🔨 My recent Pull Requests
 
-- [🔀 Don&#39;t forget to update ur fork](https://github.com/PadawanNico21/clara_oswald/pull/1) on [PadawanNico21/clara_oswald](https://github.com/PadawanNico21/clara_oswald) (today)
 - [Beta](https://github.com/Drlanderf/clara_oswald/pull/56) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
 - [Alpha](https://github.com/Drlanderf/clara_oswald/pull/55) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
 - [👷 some CI update](https://github.com/Drlanderf/clara_oswald/pull/54) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
@@ -148,30 +147,14 @@
 - [some changes](https://github.com/Drlanderf/clara_oswald/pull/50) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
 - [Some changes](https://github.com/Drlanderf/clara_oswald/pull/49) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
 - [Beta](https://github.com/Drlanderf/clara_oswald/pull/48) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
-
+- [updating beta](https://github.com/Drlanderf/clara_oswald/pull/47) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
 
 #### 📓 Gists I wrote
 
 
-#### ⭐ Recent Stars
-
-- [Drlanderf/gitmoji](https://github.com/Drlanderf/gitmoji) - An emoji guide for your commit messages. 😜  (2 days ago)
-- [Drlanderf/youtube_bot](https://github.com/Drlanderf/youtube_bot) -  (2 days ago)
-- [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) -  (3 days ago)
-- [Drlanderf/landerf_bot](https://github.com/Drlanderf/landerf_bot) -  (6 days ago)
-- [Drlanderf/CaisseManager](https://github.com/Drlanderf/CaisseManager) - Application de caisse enregistreuse en C# WPF MVVM Ready (2 months ago)
-
 #### ❤️ These awesome people sponsor me (thank you!)
 
 
-#### 👯 Check out some of my recent followers
-
-- [JMF386](https://github.com/JMF386)
-- [SlendyMilky](https://github.com/SlendyMilky)
-
-#### 💬 Feedback
-
-Say Hello, I don't bite (much)!
 
 
 
