@@ -135,7 +135,6 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) ([v3.6.6](https://github.com/Drlanderf/clara_oswald/releases/tag/v3.6.6), today) - 🤖 Basic Discord Bot
 
 #### 🔨 My recent Pull Requests
 
