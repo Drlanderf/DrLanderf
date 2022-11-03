@@ -116,16 +116,16 @@
 #### 👷 Check out what I'm currently working on
 
 - [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) - 🤖 Basic Discord Bot (today)
-- [Drlanderf/DrLanderf](https://github.com/Drlanderf/DrLanderf) - Public (today)
-- [Drlanderf/youtube_bot](https://github.com/Drlanderf/youtube_bot) -  (1 day ago)
+- [Drlanderf/DrLanderf](https://github.com/Drlanderf/DrLanderf) - 🧑It&#39;s just me with some automation (today)
+- [Drlanderf/youtube_bot](https://github.com/Drlanderf/youtube_bot) - 🤖 Basic Discord Bot for youtube tutorial (1 day ago)
 - [Drlanderf/landerf_bot](https://github.com/Drlanderf/landerf_bot) -  (6 days ago)
 - [Drlanderf/CaisseManager](https://github.com/Drlanderf/CaisseManager) - Application de caisse enregistreuse en C# WPF MVVM Ready (1 month ago)
 - [Drlanderf/TestSQL](https://github.com/Drlanderf/TestSQL) - Some SQL testing (2 months ago)
 
 #### 🌱 My latest projects
 
-- [Drlanderf/youtube_bot](https://github.com/Drlanderf/youtube_bot) - 
-- [Drlanderf/DrLanderf](https://github.com/Drlanderf/DrLanderf) - Public
+- [Drlanderf/youtube_bot](https://github.com/Drlanderf/youtube_bot) - 🤖 Basic Discord Bot for youtube tutorial
+- [Drlanderf/DrLanderf](https://github.com/Drlanderf/DrLanderf) - 🧑It&#39;s just me with some automation
 - [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) - 🤖 Basic Discord Bot
 - [Drlanderf/landerf_bot](https://github.com/Drlanderf/landerf_bot) - 
 - [Drlanderf/TestSQL](https://github.com/Drlanderf/TestSQL) - Some SQL testing
