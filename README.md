@@ -115,7 +115,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) -  (today)
+- [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) - 🤖 Basic Discord Bot (today)
 - [Drlanderf/DrLanderf](https://github.com/Drlanderf/DrLanderf) - Public (today)
 - [Drlanderf/youtube_bot](https://github.com/Drlanderf/youtube_bot) -  (1 day ago)
 - [Drlanderf/landerf_bot](https://github.com/Drlanderf/landerf_bot) -  (6 days ago)
@@ -126,14 +126,14 @@
 
 - [Drlanderf/youtube_bot](https://github.com/Drlanderf/youtube_bot) - 
 - [Drlanderf/DrLanderf](https://github.com/Drlanderf/DrLanderf) - Public
-- [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) - 
+- [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) - 🤖 Basic Discord Bot
 - [Drlanderf/landerf_bot](https://github.com/Drlanderf/landerf_bot) - 
 - [Drlanderf/TestSQL](https://github.com/Drlanderf/TestSQL) - Some SQL testing
 - [Drlanderf/CaisseManager](https://github.com/Drlanderf/CaisseManager) - Application de caisse enregistreuse en C# WPF MVVM Ready
 
 #### 🔭 Latest releases I've contributed to
 
-- [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) ([v3.6.5-0](https://github.com/Drlanderf/clara_oswald/releases/tag/v3.6.5-0), today) - 
+- [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) ([v3.6.5-0](https://github.com/Drlanderf/clara_oswald/releases/tag/v3.6.5-0), today) - 🤖 Basic Discord Bot
 
 #### 🔨 My recent Pull Requests
 
