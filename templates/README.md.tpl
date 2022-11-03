@@ -6,9 +6,9 @@
 [![discord](https://img.shields.io/badge/Join_Discord-5865F2.svg?&style=flat-square&logo=discord&logoColor=white&link=https://discord.gg/rqNgRkvZsq)](https://discord.gg/rqNgRkvZsq)
 [![youtube](https://img.shields.io/youtube/channel/subscribers/UCnK7oWn1A7RvKiB19ZIECZg?style=social)](https://www.youtube.com/channel/UCnK7oWn1A7RvKiB19ZIECZg)
 [![twitch](https://img.shields.io/twitch/status/doc_landerf?style=social)](https://www.twitch.tv/doc_landerf)
-  
+
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/landerf0311)
-  
+
 </h3>
 
 <h3 align=center> APITSNT - Analyst Programmer IT System | Networks and Telecommunications oriented</h3>
@@ -89,24 +89,84 @@
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Drlanderf&theme=dark&date_format=j%20M%5B%20Y%5D" /></a>
 </a>
 </p>
- 
+
 
 
 ---
 <h2 align=center>DevOps Enthousiast</h2>
 <h2 align=center>
 Contact/hire me :
-  
+
 [![OUTLOOK](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)][hireme]
 
 </h3>
 <h5 align=center>Show some ❤️ by starring some of the repositories or dropping a follow!</h5>
-  
+
 ---
 
+## 📜 🇫🇷 My recent French videos
+<img src="https://img.shields.io/youtube/channel/subscribers/UCnK7oWn1A7RvKiB19ZIECZg?style=for-the-badge"></img>
+<table>
+{{range rss "https://www.youtube.com/feeds/videos.xml?channel_id=UCnK7oWn1A7RvKiB19ZIECZg" 10}}
+<tr>
+<td><img src="https://img.youtube.com/vi/{{slice .URL 32}}/default.jpg"></img></td>
+<td>
+<a href="{{.URL}}">{{.Title}}</a> ({{humanize .PublishedAt}}) <br/>
+<img src="https://img.shields.io/youtube/views/{{slice .URL 32}}?style=flat-square"> </img>
+</td>
+</tr>
+{{- end}}
+</table>
 
 
-  
+#### 👷 Check out what I'm currently working on
+{{range recentContributions 10}}
+- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
+{{- end}}
+
+#### 🌱 My latest projects
+{{range recentRepos 10}}
+- [{{.Name}}]({{.URL}}) - {{.Description}}
+{{- end}}
+
+
+#### 🔭 Latest releases I've contributed to
+{{range recentReleases 10}}
+- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
+{{- end}}
+
+#### 🔨 My recent Pull Requests
+{{range recentPullRequests 10}}
+- [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
+{{- end}}
+
+
+#### 📓 Gists I wrote
+{{range gists 5}}
+- [{{.Description}}]({{.URL}}) ({{humanize .CreatedAt}})
+{{- end}}
+
+#### ⭐ Recent Stars
+{{range recentStars 10}}
+- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
+{{- end}}
+
+#### ❤️ These awesome people sponsor me (thank you!)
+{{range sponsors 5}}
+- [{{.User.Login}}]({{.User.URL}}) ({{humanize .CreatedAt}})
+{{- end}}
+
+#### 👯 Check out some of my recent followers
+{{range followers 5}}
+- [{{.Login}}]({{.URL}})
+{{- end}}
+
+#### 💬 Feedback
+
+Say Hello, I don't bite (much)!
+
+
+
 <h5 align=center><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />Ce(tte) œuvre est mise à disposition selon les termes de la <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Licence Creative Commons Attribution - Pas d&#39;Utilisation Commerciale - Pas de Modification 4.0 International</a>.</h5>
 
 
