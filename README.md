@@ -137,16 +137,16 @@
 
 #### 🔨 My recent Pull Requests
 
+- [🔀 Updating readme](https://github.com/Drlanderf/clara_oswald/pull/61) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
+- [🚧 Updating dev branch](https://github.com/Drlanderf/clara_oswald/pull/60) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
+- [📝 Update README.md](https://github.com/Drlanderf/clara_oswald/pull/59) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
+- [🔀 Merge pull request #57 from Drlanderf/release](https://github.com/Drlanderf/clara_oswald/pull/58) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
+- [🔀 updating dev branch ](https://github.com/Drlanderf/clara_oswald/pull/57) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
 - [Beta](https://github.com/Drlanderf/clara_oswald/pull/56) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
 - [Alpha](https://github.com/Drlanderf/clara_oswald/pull/55) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
 - [👷 some CI update](https://github.com/Drlanderf/clara_oswald/pull/54) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
 - [🔀](https://github.com/Drlanderf/clara_oswald/pull/53) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
 - [👷Updating of CI/CD](https://github.com/Drlanderf/clara_oswald/pull/52) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
-- [👷Updating of CI/CD](https://github.com/Drlanderf/clara_oswald/pull/51) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
-- [some changes](https://github.com/Drlanderf/clara_oswald/pull/50) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
-- [Some changes](https://github.com/Drlanderf/clara_oswald/pull/49) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
-- [Beta](https://github.com/Drlanderf/clara_oswald/pull/48) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
-- [updating beta](https://github.com/Drlanderf/clara_oswald/pull/47) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
 
 #### 📓 Gists I wrote
 
