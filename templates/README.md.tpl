@@ -93,9 +93,7 @@
 ---
 
 ## 📜 Youtube French video
-
-[![youtube](https://img.shields.io/youtube/channel/subscribers/UCnK7oWn1A7RvKiB19ZIECZg?style=social)](https://www.youtube.com/channel/UCnK7oWn1A7RvKiB19ZIECZg)
-
+<img src="https://img.shields.io/youtube/channel/subscribers/UCnK7oWn1A7RvKiB19ZIECZg?style=for-the-badge"></img>
 <table>
 {{range rss "https://www.youtube.com/feeds/videos.xml?channel_id=UCnK7oWn1A7RvKiB19ZIECZg" 10}}
 <tr>
@@ -107,6 +105,7 @@
 </tr>
 {{- end}}
 </table>
+
 
 #### 👷 Check out what I'm currently working on
 {{range recentContributions 10}}
@@ -141,7 +140,6 @@
 
 
 
-<h5 align=center><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />Ce(tte) œuvre est mise à disposition selon les termes de la <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Licence Creative Commons Attribution - Pas d&#39;Utilisation Commerciale - Pas de Modification 4.0 International</a>.</h5>
 <h2 align=center>DevOps Enthousiast</h2>
 <h2 align=center>
 Contact/hire me :
@@ -150,5 +148,8 @@ Contact/hire me :
 
 </h3>
 <h5 align=center>Show some ❤️ by starring some of the repositories or dropping a follow!</h5>
+
+<h5 align=center><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />Ce(tte) œuvre est mise à disposition selon les termes de la <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Licence Creative Commons Attribution - Pas d&#39;Utilisation Commerciale - Pas de Modification 4.0 International</a>.</h5>
+
 
 [hireme]: mailto:lukas.paquay@outlook.be
