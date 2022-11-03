@@ -6,9 +6,9 @@
 [![discord](https://img.shields.io/badge/Join_Discord-5865F2.svg?&style=flat-square&logo=discord&logoColor=white&link=https://discord.gg/rqNgRkvZsq)](https://discord.gg/rqNgRkvZsq)
 [![youtube](https://img.shields.io/youtube/channel/subscribers/UCnK7oWn1A7RvKiB19ZIECZg?style=social)](https://www.youtube.com/channel/UCnK7oWn1A7RvKiB19ZIECZg)
 [![twitch](https://img.shields.io/twitch/status/doc_landerf?style=social)](https://www.twitch.tv/doc_landerf)
-  
+
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/landerf0311)
-  
+
 </h3>
 
 <h3 align=center> APITSNT - Analyst Programmer IT System | Networks and Telecommunications oriented</h3>
@@ -89,24 +89,105 @@
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Drlanderf&theme=dark&date_format=j%20M%5B%20Y%5D" /></a>
 </a>
 </p>
- 
+
 
 
 ---
 <h2 align=center>DevOps Enthousiast</h2>
 <h2 align=center>
 Contact/hire me :
-  
+
 [![OUTLOOK](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)][hireme]
 
 </h3>
 <h5 align=center>Show some ❤️ by starring some of the repositories or dropping a follow!</h5>
-  
+
 ---
 
+## 📜 🇫🇷 My recent French videos
+<img src="https://img.shields.io/youtube/channel/subscribers/UCnK7oWn1A7RvKiB19ZIECZg?style=for-the-badge"></img>
+<table>
+
+<tr>
+<td><img src="https://img.youtube.com/vi/_3ZPngikmQI/default.jpg"></img></td>
+<td>
+<a href="https://www.youtube.com/watch?v=_3ZPngikmQI">Faire son bot discord, préparation de l&#39;environnement de travail #00bis || Discord JS v14</a> (1 day ago) <br/>
+<img src="https://img.shields.io/youtube/views/_3ZPngikmQI?style=flat-square"> </img>
+</td>
+</tr>
+<tr>
+<td><img src="https://img.youtube.com/vi/3coo6NVhHLY/default.jpg"></img></td>
+<td>
+<a href="https://www.youtube.com/watch?v=3coo6NVhHLY">Faire son bot discord, préparation de l&#39;environnement de travail #00 || Discord.JS v14</a> (5 days ago) <br/>
+<img src="https://img.shields.io/youtube/views/3coo6NVhHLY?style=flat-square"> </img>
+</td>
+</tr>
+</table>
 
 
-  
+#### 👷 Check out what I'm currently working on
+
+- [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) -  (today)
+- [Drlanderf/DrLanderf](https://github.com/Drlanderf/DrLanderf) - Public (today)
+- [Drlanderf/youtube_bot](https://github.com/Drlanderf/youtube_bot) -  (1 day ago)
+- [Drlanderf/landerf_bot](https://github.com/Drlanderf/landerf_bot) -  (6 days ago)
+- [Drlanderf/CaisseManager](https://github.com/Drlanderf/CaisseManager) - Application de caisse enregistreuse en C# WPF MVVM Ready (1 month ago)
+- [Drlanderf/TestSQL](https://github.com/Drlanderf/TestSQL) - Some SQL testing (2 months ago)
+
+#### 🌱 My latest projects
+
+- [Drlanderf/youtube_bot](https://github.com/Drlanderf/youtube_bot) - 
+- [Drlanderf/DrLanderf](https://github.com/Drlanderf/DrLanderf) - Public
+- [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) - 
+- [Drlanderf/landerf_bot](https://github.com/Drlanderf/landerf_bot) - 
+- [Drlanderf/TestSQL](https://github.com/Drlanderf/TestSQL) - Some SQL testing
+- [Drlanderf/CaisseManager](https://github.com/Drlanderf/CaisseManager) - Application de caisse enregistreuse en C# WPF MVVM Ready
+
+
+#### 🔭 Latest releases I've contributed to
+
+- [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) ([v3.6.5-0](https://github.com/Drlanderf/clara_oswald/releases/tag/v3.6.5-0), today) - 
+
+#### 🔨 My recent Pull Requests
+
+- [Beta](https://github.com/Drlanderf/clara_oswald/pull/56) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
+- [Alpha](https://github.com/Drlanderf/clara_oswald/pull/55) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
+- [👷 some CI update](https://github.com/Drlanderf/clara_oswald/pull/54) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
+- [🔀](https://github.com/Drlanderf/clara_oswald/pull/53) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
+- [👷Updating of CI/CD](https://github.com/Drlanderf/clara_oswald/pull/52) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
+- [👷Updating of CI/CD](https://github.com/Drlanderf/clara_oswald/pull/51) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
+- [some changes](https://github.com/Drlanderf/clara_oswald/pull/50) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
+- [Some changes](https://github.com/Drlanderf/clara_oswald/pull/49) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
+- [Beta](https://github.com/Drlanderf/clara_oswald/pull/48) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
+- [updating beta](https://github.com/Drlanderf/clara_oswald/pull/47) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
+
+
+#### 📓 Gists I wrote
+
+
+#### ⭐ Recent Stars
+
+- [Drlanderf/gitmoji](https://github.com/Drlanderf/gitmoji) - An emoji guide for your commit messages. 😜  (2 days ago)
+- [Drlanderf/youtube_bot](https://github.com/Drlanderf/youtube_bot) -  (2 days ago)
+- [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) -  (3 days ago)
+- [Drlanderf/DrLanderf](https://github.com/Drlanderf/DrLanderf) - Public (4 days ago)
+- [Drlanderf/landerf_bot](https://github.com/Drlanderf/landerf_bot) -  (6 days ago)
+- [Drlanderf/CaisseManager](https://github.com/Drlanderf/CaisseManager) - Application de caisse enregistreuse en C# WPF MVVM Ready (2 months ago)
+
+#### ❤️ These awesome people sponsor me (thank you!)
+
+
+#### 👯 Check out some of my recent followers
+
+- [JMF386](https://github.com/JMF386)
+- [SlendyMilky](https://github.com/SlendyMilky)
+
+#### 💬 Feedback
+
+Say Hello, I don't bite (much)!
+
+
+
 <h5 align=center><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />Ce(tte) œuvre est mise à disposition selon les termes de la <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Licence Creative Commons Attribution - Pas d&#39;Utilisation Commerciale - Pas de Modification 4.0 International</a>.</h5>
 
 
