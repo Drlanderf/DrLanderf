@@ -90,18 +90,6 @@
 </a>
 </p>
 
-
-
----
-<h2 align=center>DevOps Enthousiast</h2>
-<h2 align=center>
-Contact/hire me :
-
-[![OUTLOOK](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)][hireme]
-
-</h3>
-<h5 align=center>Show some ❤️ by starring some of the repositories or dropping a follow!</h5>
-
 ---
 
 ## 📜 🇫🇷 My recent French videos
@@ -168,6 +156,13 @@ Say Hello, I don't bite (much)!
 
 
 <h5 align=center><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />Ce(tte) œuvre est mise à disposition selon les termes de la <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Licence Creative Commons Attribution - Pas d&#39;Utilisation Commerciale - Pas de Modification 4.0 International</a>.</h5>
+<h2 align=center>DevOps Enthousiast</h2>
+<h2 align=center>
+Contact/hire me :
 
+[![OUTLOOK](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)][hireme]
+
+</h3>
+<h5 align=center>Show some ❤️ by starring some of the repositories or dropping a follow!</h5>
 
 [hireme]: mailto:lukas.paquay@outlook.be
