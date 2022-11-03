@@ -28,6 +28,6 @@ jobs:
           git config user.name readme-scribe 🤖
           git config user.email actions@github.com
           git add .
-          git commit -m "locally generated"
+          git commit -m "📝 locally generated"
           git status
           git push origin main
