@@ -92,8 +92,10 @@
 
 ---
 
-## 📜 🇫🇷 My recent French videos
-<img src="https://img.shields.io/youtube/channel/subscribers/UCnK7oWn1A7RvKiB19ZIECZg?style=for-the-badge"></img>
+## 📜 Youtube French video
+
+[![youtube](https://img.shields.io/youtube/channel/subscribers/UCnK7oWn1A7RvKiB19ZIECZg?style=social)](https://www.youtube.com/channel/UCnK7oWn1A7RvKiB19ZIECZg)
+
 <table>
 {{range rss "https://www.youtube.com/feeds/videos.xml?channel_id=UCnK7oWn1A7RvKiB19ZIECZg" 10}}
 <tr>
@@ -106,7 +108,6 @@
 {{- end}}
 </table>
 
-
 #### 👷 Check out what I'm currently working on
 {{range recentContributions 10}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
@@ -116,7 +117,6 @@
 {{range recentRepos 10}}
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
-
 
 #### 🔭 Latest releases I've contributed to
 {{range recentReleases 10}}
@@ -128,15 +128,9 @@
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
-
 #### 📓 Gists I wrote
 {{range gists 5}}
 - [{{.Description}}]({{.URL}}) ({{humanize .CreatedAt}})
-{{- end}}
-
-#### ⭐ Recent Stars
-{{range recentStars 10}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
 {{- end}}
 
 #### ❤️ These awesome people sponsor me (thank you!)
@@ -144,14 +138,6 @@
 - [{{.User.Login}}]({{.User.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
-#### 👯 Check out some of my recent followers
-{{range followers 5}}
-- [{{.Login}}]({{.URL}})
-{{- end}}
-
-#### 💬 Feedback
-
-Say Hello, I don't bite (much)!
 
 
 
