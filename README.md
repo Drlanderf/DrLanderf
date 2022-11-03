@@ -8,8 +8,12 @@
 [![twitch](https://img.shields.io/twitch/status/doc_landerf?style=social)](https://www.twitch.tv/doc_landerf)
   
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/landerf0311)
-
+  
 </h3>
+
+<h3 align=center> APITSNT - Analyst Programmer IT System | Networks and Telecommunications oriented</h3>
+
+---
 
 ## 🧰 Technologies & Tools
 <h4 align=left>🎛️ Operating System used</h4>
