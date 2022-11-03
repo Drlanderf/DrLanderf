@@ -90,18 +90,6 @@
 </a>
 </p>
 
-
-
----
-<h2 align=center>DevOps Enthousiast</h2>
-<h2 align=center>
-Contact/hire me :
-
-[![OUTLOOK](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)][hireme]
-
-</h3>
-<h5 align=center>Show some ❤️ by starring some of the repositories or dropping a follow!</h5>
-
 ---
 
 ## 📜 🇫🇷 My recent French videos
@@ -150,6 +138,7 @@ Contact/hire me :
 
 #### 🔨 My recent Pull Requests
 
+- [🔀 Don&#39;t forget to update ur fork](https://github.com/PadawanNico21/clara_oswald/pull/1) on [PadawanNico21/clara_oswald](https://github.com/PadawanNico21/clara_oswald) (today)
 - [Beta](https://github.com/Drlanderf/clara_oswald/pull/56) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
 - [Alpha](https://github.com/Drlanderf/clara_oswald/pull/55) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
 - [👷 some CI update](https://github.com/Drlanderf/clara_oswald/pull/54) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
@@ -159,7 +148,6 @@ Contact/hire me :
 - [some changes](https://github.com/Drlanderf/clara_oswald/pull/50) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
 - [Some changes](https://github.com/Drlanderf/clara_oswald/pull/49) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
 - [Beta](https://github.com/Drlanderf/clara_oswald/pull/48) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
-- [updating beta](https://github.com/Drlanderf/clara_oswald/pull/47) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
 
 
 #### 📓 Gists I wrote
@@ -170,7 +158,6 @@ Contact/hire me :
 - [Drlanderf/gitmoji](https://github.com/Drlanderf/gitmoji) - An emoji guide for your commit messages. 😜  (2 days ago)
 - [Drlanderf/youtube_bot](https://github.com/Drlanderf/youtube_bot) -  (2 days ago)
 - [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) -  (3 days ago)
-- [Drlanderf/DrLanderf](https://github.com/Drlanderf/DrLanderf) - Public (4 days ago)
 - [Drlanderf/landerf_bot](https://github.com/Drlanderf/landerf_bot) -  (6 days ago)
 - [Drlanderf/CaisseManager](https://github.com/Drlanderf/CaisseManager) - Application de caisse enregistreuse en C# WPF MVVM Ready (2 months ago)
 
@@ -189,6 +176,13 @@ Say Hello, I don't bite (much)!
 
 
 <h5 align=center><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />Ce(tte) œuvre est mise à disposition selon les termes de la <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Licence Creative Commons Attribution - Pas d&#39;Utilisation Commerciale - Pas de Modification 4.0 International</a>.</h5>
+<h2 align=center>DevOps Enthousiast</h2>
+<h2 align=center>
+Contact/hire me :
 
+[![OUTLOOK](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)][hireme]
+
+</h3>
+<h5 align=center>Show some ❤️ by starring some of the repositories or dropping a follow!</h5>
 
 [hireme]: mailto:lukas.paquay@outlook.be
