@@ -99,14 +99,14 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/_3ZPngikmQI/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=_3ZPngikmQI">Faire son bot discord, préparation de l&#39;environnement de travail #00bis || Discord JS v14</a> (1 day ago) <br/>
+<a href="https://www.youtube.com/watch?v=_3ZPngikmQI">Faire son bot discord, préparation de l&#39;environnement de travail #00bis || Discord JS v14</a> (2 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/_3ZPngikmQI?style=flat-square"> </img>
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/3coo6NVhHLY/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=3coo6NVhHLY">Faire son bot discord, préparation de l&#39;environnement de travail #00 || Discord.JS v14</a> (5 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=3coo6NVhHLY">Faire son bot discord, préparation de l&#39;environnement de travail #00 || Discord.JS v14</a> (6 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/3coo6NVhHLY?style=flat-square"> </img>
 </td>
 </tr>
@@ -116,10 +116,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) - 🤖 Basic Discord Bot (today)
-- [Drlanderf/DrLanderf](https://github.com/Drlanderf/DrLanderf) - 🧑It&#39;s just me with some automation (today)
-- [Drlanderf/DrLanderf.github.io](https://github.com/Drlanderf/DrLanderf.github.io) - Probably a futur site  (today)
-- [Drlanderf/youtube_bot](https://github.com/Drlanderf/youtube_bot) - 🤖 Basic Discord Bot for youtube tutorial (1 day ago)
-- [Drlanderf/landerf_bot](https://github.com/Drlanderf/landerf_bot) -  (6 days ago)
+- [Drlanderf/DrLanderf](https://github.com/Drlanderf/DrLanderf) - 🧑It&#39;s just me with some automation (1 day ago)
+- [Drlanderf/DrLanderf.github.io](https://github.com/Drlanderf/DrLanderf.github.io) - Probably a futur site  (1 day ago)
+- [Drlanderf/youtube_bot](https://github.com/Drlanderf/youtube_bot) - 🤖 Basic Discord Bot for youtube tutorial (2 days ago)
+- [Drlanderf/landerf_bot](https://github.com/Drlanderf/landerf_bot) -  (1 week ago)
 - [Drlanderf/CaisseManager](https://github.com/Drlanderf/CaisseManager) - Application de caisse enregistreuse en C# WPF MVVM Ready (1 month ago)
 - [Drlanderf/TestSQL](https://github.com/Drlanderf/TestSQL) - Some SQL testing (2 months ago)
 
@@ -138,16 +138,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Dev](https://github.com/Drlanderf/clara_oswald/pull/66) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
-- [Dev](https://github.com/Drlanderf/clara_oswald/pull/65) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
-- [Dev](https://github.com/Drlanderf/clara_oswald/pull/64) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
-- [Dev](https://github.com/Drlanderf/clara_oswald/pull/63) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
-- [🚧 Updateing the release by dev](https://github.com/Drlanderf/clara_oswald/pull/62) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
-- [🔀 Updating readme](https://github.com/Drlanderf/clara_oswald/pull/61) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
-- [🚧 Updating dev branch](https://github.com/Drlanderf/clara_oswald/pull/60) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
-- [📝 Update README.md](https://github.com/Drlanderf/clara_oswald/pull/59) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
-- [🔀 Merge pull request #57 from Drlanderf/release](https://github.com/Drlanderf/clara_oswald/pull/58) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
-- [🔀 updating dev branch ](https://github.com/Drlanderf/clara_oswald/pull/57) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
+- [Dev](https://github.com/Drlanderf/clara_oswald/pull/67) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
+- [Dev](https://github.com/Drlanderf/clara_oswald/pull/66) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 day ago)
+- [Dev](https://github.com/Drlanderf/clara_oswald/pull/65) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 day ago)
+- [Dev](https://github.com/Drlanderf/clara_oswald/pull/64) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 day ago)
+- [Dev](https://github.com/Drlanderf/clara_oswald/pull/63) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 day ago)
+- [🚧 Updateing the release by dev](https://github.com/Drlanderf/clara_oswald/pull/62) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 day ago)
+- [🔀 Updating readme](https://github.com/Drlanderf/clara_oswald/pull/61) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 day ago)
+- [🚧 Updating dev branch](https://github.com/Drlanderf/clara_oswald/pull/60) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 day ago)
+- [📝 Update README.md](https://github.com/Drlanderf/clara_oswald/pull/59) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 day ago)
+- [🔀 Merge pull request #57 from Drlanderf/release](https://github.com/Drlanderf/clara_oswald/pull/58) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 day ago)
 
 #### 📓 Gists I wrote
 
