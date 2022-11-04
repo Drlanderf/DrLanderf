@@ -135,19 +135,20 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) ([v4.0.1-1](https://github.com/Drlanderf/clara_oswald/releases/tag/v4.0.1-1), today) - 🤖 Basic Discord Bot
 
 #### 🔨 My recent Pull Requests
 
+- [⏪️revert in release-it](https://github.com/Drlanderf/clara_oswald/pull/79) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
+- [🐛Clara oswald trying to work on auto release](https://github.com/Drlanderf/clara_oswald/pull/78) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
+- [🚧setup auto release](https://github.com/Drlanderf/clara_oswald/pull/77) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
+- [🎨change release drafter template](https://github.com/Drlanderf/clara_oswald/pull/76) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
+- [🎨 some change for the template &#43; backup the old](https://github.com/Drlanderf/clara_oswald/pull/75) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
+- [🚧dockerfile fixing](https://github.com/Drlanderf/clara_oswald/pull/74) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
+- [🐛 Bug Fixes](https://github.com/Drlanderf/clara_oswald/pull/73) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
 - [👷 Some workflow changes](https://github.com/Drlanderf/clara_oswald/pull/72) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
 - [⚡️Automatisation envfile](https://github.com/Drlanderf/clara_oswald/pull/71) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
 - [Automation .env templace](https://github.com/Drlanderf/clara_oswald/pull/70) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
-- [Update](https://github.com/Drlanderf/clara_oswald/pull/69) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
-- [🚀 Deploy new feature](https://github.com/Drlanderf/clara_oswald/pull/68) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
-- [Dev](https://github.com/Drlanderf/clara_oswald/pull/67) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
-- [Dev](https://github.com/Drlanderf/clara_oswald/pull/66) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 day ago)
-- [Dev](https://github.com/Drlanderf/clara_oswald/pull/65) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 day ago)
-- [Dev](https://github.com/Drlanderf/clara_oswald/pull/64) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 day ago)
-- [Dev](https://github.com/Drlanderf/clara_oswald/pull/63) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 day ago)
 
 #### 📓 Gists I wrote
 
