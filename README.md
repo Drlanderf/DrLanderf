@@ -138,6 +138,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [👷 Some workflow changes](https://github.com/Drlanderf/clara_oswald/pull/72) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
+- [⚡️Automatisation envfile](https://github.com/Drlanderf/clara_oswald/pull/71) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
 - [Automation .env templace](https://github.com/Drlanderf/clara_oswald/pull/70) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
 - [Update](https://github.com/Drlanderf/clara_oswald/pull/69) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
 - [🚀 Deploy new feature](https://github.com/Drlanderf/clara_oswald/pull/68) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
@@ -146,8 +148,6 @@
 - [Dev](https://github.com/Drlanderf/clara_oswald/pull/65) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 day ago)
 - [Dev](https://github.com/Drlanderf/clara_oswald/pull/64) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 day ago)
 - [Dev](https://github.com/Drlanderf/clara_oswald/pull/63) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 day ago)
-- [🚧 Updateing the release by dev](https://github.com/Drlanderf/clara_oswald/pull/62) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 day ago)
-- [🔀 Updating readme](https://github.com/Drlanderf/clara_oswald/pull/61) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 day ago)
 
 #### 📓 Gists I wrote
 
