@@ -138,16 +138,16 @@
 
 #### 🔨 My recent Pull Requests
 
+- [✨ AutoLog with embed](https://github.com/Drlanderf/clara_oswald/pull/90) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
+- [🐛✨ Fixed Intents and add a log feature(beta)](https://github.com/Drlanderf/clara_oswald/pull/89) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
+- [🐛 fix a bug about messageCreate.js](https://github.com/Drlanderf/clara_oswald/pull/88) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
+- [Revert &#34;🐛 fix a bug about messageCreate.js&#34;](https://github.com/Drlanderf/clara_oswald/pull/87) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
 - [🐛 fix a bug about messageCreate.js](https://github.com/Drlanderf/clara_oswald/pull/86) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
 - [✨ Added auto logging (#83)](https://github.com/Drlanderf/clara_oswald/pull/85) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
 - [Dev.autolog](https://github.com/Drlanderf/clara_oswald/pull/84) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
 - [✨ Added auto logging](https://github.com/Drlanderf/clara_oswald/pull/83) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
 - [🎨 Release.update template release](https://github.com/Drlanderf/clara_oswald/pull/82) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
 - [Release.synthax change](https://github.com/Drlanderf/clara_oswald/pull/81) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
-- [Test for auto release](https://github.com/Drlanderf/clara_oswald/pull/80) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
-- [⏪️revert in release-it](https://github.com/Drlanderf/clara_oswald/pull/79) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
-- [🐛Clara oswald trying to work on auto release](https://github.com/Drlanderf/clara_oswald/pull/78) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
-- [🚧setup auto release](https://github.com/Drlanderf/clara_oswald/pull/77) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
 
 #### 📓 Gists I wrote
 
