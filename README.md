@@ -138,6 +138,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [sync: release to dev](https://github.com/Drlanderf/clara_oswald/pull/96) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
+- [sync: release to dev](https://github.com/Drlanderf/clara_oswald/pull/95) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
+- [sync: release to dev](https://github.com/Drlanderf/clara_oswald/pull/94) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
 - [✨ Update the welcome message/canvas](https://github.com/Drlanderf/clara_oswald/pull/93) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
 - [🐳 Update of the Dockerfile](https://github.com/Drlanderf/clara_oswald/pull/92) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
 - [⚡️Improve portability of embed for defaut embed generator](https://github.com/Drlanderf/clara_oswald/pull/91) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
@@ -145,9 +148,6 @@
 - [🐛✨ Fixed Intents and add a log feature(beta)](https://github.com/Drlanderf/clara_oswald/pull/89) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
 - [🐛 fix a bug about messageCreate.js](https://github.com/Drlanderf/clara_oswald/pull/88) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
 - [Revert &#34;🐛 fix a bug about messageCreate.js&#34;](https://github.com/Drlanderf/clara_oswald/pull/87) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
-- [🐛 fix a bug about messageCreate.js](https://github.com/Drlanderf/clara_oswald/pull/86) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
-- [✨ Added auto logging (#83)](https://github.com/Drlanderf/clara_oswald/pull/85) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
-- [Dev.autolog](https://github.com/Drlanderf/clara_oswald/pull/84) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
 
 #### 📓 Gists I wrote
 
