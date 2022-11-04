@@ -138,16 +138,16 @@
 
 #### 🔨 My recent Pull Requests
 
+- [🐛 fix a bug about messageCreate.js](https://github.com/Drlanderf/clara_oswald/pull/86) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
+- [✨ Added auto logging (#83)](https://github.com/Drlanderf/clara_oswald/pull/85) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
+- [Dev.autolog](https://github.com/Drlanderf/clara_oswald/pull/84) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
+- [✨ Added auto logging](https://github.com/Drlanderf/clara_oswald/pull/83) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
+- [🎨 Release.update template release](https://github.com/Drlanderf/clara_oswald/pull/82) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
+- [Release.synthax change](https://github.com/Drlanderf/clara_oswald/pull/81) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
+- [Test for auto release](https://github.com/Drlanderf/clara_oswald/pull/80) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
 - [⏪️revert in release-it](https://github.com/Drlanderf/clara_oswald/pull/79) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
 - [🐛Clara oswald trying to work on auto release](https://github.com/Drlanderf/clara_oswald/pull/78) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
 - [🚧setup auto release](https://github.com/Drlanderf/clara_oswald/pull/77) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
-- [🎨change release drafter template](https://github.com/Drlanderf/clara_oswald/pull/76) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
-- [🎨 some change for the template &#43; backup the old](https://github.com/Drlanderf/clara_oswald/pull/75) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
-- [🚧dockerfile fixing](https://github.com/Drlanderf/clara_oswald/pull/74) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
-- [🐛 Bug Fixes](https://github.com/Drlanderf/clara_oswald/pull/73) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
-- [👷 Some workflow changes](https://github.com/Drlanderf/clara_oswald/pull/72) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
-- [⚡️Automatisation envfile](https://github.com/Drlanderf/clara_oswald/pull/71) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
-- [Automation .env templace](https://github.com/Drlanderf/clara_oswald/pull/70) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
 
 #### 📓 Gists I wrote
 
