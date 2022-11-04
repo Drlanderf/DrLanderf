@@ -138,6 +138,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [🐳 Update of the Dockerfile](https://github.com/Drlanderf/clara_oswald/pull/92) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
+- [⚡️Improve portability of embed for defaut embed generator](https://github.com/Drlanderf/clara_oswald/pull/91) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
 - [✨ AutoLog with embed](https://github.com/Drlanderf/clara_oswald/pull/90) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
 - [🐛✨ Fixed Intents and add a log feature(beta)](https://github.com/Drlanderf/clara_oswald/pull/89) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
 - [🐛 fix a bug about messageCreate.js](https://github.com/Drlanderf/clara_oswald/pull/88) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
@@ -146,8 +148,6 @@
 - [✨ Added auto logging (#83)](https://github.com/Drlanderf/clara_oswald/pull/85) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
 - [Dev.autolog](https://github.com/Drlanderf/clara_oswald/pull/84) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
 - [✨ Added auto logging](https://github.com/Drlanderf/clara_oswald/pull/83) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
-- [🎨 Release.update template release](https://github.com/Drlanderf/clara_oswald/pull/82) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
-- [Release.synthax change](https://github.com/Drlanderf/clara_oswald/pull/81) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
 
 #### 📓 Gists I wrote
 
