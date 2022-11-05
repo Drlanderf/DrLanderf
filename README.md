@@ -99,14 +99,14 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/_3ZPngikmQI/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=_3ZPngikmQI">Faire son bot discord, préparation de l&#39;environnement de travail #00bis || Discord JS v14</a> (2 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=_3ZPngikmQI">Faire son bot discord, préparation de l&#39;environnement de travail #00bis || Discord JS v14</a> (3 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/_3ZPngikmQI?style=flat-square"> </img>
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/3coo6NVhHLY/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=3coo6NVhHLY">Faire son bot discord, préparation de l&#39;environnement de travail #00 || Discord.JS v14</a> (6 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=3coo6NVhHLY">Faire son bot discord, préparation de l&#39;environnement de travail #00 || Discord.JS v14</a> (1 week ago) <br/>
 <img src="https://img.shields.io/youtube/views/3coo6NVhHLY?style=flat-square"> </img>
 </td>
 </tr>
@@ -116,11 +116,11 @@
 #### 👷 Check out what I'm currently working on
 
 - [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) - 🤖 Basic Discord Bot (today)
-- [Drlanderf/DrLanderf](https://github.com/Drlanderf/DrLanderf) - 🧑It&#39;s just me with some automation (1 day ago)
-- [Drlanderf/DrLanderf.github.io](https://github.com/Drlanderf/DrLanderf.github.io) - Probably a futur site  (1 day ago)
-- [Drlanderf/youtube_bot](https://github.com/Drlanderf/youtube_bot) - 🤖 Basic Discord Bot for youtube tutorial (2 days ago)
+- [Drlanderf/DrLanderf](https://github.com/Drlanderf/DrLanderf) - 🧑It&#39;s just me with some automation (2 days ago)
+- [Drlanderf/DrLanderf.github.io](https://github.com/Drlanderf/DrLanderf.github.io) - Probably a futur site  (2 days ago)
+- [Drlanderf/youtube_bot](https://github.com/Drlanderf/youtube_bot) - 🤖 Basic Discord Bot for youtube tutorial (3 days ago)
 - [Drlanderf/landerf_bot](https://github.com/Drlanderf/landerf_bot) -  (1 week ago)
-- [Drlanderf/CaisseManager](https://github.com/Drlanderf/CaisseManager) - Application de caisse enregistreuse en C# WPF MVVM Ready (1 month ago)
+- [Drlanderf/CaisseManager](https://github.com/Drlanderf/CaisseManager) - Application de caisse enregistreuse en C# WPF MVVM Ready (2 months ago)
 - [Drlanderf/TestSQL](https://github.com/Drlanderf/TestSQL) - Some SQL testing (2 months ago)
 
 #### 🌱 My latest projects
@@ -135,19 +135,20 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) ([v4.2.0](https://github.com/Drlanderf/clara_oswald/releases/tag/v4.2.0), 1 day ago) - 🤖 Basic Discord Bot
 
 #### 🔨 My recent Pull Requests
 
-- [@napi rs canvas welcome message](https://github.com/Drlanderf/clara_oswald/pull/97) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
-- [sync: release to dev](https://github.com/Drlanderf/clara_oswald/pull/96) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
-- [sync: release to dev](https://github.com/Drlanderf/clara_oswald/pull/95) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
-- [sync: release to dev](https://github.com/Drlanderf/clara_oswald/pull/94) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
-- [✨ Update the welcome message/canvas](https://github.com/Drlanderf/clara_oswald/pull/93) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
-- [🐳 Update of the Dockerfile](https://github.com/Drlanderf/clara_oswald/pull/92) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
-- [⚡️Improve portability of embed for defaut embed generator](https://github.com/Drlanderf/clara_oswald/pull/91) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
-- [✨ AutoLog with embed](https://github.com/Drlanderf/clara_oswald/pull/90) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
-- [🐛✨ Fixed Intents and add a log feature(beta)](https://github.com/Drlanderf/clara_oswald/pull/89) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
-- [🐛 fix a bug about messageCreate.js](https://github.com/Drlanderf/clara_oswald/pull/88) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
+- [🐛 guildMemberAdd canvas generator bugfix](https://github.com/Drlanderf/clara_oswald/pull/98) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 day ago)
+- [@napi rs canvas welcome message](https://github.com/Drlanderf/clara_oswald/pull/97) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 day ago)
+- [sync: release to dev](https://github.com/Drlanderf/clara_oswald/pull/96) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 day ago)
+- [sync: release to dev](https://github.com/Drlanderf/clara_oswald/pull/95) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 day ago)
+- [sync: release to dev](https://github.com/Drlanderf/clara_oswald/pull/94) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 day ago)
+- [✨ Update the welcome message/canvas](https://github.com/Drlanderf/clara_oswald/pull/93) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 day ago)
+- [🐳 Update of the Dockerfile](https://github.com/Drlanderf/clara_oswald/pull/92) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 day ago)
+- [⚡️Improve portability of embed for defaut embed generator](https://github.com/Drlanderf/clara_oswald/pull/91) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 day ago)
+- [✨ AutoLog with embed](https://github.com/Drlanderf/clara_oswald/pull/90) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 day ago)
+- [🐛✨ Fixed Intents and add a log feature(beta)](https://github.com/Drlanderf/clara_oswald/pull/89) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 day ago)
 
 #### 📓 Gists I wrote
 
