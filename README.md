@@ -145,6 +145,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [🐛 mongoDB log bugfix](https://github.com/Drlanderf/clara_oswald/pull/103) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
 - [🗃️ Release.mongo db implement](https://github.com/Drlanderf/clara_oswald/pull/102) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
 - [Release.check steam twitch notification](https://github.com/Drlanderf/clara_oswald/pull/101) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
 - [ ✅ Update yt:video: to have the last video in var](https://github.com/Drlanderf/clara_oswald/pull/99) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
@@ -154,7 +155,6 @@
 - [sync: release to dev](https://github.com/Drlanderf/clara_oswald/pull/95) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 day ago)
 - [sync: release to dev](https://github.com/Drlanderf/clara_oswald/pull/94) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 day ago)
 - [✨ Update the welcome message/canvas](https://github.com/Drlanderf/clara_oswald/pull/93) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 day ago)
-- [🐳 Update of the Dockerfile](https://github.com/Drlanderf/clara_oswald/pull/92) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 day ago)
 
 #### 📓 Gists I wrote
 
