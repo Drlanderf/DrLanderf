@@ -142,10 +142,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) ([v4.2.0](https://github.com/Drlanderf/clara_oswald/releases/tag/v4.2.0), 1 day ago) - 🤖 Basic Discord Bot
 
 #### 🔨 My recent Pull Requests
 
+- [ ✅ Update yt:video: to have the last video in var](https://github.com/Drlanderf/clara_oswald/pull/99) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
 - [🐛 guildMemberAdd canvas generator bugfix](https://github.com/Drlanderf/clara_oswald/pull/98) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 day ago)
 - [@napi rs canvas welcome message](https://github.com/Drlanderf/clara_oswald/pull/97) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 day ago)
 - [sync: release to dev](https://github.com/Drlanderf/clara_oswald/pull/96) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 day ago)
@@ -155,7 +155,6 @@
 - [🐳 Update of the Dockerfile](https://github.com/Drlanderf/clara_oswald/pull/92) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 day ago)
 - [⚡️Improve portability of embed for defaut embed generator](https://github.com/Drlanderf/clara_oswald/pull/91) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 day ago)
 - [✨ AutoLog with embed](https://github.com/Drlanderf/clara_oswald/pull/90) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 day ago)
-- [🐛✨ Fixed Intents and add a log feature(beta)](https://github.com/Drlanderf/clara_oswald/pull/89) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 day ago)
 
 #### 📓 Gists I wrote
 
