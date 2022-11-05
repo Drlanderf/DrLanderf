@@ -142,9 +142,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) ([v4.4.0](https://github.com/Drlanderf/clara_oswald/releases/tag/v4.4.0), today) - 🤖 Basic Discord Bot
 
 #### 🔨 My recent Pull Requests
 
+- [✨ Added the dbset command](https://github.com/Drlanderf/clara_oswald/pull/106) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
 - [🗃️ Imrpovement to prepare the passage of variable into mongoDB](https://github.com/Drlanderf/clara_oswald/pull/105) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
 - [✨ Twitch notification coming out !](https://github.com/Drlanderf/clara_oswald/pull/104) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
 - [🐛 mongoDB log bugfix](https://github.com/Drlanderf/clara_oswald/pull/103) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
@@ -154,7 +156,6 @@
 - [🐛 guildMemberAdd canvas generator bugfix](https://github.com/Drlanderf/clara_oswald/pull/98) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 day ago)
 - [@napi rs canvas welcome message](https://github.com/Drlanderf/clara_oswald/pull/97) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 day ago)
 - [sync: release to dev](https://github.com/Drlanderf/clara_oswald/pull/96) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 day ago)
-- [sync: release to dev](https://github.com/Drlanderf/clara_oswald/pull/95) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 day ago)
 
 #### 📓 Gists I wrote
 
