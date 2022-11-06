@@ -99,14 +99,14 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/vn788hCSlXI/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=vn788hCSlXI">Faire son bot discord,  Initialisation du bot #01 || Discord JS v14</a> (today) <br/>
+<a href="https://www.youtube.com/watch?v=vn788hCSlXI">Faire son bot discord,  Initialisation du bot #01 || Discord JS v14</a> (1 day ago) <br/>
 <img src="https://img.shields.io/youtube/views/vn788hCSlXI?style=flat-square"> </img>
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/_3ZPngikmQI/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=_3ZPngikmQI">Faire son bot discord, préparation de l&#39;environnement de travail #00bis || Discord JS v14</a> (3 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=_3ZPngikmQI">Faire son bot discord, préparation de l&#39;environnement de travail #00bis || Discord JS v14</a> (4 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/_3ZPngikmQI?style=flat-square"> </img>
 </td>
 </tr>
@@ -123,9 +123,9 @@
 #### 👷 Check out what I'm currently working on
 
 - [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) - 🤖 Basic Discord Bot (today)
-- [Drlanderf/DrLanderf](https://github.com/Drlanderf/DrLanderf) - 🧑It&#39;s just me with some automation (2 days ago)
-- [Drlanderf/DrLanderf.github.io](https://github.com/Drlanderf/DrLanderf.github.io) - Probably a futur site  (2 days ago)
-- [Drlanderf/youtube_bot](https://github.com/Drlanderf/youtube_bot) - 🤖 Basic Discord Bot for youtube tutorial (3 days ago)
+- [Drlanderf/DrLanderf](https://github.com/Drlanderf/DrLanderf) - 🧑It&#39;s just me with some automation (3 days ago)
+- [Drlanderf/DrLanderf.github.io](https://github.com/Drlanderf/DrLanderf.github.io) - Probably a futur site  (3 days ago)
+- [Drlanderf/youtube_bot](https://github.com/Drlanderf/youtube_bot) - 🤖 Basic Discord Bot for youtube tutorial (4 days ago)
 - [Drlanderf/landerf_bot](https://github.com/Drlanderf/landerf_bot) -  (1 week ago)
 - [Drlanderf/CaisseManager](https://github.com/Drlanderf/CaisseManager) - Application de caisse enregistreuse en C# WPF MVVM Ready (2 months ago)
 - [Drlanderf/TestSQL](https://github.com/Drlanderf/TestSQL) - Some SQL testing (2 months ago)
@@ -142,20 +142,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) ([v4.4.0](https://github.com/Drlanderf/clara_oswald/releases/tag/v4.4.0), today) - 🤖 Basic Discord Bot
 
 #### 🔨 My recent Pull Requests
 
-- [✨ Added the dbset command](https://github.com/Drlanderf/clara_oswald/pull/106) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
-- [🗃️ Imrpovement to prepare the passage of variable into mongoDB](https://github.com/Drlanderf/clara_oswald/pull/105) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
-- [✨ Twitch notification coming out !](https://github.com/Drlanderf/clara_oswald/pull/104) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
-- [🐛 mongoDB log bugfix](https://github.com/Drlanderf/clara_oswald/pull/103) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
-- [🗃️ Release.mongo db implement](https://github.com/Drlanderf/clara_oswald/pull/102) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
-- [Release.check steam twitch notification](https://github.com/Drlanderf/clara_oswald/pull/101) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
-- [ ✅ Update yt:video: to have the last video in var](https://github.com/Drlanderf/clara_oswald/pull/99) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
-- [🐛 guildMemberAdd canvas generator bugfix](https://github.com/Drlanderf/clara_oswald/pull/98) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 day ago)
-- [@napi rs canvas welcome message](https://github.com/Drlanderf/clara_oswald/pull/97) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 day ago)
-- [sync: release to dev](https://github.com/Drlanderf/clara_oswald/pull/96) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 day ago)
+- [🚀 Deploying DB use inside the most thing.](https://github.com/Drlanderf/clara_oswald/pull/108) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
+- [✏️Changing some FR typo into EN](https://github.com/Drlanderf/clara_oswald/pull/107) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 day ago)
+- [✨ Added the dbset command](https://github.com/Drlanderf/clara_oswald/pull/106) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 day ago)
+- [🗃️ Imrpovement to prepare the passage of variable into mongoDB](https://github.com/Drlanderf/clara_oswald/pull/105) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 day ago)
+- [✨ Twitch notification coming out !](https://github.com/Drlanderf/clara_oswald/pull/104) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 day ago)
+- [🐛 mongoDB log bugfix](https://github.com/Drlanderf/clara_oswald/pull/103) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 day ago)
+- [🗃️ Release.mongo db implement](https://github.com/Drlanderf/clara_oswald/pull/102) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 day ago)
+- [Release.check steam twitch notification](https://github.com/Drlanderf/clara_oswald/pull/101) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 day ago)
+- [ ✅ Update yt:video: to have the last video in var](https://github.com/Drlanderf/clara_oswald/pull/99) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 day ago)
+- [🐛 guildMemberAdd canvas generator bugfix](https://github.com/Drlanderf/clara_oswald/pull/98) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (2 days ago)
 
 #### 📓 Gists I wrote
 
