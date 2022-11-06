@@ -152,6 +152,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [💥 Checkout the description to have complete changelog](https://github.com/Drlanderf/clara_oswald/pull/110) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
 - [Release.working on some fix for discord bot](https://github.com/Drlanderf/clara_oswald/pull/109) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
 - [🚀 Deploying DB use inside the most thing.](https://github.com/Drlanderf/clara_oswald/pull/108) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
 - [✏️Changing some FR typo into EN](https://github.com/Drlanderf/clara_oswald/pull/107) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 day ago)
@@ -161,7 +162,6 @@
 - [🐛 mongoDB log bugfix](https://github.com/Drlanderf/clara_oswald/pull/103) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 day ago)
 - [🗃️ Release.mongo db implement](https://github.com/Drlanderf/clara_oswald/pull/102) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 day ago)
 - [Release.check steam twitch notification](https://github.com/Drlanderf/clara_oswald/pull/101) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 day ago)
-- [ ✅ Update yt:video: to have the last video in var](https://github.com/Drlanderf/clara_oswald/pull/99) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 day ago)
 
 #### 📓 Gists I wrote
 
