@@ -152,6 +152,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [🐛 some bugfix, work on 2 servers?](https://github.com/Drlanderf/clara_oswald/pull/112) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
+- [🐛 some bugfix](https://github.com/Drlanderf/clara_oswald/pull/111) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
 - [💥 Checkout the description to have complete changelog](https://github.com/Drlanderf/clara_oswald/pull/110) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
 - [Release.working on some fix for discord bot](https://github.com/Drlanderf/clara_oswald/pull/109) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
 - [🚀 Deploying DB use inside the most thing.](https://github.com/Drlanderf/clara_oswald/pull/108) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
@@ -160,8 +162,6 @@
 - [🗃️ Imrpovement to prepare the passage of variable into mongoDB](https://github.com/Drlanderf/clara_oswald/pull/105) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 day ago)
 - [✨ Twitch notification coming out !](https://github.com/Drlanderf/clara_oswald/pull/104) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 day ago)
 - [🐛 mongoDB log bugfix](https://github.com/Drlanderf/clara_oswald/pull/103) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 day ago)
-- [🗃️ Release.mongo db implement](https://github.com/Drlanderf/clara_oswald/pull/102) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 day ago)
-- [Release.check steam twitch notification](https://github.com/Drlanderf/clara_oswald/pull/101) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 day ago)
 
 #### 📓 Gists I wrote
 
