@@ -97,6 +97,13 @@
 <table>
 
 <tr>
+<td><img src="https://img.youtube.com/vi/i2cuaoF8dnc/default.jpg"></img></td>
+<td>
+<a href="https://www.youtube.com/watch?v=i2cuaoF8dnc">Test pour le bot, ne pas préter attention :)</a> (today) <br/>
+<img src="https://img.shields.io/youtube/views/i2cuaoF8dnc?style=flat-square"> </img>
+</td>
+</tr>
+<tr>
 <td><img src="https://img.youtube.com/vi/vn788hCSlXI/default.jpg"></img></td>
 <td>
 <a href="https://www.youtube.com/watch?v=vn788hCSlXI">Faire son bot discord,  Initialisation du bot #01 || Discord JS v14</a> (1 day ago) <br/>
@@ -145,6 +152,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Release.working on some fix for discord bot](https://github.com/Drlanderf/clara_oswald/pull/109) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
 - [🚀 Deploying DB use inside the most thing.](https://github.com/Drlanderf/clara_oswald/pull/108) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
 - [✏️Changing some FR typo into EN](https://github.com/Drlanderf/clara_oswald/pull/107) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 day ago)
 - [✨ Added the dbset command](https://github.com/Drlanderf/clara_oswald/pull/106) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 day ago)
@@ -154,7 +162,6 @@
 - [🗃️ Release.mongo db implement](https://github.com/Drlanderf/clara_oswald/pull/102) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 day ago)
 - [Release.check steam twitch notification](https://github.com/Drlanderf/clara_oswald/pull/101) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 day ago)
 - [ ✅ Update yt:video: to have the last video in var](https://github.com/Drlanderf/clara_oswald/pull/99) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 day ago)
-- [🐛 guildMemberAdd canvas generator bugfix](https://github.com/Drlanderf/clara_oswald/pull/98) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (2 days ago)
 
 #### 📓 Gists I wrote
 
