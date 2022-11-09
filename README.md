@@ -136,7 +136,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) - 🤖 Basic Discord Bot (1 day ago)
+- [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) - 🤖 Basic Discord Bot (today)
 - [Drlanderf/DrLanderf](https://github.com/Drlanderf/DrLanderf) - 🧑It&#39;s just me with some automation (6 days ago)
 - [Drlanderf/DrLanderf.github.io](https://github.com/Drlanderf/DrLanderf.github.io) - Probably a futur site  (6 days ago)
 - [Drlanderf/youtube_bot](https://github.com/Drlanderf/youtube_bot) - 🤖 Basic Discord Bot for youtube tutorial (1 week ago)
@@ -159,6 +159,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [🔀 the dev branch](https://github.com/Drlanderf/clara_oswald/pull/115) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
+- [Release.investigation about twitch and yt notification](https://github.com/Drlanderf/clara_oswald/pull/114) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
 - [💥 Checkout the description to have complete changelog](https://github.com/Drlanderf/clara_oswald/pull/113) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 day ago)
 - [🐛 some bugfix, work on 2 servers?](https://github.com/Drlanderf/clara_oswald/pull/112) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (3 days ago)
 - [🐛 some bugfix](https://github.com/Drlanderf/clara_oswald/pull/111) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (3 days ago)
@@ -167,8 +169,6 @@
 - [🚀 Deploying DB use inside the most thing.](https://github.com/Drlanderf/clara_oswald/pull/108) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (3 days ago)
 - [✏️Changing some FR typo into EN](https://github.com/Drlanderf/clara_oswald/pull/107) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (4 days ago)
 - [✨ Added the dbset command](https://github.com/Drlanderf/clara_oswald/pull/106) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (4 days ago)
-- [🗃️ Imrpovement to prepare the passage of variable into mongoDB](https://github.com/Drlanderf/clara_oswald/pull/105) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (4 days ago)
-- [✨ Twitch notification coming out !](https://github.com/Drlanderf/clara_oswald/pull/104) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (4 days ago)
 
 #### 📓 Gists I wrote
 
