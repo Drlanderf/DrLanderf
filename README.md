@@ -97,6 +97,13 @@
 <table>
 
 <tr>
+<td><img src="https://img.youtube.com/vi/vhtzdi7JxJk/default.jpg"></img></td>
+<td>
+<a href="https://www.youtube.com/watch?v=vhtzdi7JxJk">TUTO VMWARE ESXi vSphere - INSTALLATION XPENOLOGY</a> (today) <br/>
+<img src="https://img.shields.io/youtube/views/vhtzdi7JxJk?style=flat-square"> </img>
+</td>
+</tr>
+<tr>
 <td><img src="https://img.youtube.com/vi/i2cuaoF8dnc/default.jpg"></img></td>
 <td>
 <a href="https://www.youtube.com/watch?v=i2cuaoF8dnc">Test pour le bot, ne pas préter attention :)</a> (3 days ago) <br/>
