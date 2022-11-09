@@ -99,21 +99,21 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/i2cuaoF8dnc/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=i2cuaoF8dnc">Test pour le bot, ne pas préter attention :)</a> (2 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=i2cuaoF8dnc">Test pour le bot, ne pas préter attention :)</a> (3 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/i2cuaoF8dnc?style=flat-square"> </img>
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/vn788hCSlXI/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=vn788hCSlXI">Faire son bot discord,  Init du bot et le premier événement #01 || Discord JS v14</a> (3 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=vn788hCSlXI">Faire son bot discord,  Init du bot et le premier événement #01 || Discord JS v14</a> (4 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/vn788hCSlXI?style=flat-square"> </img>
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/_3ZPngikmQI/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=_3ZPngikmQI">Faire son bot discord, préparation de l&#39;environnement de travail #00bis || Discord JS v14</a> (6 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=_3ZPngikmQI">Faire son bot discord, préparation de l&#39;environnement de travail #00bis || Discord JS v14</a> (1 week ago) <br/>
 <img src="https://img.shields.io/youtube/views/_3ZPngikmQI?style=flat-square"> </img>
 </td>
 </tr>
@@ -129,10 +129,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) - 🤖 Basic Discord Bot (today)
-- [Drlanderf/DrLanderf](https://github.com/Drlanderf/DrLanderf) - 🧑It&#39;s just me with some automation (5 days ago)
-- [Drlanderf/DrLanderf.github.io](https://github.com/Drlanderf/DrLanderf.github.io) - Probably a futur site  (5 days ago)
-- [Drlanderf/youtube_bot](https://github.com/Drlanderf/youtube_bot) - 🤖 Basic Discord Bot for youtube tutorial (6 days ago)
+- [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) - 🤖 Basic Discord Bot (1 day ago)
+- [Drlanderf/DrLanderf](https://github.com/Drlanderf/DrLanderf) - 🧑It&#39;s just me with some automation (6 days ago)
+- [Drlanderf/DrLanderf.github.io](https://github.com/Drlanderf/DrLanderf.github.io) - Probably a futur site  (6 days ago)
+- [Drlanderf/youtube_bot](https://github.com/Drlanderf/youtube_bot) - 🤖 Basic Discord Bot for youtube tutorial (1 week ago)
 - [Drlanderf/landerf_bot](https://github.com/Drlanderf/landerf_bot) -  (1 week ago)
 - [Drlanderf/CaisseManager](https://github.com/Drlanderf/CaisseManager) - Application de caisse enregistreuse en C# WPF MVVM Ready (2 months ago)
 - [Drlanderf/TestSQL](https://github.com/Drlanderf/TestSQL) - Some SQL testing (2 months ago)
@@ -152,16 +152,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [💥 Checkout the description to have complete changelog](https://github.com/Drlanderf/clara_oswald/pull/113) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
-- [🐛 some bugfix, work on 2 servers?](https://github.com/Drlanderf/clara_oswald/pull/112) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (2 days ago)
-- [🐛 some bugfix](https://github.com/Drlanderf/clara_oswald/pull/111) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (2 days ago)
-- [💥 Checkout the description to have complete changelog](https://github.com/Drlanderf/clara_oswald/pull/110) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (2 days ago)
-- [Release.working on some fix for discord bot](https://github.com/Drlanderf/clara_oswald/pull/109) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (2 days ago)
-- [🚀 Deploying DB use inside the most thing.](https://github.com/Drlanderf/clara_oswald/pull/108) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (2 days ago)
-- [✏️Changing some FR typo into EN](https://github.com/Drlanderf/clara_oswald/pull/107) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (3 days ago)
-- [✨ Added the dbset command](https://github.com/Drlanderf/clara_oswald/pull/106) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (3 days ago)
-- [🗃️ Imrpovement to prepare the passage of variable into mongoDB](https://github.com/Drlanderf/clara_oswald/pull/105) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (3 days ago)
-- [✨ Twitch notification coming out !](https://github.com/Drlanderf/clara_oswald/pull/104) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (3 days ago)
+- [💥 Checkout the description to have complete changelog](https://github.com/Drlanderf/clara_oswald/pull/113) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 day ago)
+- [🐛 some bugfix, work on 2 servers?](https://github.com/Drlanderf/clara_oswald/pull/112) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (3 days ago)
+- [🐛 some bugfix](https://github.com/Drlanderf/clara_oswald/pull/111) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (3 days ago)
+- [💥 Checkout the description to have complete changelog](https://github.com/Drlanderf/clara_oswald/pull/110) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (3 days ago)
+- [Release.working on some fix for discord bot](https://github.com/Drlanderf/clara_oswald/pull/109) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (3 days ago)
+- [🚀 Deploying DB use inside the most thing.](https://github.com/Drlanderf/clara_oswald/pull/108) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (3 days ago)
+- [✏️Changing some FR typo into EN](https://github.com/Drlanderf/clara_oswald/pull/107) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (4 days ago)
+- [✨ Added the dbset command](https://github.com/Drlanderf/clara_oswald/pull/106) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (4 days ago)
+- [🗃️ Imrpovement to prepare the passage of variable into mongoDB](https://github.com/Drlanderf/clara_oswald/pull/105) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (4 days ago)
+- [✨ Twitch notification coming out !](https://github.com/Drlanderf/clara_oswald/pull/104) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (4 days ago)
 
 #### 📓 Gists I wrote
 
