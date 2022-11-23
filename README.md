@@ -97,6 +97,13 @@
 <table>
 
 <tr>
+<td><img src="https://img.youtube.com/vi/utYZApEPxWc/default.jpg"></img></td>
+<td>
+<a href="https://www.youtube.com/watch?v=utYZApEPxWc">TUTO VMWARE ESXi vSphere -  VIRTUALISER UN SYSTEME NAS SOUS VCENTER &#43; CONFIGURATION DE BASE</a> (today) <br/>
+<img src="https://img.shields.io/youtube/views/utYZApEPxWc?style=flat-square"> </img>
+</td>
+</tr>
+<tr>
 <td><img src="https://img.youtube.com/vi/vhtzdi7JxJk/default.jpg"></img></td>
 <td>
 <a href="https://www.youtube.com/watch?v=vhtzdi7JxJk">TUTO VMWARE ESXi vSphere - INSTALLATION XPENOLOGY</a> (2 weeks ago) <br/>
