@@ -99,7 +99,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/utYZApEPxWc/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=utYZApEPxWc">TUTO VMWARE ESXi vSphere -  VIRTUALISER UN SYSTEME NAS SOUS VCENTER &#43; CONFIGURATION DE BASE</a> (1 day ago) <br/>
+<a href="https://www.youtube.com/watch?v=utYZApEPxWc">TUTO VMWARE ESXi vSphere -  VIRTUALISER UN SYSTEME NAS SOUS VCENTER &#43; CONFIGURATION DE BASE</a> (2 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/utYZApEPxWc?style=flat-square"> </img>
 </td>
 </tr>
@@ -148,7 +148,7 @@
 - [Drlanderf/DrLanderf](https://github.com/Drlanderf/DrLanderf) - 🧑It&#39;s just me with some automation (3 weeks ago)
 - [Drlanderf/DrLanderf.github.io](https://github.com/Drlanderf/DrLanderf.github.io) - Probably a futur site  (3 weeks ago)
 - [Drlanderf/youtube_bot](https://github.com/Drlanderf/youtube_bot) - 🤖 Basic Discord Bot for youtube tutorial (3 weeks ago)
-- [Drlanderf/landerf_bot](https://github.com/Drlanderf/landerf_bot) -  (3 weeks ago)
+- [Drlanderf/landerf_bot](https://github.com/Drlanderf/landerf_bot) -  (4 weeks ago)
 - [Drlanderf/CaisseManager](https://github.com/Drlanderf/CaisseManager) - Application de caisse enregistreuse en C# WPF MVVM Ready (2 months ago)
 - [Drlanderf/TestSQL](https://github.com/Drlanderf/TestSQL) - Some SQL testing (2 months ago)
 
