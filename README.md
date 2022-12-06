@@ -113,7 +113,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/i2cuaoF8dnc/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=i2cuaoF8dnc">Test pour le bot, ne pas préter attention :)</a> (4 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=i2cuaoF8dnc">Test pour le bot, ne pas préter attention :)</a> (1 month ago) <br/>
 <img src="https://img.shields.io/youtube/views/i2cuaoF8dnc?style=flat-square"> </img>
 </td>
 </tr>
@@ -172,12 +172,12 @@
 - [Release.reorg](https://github.com/Drlanderf/clara_oswald/pull/116) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (3 weeks ago)
 - [🔀 the dev branch](https://github.com/Drlanderf/clara_oswald/pull/115) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (3 weeks ago)
 - [Release.investigation about twitch and yt notification](https://github.com/Drlanderf/clara_oswald/pull/114) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (3 weeks ago)
-- [💥 Checkout the description to have complete changelog](https://github.com/Drlanderf/clara_oswald/pull/113) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (3 weeks ago)
-- [🐛 some bugfix, work on 2 servers?](https://github.com/Drlanderf/clara_oswald/pull/112) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (4 weeks ago)
-- [🐛 some bugfix](https://github.com/Drlanderf/clara_oswald/pull/111) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (4 weeks ago)
-- [💥 Checkout the description to have complete changelog](https://github.com/Drlanderf/clara_oswald/pull/110) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (4 weeks ago)
-- [Release.working on some fix for discord bot](https://github.com/Drlanderf/clara_oswald/pull/109) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (4 weeks ago)
-- [🚀 Deploying DB use inside the most thing.](https://github.com/Drlanderf/clara_oswald/pull/108) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (4 weeks ago)
+- [💥 Checkout the description to have complete changelog](https://github.com/Drlanderf/clara_oswald/pull/113) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (4 weeks ago)
+- [🐛 some bugfix, work on 2 servers?](https://github.com/Drlanderf/clara_oswald/pull/112) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 month ago)
+- [🐛 some bugfix](https://github.com/Drlanderf/clara_oswald/pull/111) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 month ago)
+- [💥 Checkout the description to have complete changelog](https://github.com/Drlanderf/clara_oswald/pull/110) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 month ago)
+- [Release.working on some fix for discord bot](https://github.com/Drlanderf/clara_oswald/pull/109) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 month ago)
+- [🚀 Deploying DB use inside the most thing.](https://github.com/Drlanderf/clara_oswald/pull/108) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 month ago)
 
 #### 📓 Gists I wrote
 
