@@ -97,6 +97,13 @@
 <table>
 
 <tr>
+<td><img src="https://img.youtube.com/vi/F5J9y_rkVSk/default.jpg"></img></td>
+<td>
+<a href="https://www.youtube.com/watch?v=F5J9y_rkVSk">TUTO VMWARE ESXi vSphere - FAIRE UNE NFS DATASTORE DE A à Z</a> (today) <br/>
+<img src="https://img.shields.io/youtube/views/F5J9y_rkVSk?style=flat-square"> </img>
+</td>
+</tr>
+<tr>
 <td><img src="https://img.youtube.com/vi/utYZApEPxWc/default.jpg"></img></td>
 <td>
 <a href="https://www.youtube.com/watch?v=utYZApEPxWc">TUTO VMWARE ESXi vSphere -  VIRTUALISER UN SYSTEME NAS SOUS VCENTER &#43; CONFIGURATION DE BASE</a> (2 weeks ago) <br/>
