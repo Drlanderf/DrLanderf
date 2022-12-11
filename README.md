@@ -99,7 +99,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/F5J9y_rkVSk/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=F5J9y_rkVSk">TUTO VMWARE ESXi vSphere - FAIRE UNE NFS DATASTORE DE A à Z</a> (3 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=F5J9y_rkVSk">TUTO VMWARE ESXi vSphere - FAIRE UNE NFS DATASTORE DE A à Z</a> (4 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/F5J9y_rkVSk?style=flat-square"> </img>
 </td>
 </tr>
@@ -150,7 +150,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) - 🤖 Basic Discord Bot (today)
+- [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) - 🤖 Basic Discord Bot (1 day ago)
 - [Drlanderf/Some-Scripts](https://github.com/Drlanderf/Some-Scripts) - some usefull script for postinstall (4 weeks ago)
 - [Drlanderf/DrLanderf](https://github.com/Drlanderf/DrLanderf) - 🧑It&#39;s just me with some automation (1 month ago)
 - [Drlanderf/DrLanderf.github.io](https://github.com/Drlanderf/DrLanderf.github.io) - Probably a futur site  (1 month ago)
@@ -175,8 +175,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Release.welcome message change](https://github.com/Drlanderf/clara_oswald/pull/119) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 day ago)
-- [🎨 Refract with rss parser](https://github.com/Drlanderf/clara_oswald/pull/118) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 week ago)
+- [Release.welcome message change](https://github.com/Drlanderf/clara_oswald/pull/119) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (2 days ago)
+- [🎨 Refract with rss parser](https://github.com/Drlanderf/clara_oswald/pull/118) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (2 weeks ago)
 - [Release.reorg](https://github.com/Drlanderf/clara_oswald/pull/116) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (4 weeks ago)
 - [🔀 the dev branch](https://github.com/Drlanderf/clara_oswald/pull/115) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 month ago)
 - [Release.investigation about twitch and yt notification](https://github.com/Drlanderf/clara_oswald/pull/114) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 month ago)
