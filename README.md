@@ -175,6 +175,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Release.trying to implement social notif](https://github.com/Drlanderf/clara_oswald/pull/122) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
 - [✨ Introduce the rules buttons generator !](https://github.com/Drlanderf/clara_oswald/pull/121) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
 - [✨ Introduce the buttons !](https://github.com/Drlanderf/clara_oswald/pull/120) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
 - [Release.welcome message change](https://github.com/Drlanderf/clara_oswald/pull/119) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (3 days ago)
@@ -184,7 +185,6 @@
 - [Release.investigation about twitch and yt notification](https://github.com/Drlanderf/clara_oswald/pull/114) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 month ago)
 - [💥 Checkout the description to have complete changelog](https://github.com/Drlanderf/clara_oswald/pull/113) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 month ago)
 - [🐛 some bugfix, work on 2 servers?](https://github.com/Drlanderf/clara_oswald/pull/112) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 month ago)
-- [🐛 some bugfix](https://github.com/Drlanderf/clara_oswald/pull/111) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 month ago)
 
 #### 📓 Gists I wrote
 
