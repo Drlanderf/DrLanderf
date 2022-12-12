@@ -150,7 +150,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) - 🤖 Basic Discord Bot (2 days ago)
+- [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) - 🤖 Basic Discord Bot (today)
 - [Drlanderf/Some-Scripts](https://github.com/Drlanderf/Some-Scripts) - some usefull script for postinstall (1 month ago)
 - [Drlanderf/DrLanderf](https://github.com/Drlanderf/DrLanderf) - 🧑It&#39;s just me with some automation (1 month ago)
 - [Drlanderf/DrLanderf.github.io](https://github.com/Drlanderf/DrLanderf.github.io) - Probably a futur site  (1 month ago)
@@ -172,9 +172,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) ([v5.0.1](https://github.com/Drlanderf/clara_oswald/releases/tag/v5.0.1), today) - 🤖 Basic Discord Bot
 
 #### 🔨 My recent Pull Requests
 
+- [✨ Introduce the rules buttons generator !](https://github.com/Drlanderf/clara_oswald/pull/121) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
+- [✨ Introduce the buttons !](https://github.com/Drlanderf/clara_oswald/pull/120) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
 - [Release.welcome message change](https://github.com/Drlanderf/clara_oswald/pull/119) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (3 days ago)
 - [🎨 Refract with rss parser](https://github.com/Drlanderf/clara_oswald/pull/118) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (2 weeks ago)
 - [Release.reorg](https://github.com/Drlanderf/clara_oswald/pull/116) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 month ago)
@@ -183,8 +186,6 @@
 - [💥 Checkout the description to have complete changelog](https://github.com/Drlanderf/clara_oswald/pull/113) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 month ago)
 - [🐛 some bugfix, work on 2 servers?](https://github.com/Drlanderf/clara_oswald/pull/112) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 month ago)
 - [🐛 some bugfix](https://github.com/Drlanderf/clara_oswald/pull/111) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 month ago)
-- [💥 Checkout the description to have complete changelog](https://github.com/Drlanderf/clara_oswald/pull/110) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 month ago)
-- [Release.working on some fix for discord bot](https://github.com/Drlanderf/clara_oswald/pull/109) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 month ago)
 
 #### 📓 Gists I wrote
 
