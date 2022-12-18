@@ -150,7 +150,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) - 🤖 Basic Discord Bot (5 days ago)
+- [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) - 🤖 Basic Discord Bot (6 days ago)
 - [Drlanderf/Some-Scripts](https://github.com/Drlanderf/Some-Scripts) - some usefull script for postinstall (1 month ago)
 - [Drlanderf/DrLanderf](https://github.com/Drlanderf/DrLanderf) - 🧑It&#39;s just me with some automation (1 month ago)
 - [Drlanderf/DrLanderf.github.io](https://github.com/Drlanderf/DrLanderf.github.io) - Probably a futur site  (1 month ago)
@@ -175,11 +175,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Release.trying to implement social notif](https://github.com/Drlanderf/clara_oswald/pull/122) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (5 days ago)
-- [✨ Introduce the rules buttons generator !](https://github.com/Drlanderf/clara_oswald/pull/121) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (5 days ago)
-- [✨ Introduce the buttons !](https://github.com/Drlanderf/clara_oswald/pull/120) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (5 days ago)
+- [Release.trying to implement social notif](https://github.com/Drlanderf/clara_oswald/pull/122) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (6 days ago)
+- [✨ Introduce the rules buttons generator !](https://github.com/Drlanderf/clara_oswald/pull/121) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (6 days ago)
+- [✨ Introduce the buttons !](https://github.com/Drlanderf/clara_oswald/pull/120) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (6 days ago)
 - [Release.welcome message change](https://github.com/Drlanderf/clara_oswald/pull/119) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 week ago)
-- [🎨 Refract with rss parser](https://github.com/Drlanderf/clara_oswald/pull/118) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (2 weeks ago)
+- [🎨 Refract with rss parser](https://github.com/Drlanderf/clara_oswald/pull/118) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (3 weeks ago)
 - [Release.reorg](https://github.com/Drlanderf/clara_oswald/pull/116) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 month ago)
 - [🔀 the dev branch](https://github.com/Drlanderf/clara_oswald/pull/115) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 month ago)
 - [Release.investigation about twitch and yt notification](https://github.com/Drlanderf/clara_oswald/pull/114) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 month ago)
