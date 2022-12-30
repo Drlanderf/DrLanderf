@@ -186,7 +186,7 @@
 - [Release.trying to implement social notif](https://github.com/Drlanderf/clara_oswald/pull/122) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (2 weeks ago)
 - [✨ Introduce the rules buttons generator !](https://github.com/Drlanderf/clara_oswald/pull/121) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (2 weeks ago)
 - [✨ Introduce the buttons !](https://github.com/Drlanderf/clara_oswald/pull/120) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (2 weeks ago)
-- [Release.welcome message change](https://github.com/Drlanderf/clara_oswald/pull/119) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (2 weeks ago)
+- [Release.welcome message change](https://github.com/Drlanderf/clara_oswald/pull/119) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (3 weeks ago)
 - [🎨 Refract with rss parser](https://github.com/Drlanderf/clara_oswald/pull/118) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 month ago)
 - [Release.reorg](https://github.com/Drlanderf/clara_oswald/pull/116) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 month ago)
 - [🔀 the dev branch](https://github.com/Drlanderf/clara_oswald/pull/115) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 month ago)
