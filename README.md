@@ -99,14 +99,14 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/U4ItTLZWk2I/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=U4ItTLZWk2I">TUTO VMWARE ESXi vSphere - INSTALLER UN VCENTER DE A à Z</a> (1 week ago) <br/>
+<a href="https://www.youtube.com/watch?v=U4ItTLZWk2I">TUTO VMWARE ESXi vSphere - INSTALLER UN VCENTER DE A à Z</a> (2 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/U4ItTLZWk2I?style=flat-square"> </img>
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/F5J9y_rkVSk/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=F5J9y_rkVSk">TUTO VMWARE ESXi vSphere - FAIRE UNE NFS DATASTORE DE A à Z</a> (3 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=F5J9y_rkVSk">TUTO VMWARE ESXi vSphere - FAIRE UNE NFS DATASTORE DE A à Z</a> (4 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/F5J9y_rkVSk?style=flat-square"> </img>
 </td>
 </tr>
@@ -134,7 +134,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/vn788hCSlXI/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=vn788hCSlXI">Faire son bot discord,  Init du bot et le premier événement #01 || Discord JS v14</a> (1 month ago) <br/>
+<a href="https://www.youtube.com/watch?v=vn788hCSlXI">Faire son bot discord,  Init du bot et le premier événement #01 || Discord JS v14</a> (2 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/vn788hCSlXI?style=flat-square"> </img>
 </td>
 </tr>
@@ -157,13 +157,13 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) - 🤖 Basic Discord Bot (1 week ago)
+- [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) - 🤖 Basic Discord Bot (2 weeks ago)
 - [Drlanderf/Some-Scripts](https://github.com/Drlanderf/Some-Scripts) - some usefull script for postinstall (1 month ago)
 - [Drlanderf/DrLanderf](https://github.com/Drlanderf/DrLanderf) - 🧑It&#39;s just me with some automation (2 months ago)
 - [Drlanderf/DrLanderf.github.io](https://github.com/Drlanderf/DrLanderf.github.io) - Probably a futur site  (2 months ago)
 - [Drlanderf/youtube_bot](https://github.com/Drlanderf/youtube_bot) - 🤖 Basic Discord Bot for youtube tutorial (2 months ago)
 - [Drlanderf/landerf_bot](https://github.com/Drlanderf/landerf_bot) -  (2 months ago)
-- [Drlanderf/CaisseManager](https://github.com/Drlanderf/CaisseManager) - Application de caisse enregistreuse en C# WPF MVVM Ready (3 months ago)
+- [Drlanderf/CaisseManager](https://github.com/Drlanderf/CaisseManager) - Application de caisse enregistreuse en C# WPF MVVM Ready (4 months ago)
 - [Drlanderf/TestSQL](https://github.com/Drlanderf/TestSQL) - Some SQL testing (4 months ago)
 
 #### 🌱 My latest projects
@@ -182,7 +182,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Release.trying to implement social notif](https://github.com/Drlanderf/clara_oswald/pull/123) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 week ago)
+- [Release.trying to implement social notif](https://github.com/Drlanderf/clara_oswald/pull/123) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (2 weeks ago)
 - [Release.trying to implement social notif](https://github.com/Drlanderf/clara_oswald/pull/122) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (3 weeks ago)
 - [✨ Introduce the rules buttons generator !](https://github.com/Drlanderf/clara_oswald/pull/121) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (3 weeks ago)
 - [✨ Introduce the buttons !](https://github.com/Drlanderf/clara_oswald/pull/120) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (3 weeks ago)
