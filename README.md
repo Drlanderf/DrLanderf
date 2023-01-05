@@ -127,7 +127,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/i2cuaoF8dnc/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=i2cuaoF8dnc">Test pour le bot, ne pas préter attention :)</a> (1 month ago) <br/>
+<a href="https://www.youtube.com/watch?v=i2cuaoF8dnc">Test pour le bot, ne pas préter attention :)</a> (2 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/i2cuaoF8dnc?style=flat-square"> </img>
 </td>
 </tr>
