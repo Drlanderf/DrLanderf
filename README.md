@@ -157,7 +157,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) - 🤖 Basic Discord Bot (4 days ago)
+- [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) - 🤖 Basic Discord Bot (5 days ago)
 - [Drlanderf/Some-Scripts](https://github.com/Drlanderf/Some-Scripts) - some usefull script for postinstall (2 months ago)
 - [Drlanderf/DrLanderf](https://github.com/Drlanderf/DrLanderf) - 🧑It&#39;s just me with some automation (2 months ago)
 - [Drlanderf/DrLanderf.github.io](https://github.com/Drlanderf/DrLanderf.github.io) - Probably a futur site  (2 months ago)
@@ -179,11 +179,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) ([v5.1.0](https://github.com/Drlanderf/clara_oswald/releases/tag/v5.1.0), 4 days ago) - 🤖 Basic Discord Bot
+- [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) ([v5.1.0](https://github.com/Drlanderf/clara_oswald/releases/tag/v5.1.0), 5 days ago) - 🤖 Basic Discord Bot
 
 #### 🔨 My recent Pull Requests
 
-- [✨ Now talkasbot slashcommand use Modal to improve layout of your text](https://github.com/Drlanderf/clara_oswald/pull/125) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (4 days ago)
+- [✨ Now talkasbot slashcommand use Modal to improve layout of your text](https://github.com/Drlanderf/clara_oswald/pull/125) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (5 days ago)
 - [Release.trying to implement social notif](https://github.com/Drlanderf/clara_oswald/pull/123) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (3 weeks ago)
 - [Release.trying to implement social notif](https://github.com/Drlanderf/clara_oswald/pull/122) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 month ago)
 - [✨ Introduce the rules buttons generator !](https://github.com/Drlanderf/clara_oswald/pull/121) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 month ago)
