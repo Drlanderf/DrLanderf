@@ -99,7 +99,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/U4ItTLZWk2I/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=U4ItTLZWk2I">TUTO VMWARE ESXi vSphere - INSTALLER UN VCENTER DE A à Z</a> (4 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=U4ItTLZWk2I">TUTO VMWARE ESXi vSphere - INSTALLER UN VCENTER DE A à Z</a> (1 month ago) <br/>
 <img src="https://img.shields.io/youtube/views/U4ItTLZWk2I?style=flat-square"> </img>
 </td>
 </tr>
@@ -184,7 +184,7 @@
 #### 🔨 My recent Pull Requests
 
 - [✨ Now talkasbot slashcommand use Modal to improve layout of your text](https://github.com/Drlanderf/clara_oswald/pull/125) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 week ago)
-- [Release.trying to implement social notif](https://github.com/Drlanderf/clara_oswald/pull/123) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (4 weeks ago)
+- [Release.trying to implement social notif](https://github.com/Drlanderf/clara_oswald/pull/123) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 month ago)
 - [Release.trying to implement social notif](https://github.com/Drlanderf/clara_oswald/pull/122) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 month ago)
 - [✨ Introduce the rules buttons generator !](https://github.com/Drlanderf/clara_oswald/pull/121) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 month ago)
 - [✨ Introduce the buttons !](https://github.com/Drlanderf/clara_oswald/pull/120) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 month ago)
