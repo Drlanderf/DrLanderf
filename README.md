@@ -157,21 +157,22 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Drlanderf/Dossier_Unix_2020](https://github.com/Drlanderf/Dossier_Unix_2020) -  (today)
+- [Drlanderf/Dossier_Unix_2020](https://github.com/Drlanderf/Dossier_Unix_2020) - 📚School project (today)
 - [Drlanderf/DrLanderf](https://github.com/Drlanderf/DrLanderf) - 🧑It&#39;s just me with some automation (today)
-- [Drlanderf/heplgarage](https://github.com/Drlanderf/heplgarage) -  (today)
+- [Drlanderf/Blockudoku](https://github.com/Drlanderf/Blockudoku) - 📚School project (today)
+- [Drlanderf/heplgarage](https://github.com/Drlanderf/heplgarage) - 📚School project (today)
 - [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) - 🤖 Basic Discord Bot (1 week ago)
 - [Drlanderf/Some-Scripts](https://github.com/Drlanderf/Some-Scripts) - some usefull script for postinstall (2 months ago)
 - [Drlanderf/DrLanderf.github.io](https://github.com/Drlanderf/DrLanderf.github.io) - Probably a futur site  (2 months ago)
 - [Drlanderf/youtube_bot](https://github.com/Drlanderf/youtube_bot) - 🤖 Basic Discord Bot for youtube tutorial (2 months ago)
 - [Drlanderf/landerf_bot](https://github.com/Drlanderf/landerf_bot) -  (2 months ago)
 - [Drlanderf/CaisseManager](https://github.com/Drlanderf/CaisseManager) - Application de caisse enregistreuse en C# WPF MVVM Ready (4 months ago)
-- [Drlanderf/TestSQL](https://github.com/Drlanderf/TestSQL) - Some SQL testing (4 months ago)
 
 #### 🌱 My latest projects
 
-- [Drlanderf/Dossier_Unix_2020](https://github.com/Drlanderf/Dossier_Unix_2020) - 
-- [Drlanderf/heplgarage](https://github.com/Drlanderf/heplgarage) - 
+- [Drlanderf/Blockudoku](https://github.com/Drlanderf/Blockudoku) - 📚School project
+- [Drlanderf/Dossier_Unix_2020](https://github.com/Drlanderf/Dossier_Unix_2020) - 📚School project
+- [Drlanderf/heplgarage](https://github.com/Drlanderf/heplgarage) - 📚School project
 - [Drlanderf/Some-Scripts](https://github.com/Drlanderf/Some-Scripts) - some usefull script for postinstall
 - [Drlanderf/DrLanderf.github.io](https://github.com/Drlanderf/DrLanderf.github.io) - Probably a futur site 
 - [Drlanderf/youtube_bot](https://github.com/Drlanderf/youtube_bot) - 🤖 Basic Discord Bot for youtube tutorial
@@ -179,7 +180,6 @@
 - [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) - 🤖 Basic Discord Bot
 - [Drlanderf/landerf_bot](https://github.com/Drlanderf/landerf_bot) - 
 - [Drlanderf/TestSQL](https://github.com/Drlanderf/TestSQL) - Some SQL testing
-- [Drlanderf/CaisseManager](https://github.com/Drlanderf/CaisseManager) - Application de caisse enregistreuse en C# WPF MVVM Ready
 
 #### 🔭 Latest releases I've contributed to
 
