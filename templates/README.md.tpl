@@ -11,7 +11,7 @@
 
 </h3>
 
-<h3 align=center> APITSNT - Analyst Programmer IT System | Networks and Telecommunications oriented</h3>
+<h3 align=center> APITSNT - Analyst Programmer IT System | Networks and Telecommunications oriented Student</h3>
 
 ---
 
