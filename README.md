@@ -113,7 +113,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/utYZApEPxWc/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=utYZApEPxWc">TUTO VMWARE ESXi vSphere -  VIRTUALISER UN SYSTEME NAS SOUS VCENTER &#43; CONFIGURATION DE BASE</a> (1 month ago) <br/>
+<a href="https://www.youtube.com/watch?v=utYZApEPxWc">TUTO VMWARE ESXi vSphere -  VIRTUALISER UN SYSTEME NAS SOUS VCENTER &#43; CONFIGURATION DE BASE</a> (2 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/utYZApEPxWc?style=flat-square"> </img>
 </td>
 </tr>
@@ -157,11 +157,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Drlanderf/Dossier_Unix_2020](https://github.com/Drlanderf/Dossier_Unix_2020) - 📚School project (today)
-- [Drlanderf/DrLanderf](https://github.com/Drlanderf/DrLanderf) - 🧑It&#39;s just me with some automation (today)
-- [Drlanderf/Blockudoku](https://github.com/Drlanderf/Blockudoku) - 📚School project (today)
-- [Drlanderf/heplgarage](https://github.com/Drlanderf/heplgarage) - 📚School project (today)
-- [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) - 🤖 Basic Discord Bot (1 week ago)
+- [Drlanderf/Dossier_Unix_2020](https://github.com/Drlanderf/Dossier_Unix_2020) - 📚School project (1 day ago)
+- [Drlanderf/DrLanderf](https://github.com/Drlanderf/DrLanderf) - 🧑It&#39;s just me with some automation (1 day ago)
+- [Drlanderf/Blockudoku](https://github.com/Drlanderf/Blockudoku) - 📚School project (1 day ago)
+- [Drlanderf/heplgarage](https://github.com/Drlanderf/heplgarage) - 📚School project (1 day ago)
+- [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) - 🤖 Basic Discord Bot (2 weeks ago)
 - [Drlanderf/Some-Scripts](https://github.com/Drlanderf/Some-Scripts) - some usefull script for postinstall (2 months ago)
 - [Drlanderf/DrLanderf.github.io](https://github.com/Drlanderf/DrLanderf.github.io) - Probably a futur site  (2 months ago)
 - [Drlanderf/youtube_bot](https://github.com/Drlanderf/youtube_bot) - 🤖 Basic Discord Bot for youtube tutorial (2 months ago)
@@ -183,11 +183,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) ([v5.1.0](https://github.com/Drlanderf/clara_oswald/releases/tag/v5.1.0), 1 week ago) - 🤖 Basic Discord Bot
+- [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) ([v5.1.0](https://github.com/Drlanderf/clara_oswald/releases/tag/v5.1.0), 2 weeks ago) - 🤖 Basic Discord Bot
 
 #### 🔨 My recent Pull Requests
 
-- [✨ Now talkasbot slashcommand use Modal to improve layout of your text](https://github.com/Drlanderf/clara_oswald/pull/125) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 week ago)
+- [✨ Now talkasbot slashcommand use Modal to improve layout of your text](https://github.com/Drlanderf/clara_oswald/pull/125) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (2 weeks ago)
 - [Release.trying to implement social notif](https://github.com/Drlanderf/clara_oswald/pull/123) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 month ago)
 - [Release.trying to implement social notif](https://github.com/Drlanderf/clara_oswald/pull/122) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 month ago)
 - [✨ Introduce the rules buttons generator !](https://github.com/Drlanderf/clara_oswald/pull/121) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 month ago)
