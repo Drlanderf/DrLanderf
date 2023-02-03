@@ -134,7 +134,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/vn788hCSlXI/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=vn788hCSlXI">Faire son bot discord,  Init du bot et le premier événement #01 || Discord JS v14</a> (2 months ago) <br/>
+<a href="https://www.youtube.com/watch?v=vn788hCSlXI">Faire son bot discord,  Init du bot et le premier événement #01 || Discord JS v14</a> (3 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/vn788hCSlXI?style=flat-square"> </img>
 </td>
 </tr>
@@ -166,7 +166,7 @@
 - [Drlanderf/DrLanderf.github.io](https://github.com/Drlanderf/DrLanderf.github.io) - Probably a futur site  (3 months ago)
 - [Drlanderf/youtube_bot](https://github.com/Drlanderf/youtube_bot) - 🤖 Basic Discord Bot for youtube tutorial (3 months ago)
 - [Drlanderf/landerf_bot](https://github.com/Drlanderf/landerf_bot) -  (3 months ago)
-- [Drlanderf/CaisseManager](https://github.com/Drlanderf/CaisseManager) - Application de caisse enregistreuse en C# WPF MVVM Ready (4 months ago)
+- [Drlanderf/CaisseManager](https://github.com/Drlanderf/CaisseManager) - Application de caisse enregistreuse en C# WPF MVVM Ready (5 months ago)
 
 #### 🌱 My latest projects
 
