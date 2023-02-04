@@ -127,7 +127,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/i2cuaoF8dnc/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=i2cuaoF8dnc">Test pour le bot, ne pas préter attention :)</a> (2 months ago) <br/>
+<a href="https://www.youtube.com/watch?v=i2cuaoF8dnc">Test pour le bot, ne pas préter attention :)</a> (3 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/i2cuaoF8dnc?style=flat-square"> </img>
 </td>
 </tr>
@@ -157,10 +157,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Drlanderf/Dossier_Unix_2020](https://github.com/Drlanderf/Dossier_Unix_2020) - 📚School project (1 week ago)
-- [Drlanderf/DrLanderf](https://github.com/Drlanderf/DrLanderf) - 🧑It&#39;s just me with some automation (1 week ago)
-- [Drlanderf/Blockudoku](https://github.com/Drlanderf/Blockudoku) - 📚School project (1 week ago)
-- [Drlanderf/heplgarage](https://github.com/Drlanderf/heplgarage) - 📚School project (1 week ago)
+- [Drlanderf/Dossier_Unix_2020](https://github.com/Drlanderf/Dossier_Unix_2020) - 📚School project (2 weeks ago)
+- [Drlanderf/DrLanderf](https://github.com/Drlanderf/DrLanderf) - 🧑It&#39;s just me with some automation (2 weeks ago)
+- [Drlanderf/Blockudoku](https://github.com/Drlanderf/Blockudoku) - 📚School project (2 weeks ago)
+- [Drlanderf/heplgarage](https://github.com/Drlanderf/heplgarage) - 📚School project (2 weeks ago)
 - [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) - 🤖 Basic Discord Bot (3 weeks ago)
 - [Drlanderf/Some-Scripts](https://github.com/Drlanderf/Some-Scripts) - some usefull script for postinstall (2 months ago)
 - [Drlanderf/DrLanderf.github.io](https://github.com/Drlanderf/DrLanderf.github.io) - Probably a futur site  (3 months ago)
