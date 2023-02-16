@@ -157,11 +157,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Drlanderf/Dossier_Unix_2020](https://github.com/Drlanderf/Dossier_Unix_2020) - 📚School project (3 weeks ago)
+- [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) - 🤖 Basic Discord Bot (today)
 - [Drlanderf/DrLanderf](https://github.com/Drlanderf/DrLanderf) - 🧑It&#39;s just me with some automation (3 weeks ago)
 - [Drlanderf/Blockudoku](https://github.com/Drlanderf/Blockudoku) - 📚School project (3 weeks ago)
+- [Drlanderf/Dossier_Unix_2020](https://github.com/Drlanderf/Dossier_Unix_2020) - 📚School project (3 weeks ago)
 - [Drlanderf/heplgarage](https://github.com/Drlanderf/heplgarage) - 📚School project (3 weeks ago)
-- [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) - 🤖 Basic Discord Bot (1 month ago)
 - [Drlanderf/Some-Scripts](https://github.com/Drlanderf/Some-Scripts) - some usefull script for postinstall (3 months ago)
 - [Drlanderf/DrLanderf.github.io](https://github.com/Drlanderf/DrLanderf.github.io) - Probably a futur site  (3 months ago)
 - [Drlanderf/youtube_bot](https://github.com/Drlanderf/youtube_bot) - 🤖 Basic Discord Bot for youtube tutorial (3 months ago)
@@ -183,10 +183,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) ([v5.1.0](https://github.com/Drlanderf/clara_oswald/releases/tag/v5.1.0), 1 month ago) - 🤖 Basic Discord Bot
 
 #### 🔨 My recent Pull Requests
 
+- [🐛 Working on a bug with Youtube notification spam](https://github.com/Drlanderf/clara_oswald/pull/126) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
 - [✨ Now talkasbot slashcommand use Modal to improve layout of your text](https://github.com/Drlanderf/clara_oswald/pull/125) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 month ago)
 - [Release.trying to implement social notif](https://github.com/Drlanderf/clara_oswald/pull/123) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 month ago)
 - [Release.trying to implement social notif](https://github.com/Drlanderf/clara_oswald/pull/122) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (2 months ago)
@@ -196,7 +196,6 @@
 - [🎨 Refract with rss parser](https://github.com/Drlanderf/clara_oswald/pull/118) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (2 months ago)
 - [Release.reorg](https://github.com/Drlanderf/clara_oswald/pull/116) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (3 months ago)
 - [🔀 the dev branch](https://github.com/Drlanderf/clara_oswald/pull/115) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (3 months ago)
-- [Release.investigation about twitch and yt notification](https://github.com/Drlanderf/clara_oswald/pull/114) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (3 months ago)
 
 #### 📓 Gists I wrote
 
