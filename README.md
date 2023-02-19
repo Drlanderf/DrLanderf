@@ -99,7 +99,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/U4ItTLZWk2I/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=U4ItTLZWk2I">TUTO VMWARE ESXi vSphere - INSTALLER UN VCENTER DE A à Z</a> (1 month ago) <br/>
+<a href="https://www.youtube.com/watch?v=U4ItTLZWk2I">TUTO VMWARE ESXi vSphere - INSTALLER UN VCENTER DE A à Z</a> (2 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/U4ItTLZWk2I?style=flat-square"> </img>
 </td>
 </tr>
@@ -157,7 +157,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) - 🤖 Basic Discord Bot (2 days ago)
+- [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) - 🤖 Basic Discord Bot (3 days ago)
 - [Drlanderf/DrLanderf](https://github.com/Drlanderf/DrLanderf) - 🧑It&#39;s just me with some automation (4 weeks ago)
 - [Drlanderf/Blockudoku](https://github.com/Drlanderf/Blockudoku) - 📚School project (4 weeks ago)
 - [Drlanderf/Dossier_Unix_2020](https://github.com/Drlanderf/Dossier_Unix_2020) - 📚School project (4 weeks ago)
@@ -186,9 +186,9 @@
 
 #### 🔨 My recent Pull Requests
 
-- [🐛 Working on a bug with Youtube notification spam](https://github.com/Drlanderf/clara_oswald/pull/126) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (2 days ago)
+- [🐛 Working on a bug with Youtube notification spam](https://github.com/Drlanderf/clara_oswald/pull/126) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (3 days ago)
 - [✨ Now talkasbot slashcommand use Modal to improve layout of your text](https://github.com/Drlanderf/clara_oswald/pull/125) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 month ago)
-- [Release.trying to implement social notif](https://github.com/Drlanderf/clara_oswald/pull/123) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 month ago)
+- [Release.trying to implement social notif](https://github.com/Drlanderf/clara_oswald/pull/123) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (2 months ago)
 - [Release.trying to implement social notif](https://github.com/Drlanderf/clara_oswald/pull/122) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (2 months ago)
 - [✨ Introduce the rules buttons generator !](https://github.com/Drlanderf/clara_oswald/pull/121) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (2 months ago)
 - [✨ Introduce the buttons !](https://github.com/Drlanderf/clara_oswald/pull/120) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (2 months ago)
