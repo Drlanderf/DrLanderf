@@ -157,19 +157,20 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [Drlanderf/Dossier_JAVA_2023](https://github.com/Drlanderf/Dossier_JAVA_2023) -  (today)
 - [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) - 🤖 Basic Discord Bot (5 days ago)
 - [Drlanderf/DrLanderf](https://github.com/Drlanderf/DrLanderf) - 🧑It&#39;s just me with some automation (2 months ago)
+- [Drlanderf/heplgarage](https://github.com/Drlanderf/heplgarage) - 📚School project (2 months ago)
 - [Drlanderf/Blockudoku](https://github.com/Drlanderf/Blockudoku) - 📚School project (2 months ago)
 - [Drlanderf/Dossier_Unix_2020](https://github.com/Drlanderf/Dossier_Unix_2020) - 📚School project (2 months ago)
-- [Drlanderf/heplgarage](https://github.com/Drlanderf/heplgarage) - 📚School project (2 months ago)
 - [Drlanderf/Some-Scripts](https://github.com/Drlanderf/Some-Scripts) - some usefull script for postinstall (4 months ago)
 - [Drlanderf/DrLanderf.github.io](https://github.com/Drlanderf/DrLanderf.github.io) - Probably a futur site  (4 months ago)
 - [Drlanderf/youtube_bot](https://github.com/Drlanderf/youtube_bot) - 🤖 Basic Discord Bot for youtube tutorial (4 months ago)
 - [Drlanderf/landerf_bot](https://github.com/Drlanderf/landerf_bot) -  (5 months ago)
-- [Drlanderf/CaisseManager](https://github.com/Drlanderf/CaisseManager) - Application de caisse enregistreuse en C# WPF MVVM Ready (6 months ago)
 
 #### 🌱 My latest projects
 
+- [Drlanderf/Dossier_JAVA_2023](https://github.com/Drlanderf/Dossier_JAVA_2023) - 
 - [Drlanderf/Blockudoku](https://github.com/Drlanderf/Blockudoku) - 📚School project
 - [Drlanderf/Dossier_Unix_2020](https://github.com/Drlanderf/Dossier_Unix_2020) - 📚School project
 - [Drlanderf/heplgarage](https://github.com/Drlanderf/heplgarage) - 📚School project
@@ -179,7 +180,6 @@
 - [Drlanderf/DrLanderf](https://github.com/Drlanderf/DrLanderf) - 🧑It&#39;s just me with some automation
 - [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) - 🤖 Basic Discord Bot
 - [Drlanderf/landerf_bot](https://github.com/Drlanderf/landerf_bot) - 
-- [Drlanderf/TestSQL](https://github.com/Drlanderf/TestSQL) - Some SQL testing
 
 #### 🔭 Latest releases I've contributed to
 
