@@ -134,7 +134,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/vn788hCSlXI/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=vn788hCSlXI">Faire son bot discord,  Init du bot et le premier événement #01 || Discord JS v14</a> (4 months ago) <br/>
+<a href="https://www.youtube.com/watch?v=vn788hCSlXI">Faire son bot discord,  Init du bot et le premier événement #01 || Discord JS v14</a> (5 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/vn788hCSlXI?style=flat-square"> </img>
 </td>
 </tr>
@@ -157,8 +157,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) - 🤖 Basic Discord Bot (4 days ago)
-- [Drlanderf/Dossier_JAVA_2023](https://github.com/Drlanderf/Dossier_JAVA_2023) -  (6 days ago)
+- [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) - 🤖 Basic Discord Bot (5 days ago)
+- [Drlanderf/Dossier_JAVA_2023](https://github.com/Drlanderf/Dossier_JAVA_2023) -  (1 week ago)
 - [Drlanderf/DrLanderf](https://github.com/Drlanderf/DrLanderf) - 🧑It&#39;s just me with some automation (2 months ago)
 - [Drlanderf/heplgarage](https://github.com/Drlanderf/heplgarage) - 📚School project (2 months ago)
 - [Drlanderf/Dossier_Unix_2020](https://github.com/Drlanderf/Dossier_Unix_2020) - 📚School project (2 months ago)
@@ -183,12 +183,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) ([v5.2.2](https://github.com/Drlanderf/clara_oswald/releases/tag/v5.2.2), 4 days ago) - 🤖 Basic Discord Bot
+- [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) ([v5.2.2](https://github.com/Drlanderf/clara_oswald/releases/tag/v5.2.2), 5 days ago) - 🤖 Basic Discord Bot
 
 #### 🔨 My recent Pull Requests
 
-- [⚡️Improve performance when someone arrive for the counter](https://github.com/Drlanderf/clara_oswald/pull/138) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (4 days ago)
-- [1 form template](https://github.com/Drlanderf/Dossier_JAVA_2023/pull/2) on [Drlanderf/Dossier_JAVA_2023](https://github.com/Drlanderf/Dossier_JAVA_2023) (6 days ago)
+- [⚡️Improve performance when someone arrive for the counter](https://github.com/Drlanderf/clara_oswald/pull/138) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (5 days ago)
+- [1 form template](https://github.com/Drlanderf/Dossier_JAVA_2023/pull/2) on [Drlanderf/Dossier_JAVA_2023](https://github.com/Drlanderf/Dossier_JAVA_2023) (1 week ago)
 - [✨Prevent size of the guild.memberCount](https://github.com/Drlanderf/clara_oswald/pull/137) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 week ago)
 - [✨💡 Adding a counter of member](https://github.com/Drlanderf/clara_oswald/pull/135) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 week ago)
 - [✨ Manual Docker release CI/CD](https://github.com/Drlanderf/clara_oswald/pull/132) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 week ago)
