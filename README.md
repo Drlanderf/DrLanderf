@@ -120,7 +120,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/vhtzdi7JxJk/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=vhtzdi7JxJk">TUTO VMWARE ESXi vSphere - INSTALLATION XPENOLOGY</a> (4 months ago) <br/>
+<a href="https://www.youtube.com/watch?v=vhtzdi7JxJk">TUTO VMWARE ESXi vSphere - INSTALLATION XPENOLOGY</a> (5 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/vhtzdi7JxJk?style=flat-square"> </img>
 </td>
 </tr>
@@ -193,7 +193,7 @@
 - [✨💡 Adding a counter of member](https://github.com/Drlanderf/clara_oswald/pull/135) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (2 weeks ago)
 - [✨ Manual Docker release CI/CD](https://github.com/Drlanderf/clara_oswald/pull/132) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (2 weeks ago)
 - [🐛 Working on a bug with Youtube notification spam](https://github.com/Drlanderf/clara_oswald/pull/126) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 month ago)
-- [✨ Now talkasbot slashcommand use Modal to improve layout of your text](https://github.com/Drlanderf/clara_oswald/pull/125) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (2 months ago)
+- [✨ Now talkasbot slashcommand use Modal to improve layout of your text](https://github.com/Drlanderf/clara_oswald/pull/125) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (3 months ago)
 - [Release.trying to implement social notif](https://github.com/Drlanderf/clara_oswald/pull/123) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (3 months ago)
 - [Release.trying to implement social notif](https://github.com/Drlanderf/clara_oswald/pull/122) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (3 months ago)
 - [✨ Introduce the rules buttons generator !](https://github.com/Drlanderf/clara_oswald/pull/121) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (3 months ago)
