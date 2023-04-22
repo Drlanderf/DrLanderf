@@ -113,7 +113,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/utYZApEPxWc/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=utYZApEPxWc">TUTO VMWARE ESXi vSphere -  VIRTUALISER UN SYSTEME NAS SOUS VCENTER &#43; CONFIGURATION DE BASE</a> (4 months ago) <br/>
+<a href="https://www.youtube.com/watch?v=utYZApEPxWc">TUTO VMWARE ESXi vSphere -  VIRTUALISER UN SYSTEME NAS SOUS VCENTER &#43; CONFIGURATION DE BASE</a> (5 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/utYZApEPxWc?style=flat-square"> </img>
 </td>
 </tr>
@@ -189,9 +189,9 @@
 
 - [⚡️Improve performance when someone arrive for the counter](https://github.com/Drlanderf/clara_oswald/pull/138) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (3 weeks ago)
 - [1 form template](https://github.com/Drlanderf/Dossier_JAVA_2023/pull/2) on [Drlanderf/Dossier_JAVA_2023](https://github.com/Drlanderf/Dossier_JAVA_2023) (3 weeks ago)
-- [✨Prevent size of the guild.memberCount](https://github.com/Drlanderf/clara_oswald/pull/137) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (4 weeks ago)
-- [✨💡 Adding a counter of member](https://github.com/Drlanderf/clara_oswald/pull/135) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (4 weeks ago)
-- [✨ Manual Docker release CI/CD](https://github.com/Drlanderf/clara_oswald/pull/132) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (4 weeks ago)
+- [✨Prevent size of the guild.memberCount](https://github.com/Drlanderf/clara_oswald/pull/137) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 month ago)
+- [✨💡 Adding a counter of member](https://github.com/Drlanderf/clara_oswald/pull/135) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 month ago)
+- [✨ Manual Docker release CI/CD](https://github.com/Drlanderf/clara_oswald/pull/132) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 month ago)
 - [🐛 Working on a bug with Youtube notification spam](https://github.com/Drlanderf/clara_oswald/pull/126) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (2 months ago)
 - [✨ Now talkasbot slashcommand use Modal to improve layout of your text](https://github.com/Drlanderf/clara_oswald/pull/125) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (3 months ago)
 - [Release.trying to implement social notif](https://github.com/Drlanderf/clara_oswald/pull/123) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (4 months ago)
