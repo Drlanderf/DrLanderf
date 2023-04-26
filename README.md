@@ -157,7 +157,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) - 🤖 Basic Discord Bot (today)
+- [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) - 🤖 Basic Discord Bot (1 day ago)
 - [Drlanderf/Dossier_JAVA_2023](https://github.com/Drlanderf/Dossier_JAVA_2023) -  (4 weeks ago)
 - [Drlanderf/DrLanderf](https://github.com/Drlanderf/DrLanderf) - 🧑It&#39;s just me with some automation (3 months ago)
 - [Drlanderf/heplgarage](https://github.com/Drlanderf/heplgarage) - 📚School project (3 months ago)
@@ -166,7 +166,7 @@
 - [Drlanderf/Some-Scripts](https://github.com/Drlanderf/Some-Scripts) - some usefull script for postinstall (5 months ago)
 - [Drlanderf/DrLanderf.github.io](https://github.com/Drlanderf/DrLanderf.github.io) - Probably a futur site  (5 months ago)
 - [Drlanderf/youtube_bot](https://github.com/Drlanderf/youtube_bot) - 🤖 Basic Discord Bot for youtube tutorial (5 months ago)
-- [Drlanderf/landerf_bot](https://github.com/Drlanderf/landerf_bot) -  (5 months ago)
+- [Drlanderf/landerf_bot](https://github.com/Drlanderf/landerf_bot) -  (6 months ago)
 
 #### 🌱 My latest projects
 
@@ -186,7 +186,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [✨ Add fields into the welcome embed](https://github.com/Drlanderf/clara_oswald/pull/140) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
+- [✨ Add fields into the welcome embed](https://github.com/Drlanderf/clara_oswald/pull/140) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 day ago)
 - [⚡️Improve performance when someone arrive for the counter](https://github.com/Drlanderf/clara_oswald/pull/138) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (3 weeks ago)
 - [1 form template](https://github.com/Drlanderf/Dossier_JAVA_2023/pull/2) on [Drlanderf/Dossier_JAVA_2023](https://github.com/Drlanderf/Dossier_JAVA_2023) (4 weeks ago)
 - [✨Prevent size of the guild.memberCount](https://github.com/Drlanderf/clara_oswald/pull/137) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 month ago)
