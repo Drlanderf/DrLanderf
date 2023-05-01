@@ -141,7 +141,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/_3ZPngikmQI/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=_3ZPngikmQI">Faire son bot discord, préparation de l&#39;environnement de travail #00bis || Discord JS v14</a> (5 months ago) <br/>
+<a href="https://www.youtube.com/watch?v=_3ZPngikmQI">Faire son bot discord, préparation de l&#39;environnement de travail #00bis || Discord JS v14</a> (6 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/_3ZPngikmQI?style=flat-square"> </img>
 </td>
 </tr>
@@ -157,16 +157,16 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) - 🤖 Basic Discord Bot (5 days ago)
+- [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) - 🤖 Basic Discord Bot (today)
+- [Drlanderf/laserotron_evo](https://github.com/Drlanderf/laserotron_evo) - 🤖 Basic Discord Bot (today)
 - [Drlanderf/Dossier_JAVA_2023](https://github.com/Drlanderf/Dossier_JAVA_2023) -  (1 month ago)
 - [Drlanderf/DrLanderf](https://github.com/Drlanderf/DrLanderf) - 🧑It&#39;s just me with some automation (3 months ago)
-- [Drlanderf/heplgarage](https://github.com/Drlanderf/heplgarage) - 📚School project (3 months ago)
-- [Drlanderf/Dossier_Unix_2020](https://github.com/Drlanderf/Dossier_Unix_2020) - 📚School project (3 months ago)
 - [Drlanderf/Blockudoku](https://github.com/Drlanderf/Blockudoku) - 📚School project (3 months ago)
+- [Drlanderf/Dossier_Unix_2020](https://github.com/Drlanderf/Dossier_Unix_2020) - 📚School project (3 months ago)
+- [Drlanderf/heplgarage](https://github.com/Drlanderf/heplgarage) - 📚School project (3 months ago)
 - [Drlanderf/Some-Scripts](https://github.com/Drlanderf/Some-Scripts) - some usefull script for postinstall (5 months ago)
 - [Drlanderf/DrLanderf.github.io](https://github.com/Drlanderf/DrLanderf.github.io) - Probably a futur site  (5 months ago)
-- [Drlanderf/youtube_bot](https://github.com/Drlanderf/youtube_bot) - 🤖 Basic Discord Bot for youtube tutorial (5 months ago)
-- [Drlanderf/landerf_bot](https://github.com/Drlanderf/landerf_bot) -  (6 months ago)
+- [Drlanderf/youtube_bot](https://github.com/Drlanderf/youtube_bot) - 🤖 Basic Discord Bot for youtube tutorial (6 months ago)
 
 #### 🌱 My latest projects
 
@@ -174,28 +174,29 @@
 - [Drlanderf/Blockudoku](https://github.com/Drlanderf/Blockudoku) - 📚School project
 - [Drlanderf/Dossier_Unix_2020](https://github.com/Drlanderf/Dossier_Unix_2020) - 📚School project
 - [Drlanderf/heplgarage](https://github.com/Drlanderf/heplgarage) - 📚School project
+- [Drlanderf/laserotron_evo](https://github.com/Drlanderf/laserotron_evo) - 🤖 Basic Discord Bot
 - [Drlanderf/Some-Scripts](https://github.com/Drlanderf/Some-Scripts) - some usefull script for postinstall
 - [Drlanderf/DrLanderf.github.io](https://github.com/Drlanderf/DrLanderf.github.io) - Probably a futur site 
 - [Drlanderf/youtube_bot](https://github.com/Drlanderf/youtube_bot) - 🤖 Basic Discord Bot for youtube tutorial
 - [Drlanderf/DrLanderf](https://github.com/Drlanderf/DrLanderf) - 🧑It&#39;s just me with some automation
 - [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) - 🤖 Basic Discord Bot
-- [Drlanderf/landerf_bot](https://github.com/Drlanderf/landerf_bot) - 
 
 #### 🔭 Latest releases I've contributed to
 
+- [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) ([v5.3.0](https://github.com/Drlanderf/clara_oswald/releases/tag/v5.3.0), today) - 🤖 Basic Discord Bot
 
 #### 🔨 My recent Pull Requests
 
-- [✨ Add fields into the welcome embed](https://github.com/Drlanderf/clara_oswald/pull/140) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (5 days ago)
+- [Trying to prevent partial member](https://github.com/Drlanderf/clara_oswald/pull/142) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
+- [Master fixing partial](https://github.com/Drlanderf/laserotron_evo/pull/2) on [Drlanderf/laserotron_evo](https://github.com/Drlanderf/laserotron_evo) (today)
+- [✨ Add fields into the welcome embed](https://github.com/Drlanderf/clara_oswald/pull/140) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (6 days ago)
+- [✨ Embed guildMemberAdd](https://github.com/Drlanderf/laserotron_evo/pull/1) on [Drlanderf/laserotron_evo](https://github.com/Drlanderf/laserotron_evo) (6 days ago)
 - [⚡️Improve performance when someone arrive for the counter](https://github.com/Drlanderf/clara_oswald/pull/138) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 month ago)
 - [1 form template](https://github.com/Drlanderf/Dossier_JAVA_2023/pull/2) on [Drlanderf/Dossier_JAVA_2023](https://github.com/Drlanderf/Dossier_JAVA_2023) (1 month ago)
 - [✨Prevent size of the guild.memberCount](https://github.com/Drlanderf/clara_oswald/pull/137) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 month ago)
 - [✨💡 Adding a counter of member](https://github.com/Drlanderf/clara_oswald/pull/135) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 month ago)
 - [✨ Manual Docker release CI/CD](https://github.com/Drlanderf/clara_oswald/pull/132) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 month ago)
 - [🐛 Working on a bug with Youtube notification spam](https://github.com/Drlanderf/clara_oswald/pull/126) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (2 months ago)
-- [✨ Now talkasbot slashcommand use Modal to improve layout of your text](https://github.com/Drlanderf/clara_oswald/pull/125) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (3 months ago)
-- [Release.trying to implement social notif](https://github.com/Drlanderf/clara_oswald/pull/123) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (4 months ago)
-- [Release.trying to implement social notif](https://github.com/Drlanderf/clara_oswald/pull/122) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (4 months ago)
 
 #### 📓 Gists I wrote
 
