@@ -159,7 +159,7 @@
 
 - [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) - 🤖 Basic Discord Bot (today)
 - [Drlanderf/laserotron_evo](https://github.com/Drlanderf/laserotron_evo) - 🤖 Basic Discord Bot (today)
-- [Drlanderf/Dossier_JAVA_2023](https://github.com/Drlanderf/Dossier_JAVA_2023) -  (1 month ago)
+- [Drlanderf/Dossier_JAVA_2023](https://github.com/Drlanderf/Dossier_JAVA_2023) -  (today)
 - [Drlanderf/DrLanderf](https://github.com/Drlanderf/DrLanderf) - 🧑It&#39;s just me with some automation (3 months ago)
 - [Drlanderf/Blockudoku](https://github.com/Drlanderf/Blockudoku) - 📚School project (3 months ago)
 - [Drlanderf/Dossier_Unix_2020](https://github.com/Drlanderf/Dossier_Unix_2020) - 📚School project (3 months ago)
@@ -187,16 +187,16 @@
 
 #### 🔨 My recent Pull Requests
 
+- [✨ShoppingBasket Class](https://github.com/Drlanderf/Dossier_JAVA_2023/pull/14) on [Drlanderf/Dossier_JAVA_2023](https://github.com/Drlanderf/Dossier_JAVA_2023) (today)
+- [✨Ticket Class](https://github.com/Drlanderf/Dossier_JAVA_2023/pull/13) on [Drlanderf/Dossier_JAVA_2023](https://github.com/Drlanderf/Dossier_JAVA_2023) (today)
+- [✨Article Class](https://github.com/Drlanderf/Dossier_JAVA_2023/pull/12) on [Drlanderf/Dossier_JAVA_2023](https://github.com/Drlanderf/Dossier_JAVA_2023) (today)
+- [✨Client Class](https://github.com/Drlanderf/Dossier_JAVA_2023/pull/11) on [Drlanderf/Dossier_JAVA_2023](https://github.com/Drlanderf/Dossier_JAVA_2023) (today)
+- [✨Vendeur Class](https://github.com/Drlanderf/Dossier_JAVA_2023/pull/10) on [Drlanderf/Dossier_JAVA_2023](https://github.com/Drlanderf/Dossier_JAVA_2023) (today)
+- [✨Facture Class](https://github.com/Drlanderf/Dossier_JAVA_2023/pull/9) on [Drlanderf/Dossier_JAVA_2023](https://github.com/Drlanderf/Dossier_JAVA_2023) (today)
 - [Trying to prevent partial member](https://github.com/Drlanderf/clara_oswald/pull/142) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
 - [Master fixing partial](https://github.com/Drlanderf/laserotron_evo/pull/2) on [Drlanderf/laserotron_evo](https://github.com/Drlanderf/laserotron_evo) (today)
 - [✨ Add fields into the welcome embed](https://github.com/Drlanderf/clara_oswald/pull/140) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (6 days ago)
 - [✨ Embed guildMemberAdd](https://github.com/Drlanderf/laserotron_evo/pull/1) on [Drlanderf/laserotron_evo](https://github.com/Drlanderf/laserotron_evo) (6 days ago)
-- [⚡️Improve performance when someone arrive for the counter](https://github.com/Drlanderf/clara_oswald/pull/138) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 month ago)
-- [1 form template](https://github.com/Drlanderf/Dossier_JAVA_2023/pull/2) on [Drlanderf/Dossier_JAVA_2023](https://github.com/Drlanderf/Dossier_JAVA_2023) (1 month ago)
-- [✨Prevent size of the guild.memberCount](https://github.com/Drlanderf/clara_oswald/pull/137) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 month ago)
-- [✨💡 Adding a counter of member](https://github.com/Drlanderf/clara_oswald/pull/135) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 month ago)
-- [✨ Manual Docker release CI/CD](https://github.com/Drlanderf/clara_oswald/pull/132) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 month ago)
-- [🐛 Working on a bug with Youtube notification spam](https://github.com/Drlanderf/clara_oswald/pull/126) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (2 months ago)
 
 #### 📓 Gists I wrote
 
