@@ -157,15 +157,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) - 🤖 Basic Discord Bot (today)
-- [Drlanderf/laserotron_evo](https://github.com/Drlanderf/laserotron_evo) - 🤖 Basic Discord Bot (today)
-- [Drlanderf/Dossier_JAVA_2023](https://github.com/Drlanderf/Dossier_JAVA_2023) -  (today)
+- [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) - 🤖 Basic Discord Bot (1 day ago)
+- [Drlanderf/laserotron_evo](https://github.com/Drlanderf/laserotron_evo) - 🤖 Basic Discord Bot (1 day ago)
+- [Drlanderf/Dossier_JAVA_2023](https://github.com/Drlanderf/Dossier_JAVA_2023) -  (1 day ago)
 - [Drlanderf/DrLanderf](https://github.com/Drlanderf/DrLanderf) - 🧑It&#39;s just me with some automation (3 months ago)
 - [Drlanderf/Blockudoku](https://github.com/Drlanderf/Blockudoku) - 📚School project (3 months ago)
 - [Drlanderf/Dossier_Unix_2020](https://github.com/Drlanderf/Dossier_Unix_2020) - 📚School project (3 months ago)
 - [Drlanderf/heplgarage](https://github.com/Drlanderf/heplgarage) - 📚School project (3 months ago)
 - [Drlanderf/Some-Scripts](https://github.com/Drlanderf/Some-Scripts) - some usefull script for postinstall (5 months ago)
-- [Drlanderf/DrLanderf.github.io](https://github.com/Drlanderf/DrLanderf.github.io) - Probably a futur site  (5 months ago)
+- [Drlanderf/DrLanderf.github.io](https://github.com/Drlanderf/DrLanderf.github.io) - Probably a futur site  (6 months ago)
 - [Drlanderf/youtube_bot](https://github.com/Drlanderf/youtube_bot) - 🤖 Basic Discord Bot for youtube tutorial (6 months ago)
 
 #### 🌱 My latest projects
@@ -183,20 +183,20 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) ([v5.3.0](https://github.com/Drlanderf/clara_oswald/releases/tag/v5.3.0), today) - 🤖 Basic Discord Bot
+- [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) ([v5.3.0](https://github.com/Drlanderf/clara_oswald/releases/tag/v5.3.0), 1 day ago) - 🤖 Basic Discord Bot
 
 #### 🔨 My recent Pull Requests
 
-- [✨ShoppingBasket Class](https://github.com/Drlanderf/Dossier_JAVA_2023/pull/14) on [Drlanderf/Dossier_JAVA_2023](https://github.com/Drlanderf/Dossier_JAVA_2023) (today)
-- [✨Ticket Class](https://github.com/Drlanderf/Dossier_JAVA_2023/pull/13) on [Drlanderf/Dossier_JAVA_2023](https://github.com/Drlanderf/Dossier_JAVA_2023) (today)
-- [✨Article Class](https://github.com/Drlanderf/Dossier_JAVA_2023/pull/12) on [Drlanderf/Dossier_JAVA_2023](https://github.com/Drlanderf/Dossier_JAVA_2023) (today)
-- [✨Client Class](https://github.com/Drlanderf/Dossier_JAVA_2023/pull/11) on [Drlanderf/Dossier_JAVA_2023](https://github.com/Drlanderf/Dossier_JAVA_2023) (today)
-- [✨Vendeur Class](https://github.com/Drlanderf/Dossier_JAVA_2023/pull/10) on [Drlanderf/Dossier_JAVA_2023](https://github.com/Drlanderf/Dossier_JAVA_2023) (today)
-- [✨Facture Class](https://github.com/Drlanderf/Dossier_JAVA_2023/pull/9) on [Drlanderf/Dossier_JAVA_2023](https://github.com/Drlanderf/Dossier_JAVA_2023) (today)
-- [Trying to prevent partial member](https://github.com/Drlanderf/clara_oswald/pull/142) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
-- [Master fixing partial](https://github.com/Drlanderf/laserotron_evo/pull/2) on [Drlanderf/laserotron_evo](https://github.com/Drlanderf/laserotron_evo) (today)
-- [✨ Add fields into the welcome embed](https://github.com/Drlanderf/clara_oswald/pull/140) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (6 days ago)
-- [✨ Embed guildMemberAdd](https://github.com/Drlanderf/laserotron_evo/pull/1) on [Drlanderf/laserotron_evo](https://github.com/Drlanderf/laserotron_evo) (6 days ago)
+- [✨ShoppingBasket Class](https://github.com/Drlanderf/Dossier_JAVA_2023/pull/14) on [Drlanderf/Dossier_JAVA_2023](https://github.com/Drlanderf/Dossier_JAVA_2023) (1 day ago)
+- [✨Ticket Class](https://github.com/Drlanderf/Dossier_JAVA_2023/pull/13) on [Drlanderf/Dossier_JAVA_2023](https://github.com/Drlanderf/Dossier_JAVA_2023) (1 day ago)
+- [✨Article Class](https://github.com/Drlanderf/Dossier_JAVA_2023/pull/12) on [Drlanderf/Dossier_JAVA_2023](https://github.com/Drlanderf/Dossier_JAVA_2023) (1 day ago)
+- [✨Client Class](https://github.com/Drlanderf/Dossier_JAVA_2023/pull/11) on [Drlanderf/Dossier_JAVA_2023](https://github.com/Drlanderf/Dossier_JAVA_2023) (1 day ago)
+- [✨Vendeur Class](https://github.com/Drlanderf/Dossier_JAVA_2023/pull/10) on [Drlanderf/Dossier_JAVA_2023](https://github.com/Drlanderf/Dossier_JAVA_2023) (1 day ago)
+- [✨Facture Class](https://github.com/Drlanderf/Dossier_JAVA_2023/pull/9) on [Drlanderf/Dossier_JAVA_2023](https://github.com/Drlanderf/Dossier_JAVA_2023) (1 day ago)
+- [Trying to prevent partial member](https://github.com/Drlanderf/clara_oswald/pull/142) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 day ago)
+- [Master fixing partial](https://github.com/Drlanderf/laserotron_evo/pull/2) on [Drlanderf/laserotron_evo](https://github.com/Drlanderf/laserotron_evo) (1 day ago)
+- [✨ Add fields into the welcome embed](https://github.com/Drlanderf/clara_oswald/pull/140) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 week ago)
+- [✨ Embed guildMemberAdd](https://github.com/Drlanderf/laserotron_evo/pull/1) on [Drlanderf/laserotron_evo](https://github.com/Drlanderf/laserotron_evo) (1 week ago)
 
 #### 📓 Gists I wrote
 
