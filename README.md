@@ -157,9 +157,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [Drlanderf/laserotron_evo](https://github.com/Drlanderf/laserotron_evo) - 🤖 Basic Discord Bot (today)
 - [Drlanderf/Dossier_JAVA_2023](https://github.com/Drlanderf/Dossier_JAVA_2023) -  (2 days ago)
 - [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) - 🤖 Basic Discord Bot (5 days ago)
-- [Drlanderf/laserotron_evo](https://github.com/Drlanderf/laserotron_evo) - 🤖 Basic Discord Bot (5 days ago)
 - [Drlanderf/DrLanderf](https://github.com/Drlanderf/DrLanderf) - 🧑It&#39;s just me with some automation (3 months ago)
 - [Drlanderf/Blockudoku](https://github.com/Drlanderf/Blockudoku) - 📚School project (3 months ago)
 - [Drlanderf/Dossier_Unix_2020](https://github.com/Drlanderf/Dossier_Unix_2020) - 📚School project (3 months ago)
