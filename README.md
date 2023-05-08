@@ -157,8 +157,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [Drlanderf/Dossier_JAVA_2023](https://github.com/Drlanderf/Dossier_JAVA_2023) -  (today)
 - [Drlanderf/laserotron_evo](https://github.com/Drlanderf/laserotron_evo) - 🤖 Basic Discord Bot (2 days ago)
-- [Drlanderf/Dossier_JAVA_2023](https://github.com/Drlanderf/Dossier_JAVA_2023) -  (4 days ago)
 - [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) - 🤖 Basic Discord Bot (1 week ago)
 - [Drlanderf/DrLanderf](https://github.com/Drlanderf/DrLanderf) - 🧑It&#39;s just me with some automation (3 months ago)
 - [Drlanderf/Blockudoku](https://github.com/Drlanderf/Blockudoku) - 📚School project (3 months ago)
@@ -187,6 +187,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [15 maingui](https://github.com/Drlanderf/Dossier_JAVA_2023/pull/20) on [Drlanderf/Dossier_JAVA_2023](https://github.com/Drlanderf/Dossier_JAVA_2023) (today)
 - [📝Update README.md](https://github.com/Drlanderf/Dossier_JAVA_2023/pull/19) on [Drlanderf/Dossier_JAVA_2023](https://github.com/Drlanderf/Dossier_JAVA_2023) (4 days ago)
 - [✨ShoppingBasket Class](https://github.com/Drlanderf/Dossier_JAVA_2023/pull/14) on [Drlanderf/Dossier_JAVA_2023](https://github.com/Drlanderf/Dossier_JAVA_2023) (1 week ago)
 - [✨Ticket Class](https://github.com/Drlanderf/Dossier_JAVA_2023/pull/13) on [Drlanderf/Dossier_JAVA_2023](https://github.com/Drlanderf/Dossier_JAVA_2023) (1 week ago)
@@ -196,7 +197,6 @@
 - [✨Facture Class](https://github.com/Drlanderf/Dossier_JAVA_2023/pull/9) on [Drlanderf/Dossier_JAVA_2023](https://github.com/Drlanderf/Dossier_JAVA_2023) (1 week ago)
 - [Trying to prevent partial member](https://github.com/Drlanderf/clara_oswald/pull/142) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 week ago)
 - [Master fixing partial](https://github.com/Drlanderf/laserotron_evo/pull/2) on [Drlanderf/laserotron_evo](https://github.com/Drlanderf/laserotron_evo) (1 week ago)
-- [✨ Add fields into the welcome embed](https://github.com/Drlanderf/clara_oswald/pull/140) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 week ago)
 
 #### 📓 Gists I wrote
 
