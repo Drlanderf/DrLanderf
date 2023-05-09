@@ -187,6 +187,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [✨ Adding config.properties](https://github.com/Drlanderf/Dossier_JAVA_2023/pull/21) on [Drlanderf/Dossier_JAVA_2023](https://github.com/Drlanderf/Dossier_JAVA_2023) (today)
 - [15 maingui](https://github.com/Drlanderf/Dossier_JAVA_2023/pull/20) on [Drlanderf/Dossier_JAVA_2023](https://github.com/Drlanderf/Dossier_JAVA_2023) (1 day ago)
 - [📝Update README.md](https://github.com/Drlanderf/Dossier_JAVA_2023/pull/19) on [Drlanderf/Dossier_JAVA_2023](https://github.com/Drlanderf/Dossier_JAVA_2023) (5 days ago)
 - [✨ShoppingBasket Class](https://github.com/Drlanderf/Dossier_JAVA_2023/pull/14) on [Drlanderf/Dossier_JAVA_2023](https://github.com/Drlanderf/Dossier_JAVA_2023) (1 week ago)
@@ -196,7 +197,6 @@
 - [✨Vendeur Class](https://github.com/Drlanderf/Dossier_JAVA_2023/pull/10) on [Drlanderf/Dossier_JAVA_2023](https://github.com/Drlanderf/Dossier_JAVA_2023) (1 week ago)
 - [✨Facture Class](https://github.com/Drlanderf/Dossier_JAVA_2023/pull/9) on [Drlanderf/Dossier_JAVA_2023](https://github.com/Drlanderf/Dossier_JAVA_2023) (1 week ago)
 - [Trying to prevent partial member](https://github.com/Drlanderf/clara_oswald/pull/142) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 week ago)
-- [Master fixing partial](https://github.com/Drlanderf/laserotron_evo/pull/2) on [Drlanderf/laserotron_evo](https://github.com/Drlanderf/laserotron_evo) (1 week ago)
 
 #### 📓 Gists I wrote
 
