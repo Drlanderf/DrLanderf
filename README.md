@@ -157,8 +157,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Drlanderf/Dossier_JAVA_2023](https://github.com/Drlanderf/Dossier_JAVA_2023) -  (today)
-- [Drlanderf/laserotron_evo](https://github.com/Drlanderf/laserotron_evo) - 🤖 Basic Discord Bot (3 days ago)
+- [Drlanderf/Dossier_JAVA_2023](https://github.com/Drlanderf/Dossier_JAVA_2023) -  (1 day ago)
+- [Drlanderf/laserotron_evo](https://github.com/Drlanderf/laserotron_evo) - 🤖 Basic Discord Bot (4 days ago)
 - [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) - 🤖 Basic Discord Bot (1 week ago)
 - [Drlanderf/DrLanderf](https://github.com/Drlanderf/DrLanderf) - 🧑It&#39;s just me with some automation (3 months ago)
 - [Drlanderf/Blockudoku](https://github.com/Drlanderf/Blockudoku) - 📚School project (3 months ago)
@@ -187,9 +187,9 @@
 
 #### 🔨 My recent Pull Requests
 
-- [✨ Adding config.properties](https://github.com/Drlanderf/Dossier_JAVA_2023/pull/21) on [Drlanderf/Dossier_JAVA_2023](https://github.com/Drlanderf/Dossier_JAVA_2023) (today)
-- [15 maingui](https://github.com/Drlanderf/Dossier_JAVA_2023/pull/20) on [Drlanderf/Dossier_JAVA_2023](https://github.com/Drlanderf/Dossier_JAVA_2023) (1 day ago)
-- [📝Update README.md](https://github.com/Drlanderf/Dossier_JAVA_2023/pull/19) on [Drlanderf/Dossier_JAVA_2023](https://github.com/Drlanderf/Dossier_JAVA_2023) (5 days ago)
+- [✨ Adding config.properties](https://github.com/Drlanderf/Dossier_JAVA_2023/pull/21) on [Drlanderf/Dossier_JAVA_2023](https://github.com/Drlanderf/Dossier_JAVA_2023) (1 day ago)
+- [15 maingui](https://github.com/Drlanderf/Dossier_JAVA_2023/pull/20) on [Drlanderf/Dossier_JAVA_2023](https://github.com/Drlanderf/Dossier_JAVA_2023) (2 days ago)
+- [📝Update README.md](https://github.com/Drlanderf/Dossier_JAVA_2023/pull/19) on [Drlanderf/Dossier_JAVA_2023](https://github.com/Drlanderf/Dossier_JAVA_2023) (6 days ago)
 - [✨ShoppingBasket Class](https://github.com/Drlanderf/Dossier_JAVA_2023/pull/14) on [Drlanderf/Dossier_JAVA_2023](https://github.com/Drlanderf/Dossier_JAVA_2023) (1 week ago)
 - [✨Ticket Class](https://github.com/Drlanderf/Dossier_JAVA_2023/pull/13) on [Drlanderf/Dossier_JAVA_2023](https://github.com/Drlanderf/Dossier_JAVA_2023) (1 week ago)
 - [✨Article Class](https://github.com/Drlanderf/Dossier_JAVA_2023/pull/12) on [Drlanderf/Dossier_JAVA_2023](https://github.com/Drlanderf/Dossier_JAVA_2023) (1 week ago)
