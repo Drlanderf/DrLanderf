@@ -113,7 +113,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/utYZApEPxWc/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=utYZApEPxWc">TUTO VMWARE ESXi vSphere -  VIRTUALISER UN SYSTEME NAS SOUS VCENTER &#43; CONFIGURATION DE BASE</a> (5 months ago) <br/>
+<a href="https://www.youtube.com/watch?v=utYZApEPxWc">TUTO VMWARE ESXi vSphere -  VIRTUALISER UN SYSTEME NAS SOUS VCENTER &#43; CONFIGURATION DE BASE</a> (6 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/utYZApEPxWc?style=flat-square"> </img>
 </td>
 </tr>
@@ -159,7 +159,7 @@
 
 - [Drlanderf/Dossier_JAVA_2023](https://github.com/Drlanderf/Dossier_JAVA_2023) -  (1 week ago)
 - [Drlanderf/laserotron_evo](https://github.com/Drlanderf/laserotron_evo) - 🤖 Basic Discord Bot (2 weeks ago)
-- [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) - 🤖 Basic Discord Bot (2 weeks ago)
+- [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) - 🤖 Basic Discord Bot (3 weeks ago)
 - [Drlanderf/DrLanderf](https://github.com/Drlanderf/DrLanderf) - 🧑It&#39;s just me with some automation (4 months ago)
 - [Drlanderf/Blockudoku](https://github.com/Drlanderf/Blockudoku) - 📚School project (4 months ago)
 - [Drlanderf/Dossier_Unix_2020](https://github.com/Drlanderf/Dossier_Unix_2020) - 📚School project (4 months ago)
@@ -183,7 +183,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) ([v5.3.0](https://github.com/Drlanderf/clara_oswald/releases/tag/v5.3.0), 2 weeks ago) - 🤖 Basic Discord Bot
+- [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) ([v5.3.0](https://github.com/Drlanderf/clara_oswald/releases/tag/v5.3.0), 3 weeks ago) - 🤖 Basic Discord Bot
 
 #### 🔨 My recent Pull Requests
 
@@ -191,12 +191,12 @@
 - [🎨 Reformat some code to improve visibility](https://github.com/Drlanderf/Dossier_JAVA_2023/pull/23) on [Drlanderf/Dossier_JAVA_2023](https://github.com/Drlanderf/Dossier_JAVA_2023) (1 week ago)
 - [17 fichier csv](https://github.com/Drlanderf/Dossier_JAVA_2023/pull/22) on [Drlanderf/Dossier_JAVA_2023](https://github.com/Drlanderf/Dossier_JAVA_2023) (1 week ago)
 - [✨ Adding config.properties](https://github.com/Drlanderf/Dossier_JAVA_2023/pull/21) on [Drlanderf/Dossier_JAVA_2023](https://github.com/Drlanderf/Dossier_JAVA_2023) (1 week ago)
-- [15 maingui](https://github.com/Drlanderf/Dossier_JAVA_2023/pull/20) on [Drlanderf/Dossier_JAVA_2023](https://github.com/Drlanderf/Dossier_JAVA_2023) (1 week ago)
+- [15 maingui](https://github.com/Drlanderf/Dossier_JAVA_2023/pull/20) on [Drlanderf/Dossier_JAVA_2023](https://github.com/Drlanderf/Dossier_JAVA_2023) (2 weeks ago)
 - [📝Update README.md](https://github.com/Drlanderf/Dossier_JAVA_2023/pull/19) on [Drlanderf/Dossier_JAVA_2023](https://github.com/Drlanderf/Dossier_JAVA_2023) (2 weeks ago)
-- [✨ShoppingBasket Class](https://github.com/Drlanderf/Dossier_JAVA_2023/pull/14) on [Drlanderf/Dossier_JAVA_2023](https://github.com/Drlanderf/Dossier_JAVA_2023) (2 weeks ago)
-- [✨Ticket Class](https://github.com/Drlanderf/Dossier_JAVA_2023/pull/13) on [Drlanderf/Dossier_JAVA_2023](https://github.com/Drlanderf/Dossier_JAVA_2023) (2 weeks ago)
-- [✨Article Class](https://github.com/Drlanderf/Dossier_JAVA_2023/pull/12) on [Drlanderf/Dossier_JAVA_2023](https://github.com/Drlanderf/Dossier_JAVA_2023) (2 weeks ago)
-- [✨Client Class](https://github.com/Drlanderf/Dossier_JAVA_2023/pull/11) on [Drlanderf/Dossier_JAVA_2023](https://github.com/Drlanderf/Dossier_JAVA_2023) (2 weeks ago)
+- [✨ShoppingBasket Class](https://github.com/Drlanderf/Dossier_JAVA_2023/pull/14) on [Drlanderf/Dossier_JAVA_2023](https://github.com/Drlanderf/Dossier_JAVA_2023) (3 weeks ago)
+- [✨Ticket Class](https://github.com/Drlanderf/Dossier_JAVA_2023/pull/13) on [Drlanderf/Dossier_JAVA_2023](https://github.com/Drlanderf/Dossier_JAVA_2023) (3 weeks ago)
+- [✨Article Class](https://github.com/Drlanderf/Dossier_JAVA_2023/pull/12) on [Drlanderf/Dossier_JAVA_2023](https://github.com/Drlanderf/Dossier_JAVA_2023) (3 weeks ago)
+- [✨Client Class](https://github.com/Drlanderf/Dossier_JAVA_2023/pull/11) on [Drlanderf/Dossier_JAVA_2023](https://github.com/Drlanderf/Dossier_JAVA_2023) (3 weeks ago)
 
 #### 📓 Gists I wrote
 
