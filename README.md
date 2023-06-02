@@ -183,10 +183,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) ([v5.4.1](https://github.com/Drlanderf/clara_oswald/releases/tag/v5.4.1), today) - 🤖 Basic Discord Bot
 
 #### 🔨 My recent Pull Requests
 
+- [🚑️ HOTFIX =&gt; Prevent probably crash](https://github.com/Drlanderf/clara_oswald/pull/149) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
 - [🚑️ HOTFIX](https://github.com/Drlanderf/clara_oswald/pull/147) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
 - [143 music bot.hotfix](https://github.com/Drlanderf/clara_oswald/pull/146) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
 - [✨ Bot can singging now !](https://github.com/Drlanderf/clara_oswald/pull/144) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 day ago)
@@ -196,7 +196,6 @@
 - [✨ Adding config.properties](https://github.com/Drlanderf/Dossier_JAVA_2023/pull/21) on [Drlanderf/Dossier_JAVA_2023](https://github.com/Drlanderf/Dossier_JAVA_2023) (3 weeks ago)
 - [15 maingui](https://github.com/Drlanderf/Dossier_JAVA_2023/pull/20) on [Drlanderf/Dossier_JAVA_2023](https://github.com/Drlanderf/Dossier_JAVA_2023) (3 weeks ago)
 - [📝Update README.md](https://github.com/Drlanderf/Dossier_JAVA_2023/pull/19) on [Drlanderf/Dossier_JAVA_2023](https://github.com/Drlanderf/Dossier_JAVA_2023) (4 weeks ago)
-- [✨ShoppingBasket Class](https://github.com/Drlanderf/Dossier_JAVA_2023/pull/14) on [Drlanderf/Dossier_JAVA_2023](https://github.com/Drlanderf/Dossier_JAVA_2023) (1 month ago)
 
 #### 📓 Gists I wrote
 
