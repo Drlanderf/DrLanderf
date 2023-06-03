@@ -134,7 +134,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/vn788hCSlXI/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=vn788hCSlXI">Faire son bot discord,  Init du bot et le premier événement #01 || Discord JS v14</a> (6 months ago) <br/>
+<a href="https://www.youtube.com/watch?v=vn788hCSlXI">Faire son bot discord,  Init du bot et le premier événement #01 || Discord JS v14</a> (7 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/vn788hCSlXI?style=flat-square"> </img>
 </td>
 </tr>
@@ -157,9 +157,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) - 🤖 Basic Discord Bot (today)
+- [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) - 🤖 Basic Discord Bot (1 day ago)
 - [Drlanderf/Dossier_JAVA_2023](https://github.com/Drlanderf/Dossier_JAVA_2023) -  (3 weeks ago)
-- [Drlanderf/laserotron_evo](https://github.com/Drlanderf/laserotron_evo) - 🤖 Basic Discord Bot (3 weeks ago)
+- [Drlanderf/laserotron_evo](https://github.com/Drlanderf/laserotron_evo) - 🤖 Basic Discord Bot (4 weeks ago)
 - [Drlanderf/DrLanderf](https://github.com/Drlanderf/DrLanderf) - 🧑It&#39;s just me with some automation (4 months ago)
 - [Drlanderf/Blockudoku](https://github.com/Drlanderf/Blockudoku) - 📚School project (4 months ago)
 - [Drlanderf/Dossier_Unix_2020](https://github.com/Drlanderf/Dossier_Unix_2020) - 📚School project (4 months ago)
@@ -186,16 +186,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [🚑️ HOTFIX =&gt; Prevent probably crash](https://github.com/Drlanderf/clara_oswald/pull/149) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
-- [🚑️ HOTFIX](https://github.com/Drlanderf/clara_oswald/pull/147) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
-- [143 music bot.hotfix](https://github.com/Drlanderf/clara_oswald/pull/146) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
-- [✨ Bot can singging now !](https://github.com/Drlanderf/clara_oswald/pull/144) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 day ago)
+- [🚑️ HOTFIX =&gt; Prevent probably crash](https://github.com/Drlanderf/clara_oswald/pull/149) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 day ago)
+- [🚑️ HOTFIX](https://github.com/Drlanderf/clara_oswald/pull/147) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 day ago)
+- [143 music bot.hotfix](https://github.com/Drlanderf/clara_oswald/pull/146) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 day ago)
+- [✨ Bot can singging now !](https://github.com/Drlanderf/clara_oswald/pull/144) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (2 days ago)
 - [24 working keypad](https://github.com/Drlanderf/Dossier_JAVA_2023/pull/25) on [Drlanderf/Dossier_JAVA_2023](https://github.com/Drlanderf/Dossier_JAVA_2023) (3 weeks ago)
 - [🎨 Reformat some code to improve visibility](https://github.com/Drlanderf/Dossier_JAVA_2023/pull/23) on [Drlanderf/Dossier_JAVA_2023](https://github.com/Drlanderf/Dossier_JAVA_2023) (3 weeks ago)
 - [17 fichier csv](https://github.com/Drlanderf/Dossier_JAVA_2023/pull/22) on [Drlanderf/Dossier_JAVA_2023](https://github.com/Drlanderf/Dossier_JAVA_2023) (3 weeks ago)
 - [✨ Adding config.properties](https://github.com/Drlanderf/Dossier_JAVA_2023/pull/21) on [Drlanderf/Dossier_JAVA_2023](https://github.com/Drlanderf/Dossier_JAVA_2023) (3 weeks ago)
 - [15 maingui](https://github.com/Drlanderf/Dossier_JAVA_2023/pull/20) on [Drlanderf/Dossier_JAVA_2023](https://github.com/Drlanderf/Dossier_JAVA_2023) (3 weeks ago)
-- [📝Update README.md](https://github.com/Drlanderf/Dossier_JAVA_2023/pull/19) on [Drlanderf/Dossier_JAVA_2023](https://github.com/Drlanderf/Dossier_JAVA_2023) (4 weeks ago)
+- [📝Update README.md](https://github.com/Drlanderf/Dossier_JAVA_2023/pull/19) on [Drlanderf/Dossier_JAVA_2023](https://github.com/Drlanderf/Dossier_JAVA_2023) (1 month ago)
 
 #### 📓 Gists I wrote
 
