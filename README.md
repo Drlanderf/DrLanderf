@@ -99,7 +99,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/U4ItTLZWk2I/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=U4ItTLZWk2I">TUTO VMWARE ESXi vSphere - INSTALLER UN VCENTER DE A à Z</a> (6 months ago) <br/>
+<a href="https://www.youtube.com/watch?v=U4ItTLZWk2I">TUTO VMWARE ESXi vSphere - INSTALLER UN VCENTER DE A à Z</a> (7 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/U4ItTLZWk2I?style=flat-square"> </img>
 </td>
 </tr>
@@ -157,7 +157,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Drlanderf/omniopolis](https://github.com/Drlanderf/omniopolis) -  (today)
+- [Drlanderf/omniopolis](https://github.com/Drlanderf/omniopolis) -  (1 day ago)
 - [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) - 🤖 Basic Discord Bot (1 month ago)
 - [Drlanderf/Dossier_JAVA_2023](https://github.com/Drlanderf/Dossier_JAVA_2023) -  (2 months ago)
 - [Drlanderf/laserotron_evo](https://github.com/Drlanderf/laserotron_evo) - 🤖 Basic Discord Bot (2 months ago)
