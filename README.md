@@ -99,7 +99,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/q3hUL6bT_XE/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=q3hUL6bT_XE">Installer une VM Debian 12 avec du LVM 1.1</a> (4 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=q3hUL6bT_XE">Installer une VM Debian 12 avec du LVM 1.1</a> (5 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/q3hUL6bT_XE?style=flat-square"> </img>
 </td>
 </tr>
@@ -134,7 +134,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/i2cuaoF8dnc/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=i2cuaoF8dnc">Test pour le bot, ne pas préter attention :)</a> (8 months ago) <br/>
+<a href="https://www.youtube.com/watch?v=i2cuaoF8dnc">Test pour le bot, ne pas préter attention :)</a> (9 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/i2cuaoF8dnc?style=flat-square"> </img>
 </td>
 </tr>
@@ -164,7 +164,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Drlanderf/SRV-DEB12-TEMPLATE](https://github.com/Drlanderf/SRV-DEB12-TEMPLATE) -  (5 days ago)
+- [Drlanderf/SRV-DEB12-TEMPLATE](https://github.com/Drlanderf/SRV-DEB12-TEMPLATE) -  (6 days ago)
 - [Drlanderf/omniopolis](https://github.com/Drlanderf/omniopolis) -  (2 weeks ago)
 - [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) - 🤖 Basic Discord Bot (2 months ago)
 - [Drlanderf/Dossier_JAVA_2023](https://github.com/Drlanderf/Dossier_JAVA_2023) -  (2 months ago)
