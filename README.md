@@ -97,6 +97,13 @@
 <table>
 
 <tr>
+<td><img src="https://img.youtube.com/vi/zX151C4A7GE/default.jpg"></img></td>
+<td>
+<a href="https://www.youtube.com/watch?v=zX151C4A7GE">Modifier la taille a chaud du stockage de la VM 1.2</a> (today) <br/>
+<img src="https://img.shields.io/youtube/views/zX151C4A7GE?style=flat-square"> </img>
+</td>
+</tr>
+<tr>
 <td><img src="https://img.youtube.com/vi/q3hUL6bT_XE/default.jpg"></img></td>
 <td>
 <a href="https://www.youtube.com/watch?v=q3hUL6bT_XE">Installer une VM Debian 12 avec du LVM 1.1</a> (1 week ago) <br/>
