@@ -99,7 +99,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/q3hUL6bT_XE/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=q3hUL6bT_XE">Installer une VM Debian 12 avec du LVM 1.1</a> (6 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=q3hUL6bT_XE">Installer une VM Debian 12 avec du LVM 1.1</a> (1 week ago) <br/>
 <img src="https://img.shields.io/youtube/views/q3hUL6bT_XE?style=flat-square"> </img>
 </td>
 </tr>
