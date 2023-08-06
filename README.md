@@ -99,7 +99,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/zX151C4A7GE/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=zX151C4A7GE">Modifier la taille a chaud du stockage de la VM 1.2</a> (today) <br/>
+<a href="https://www.youtube.com/watch?v=zX151C4A7GE">Modifier la taille a chaud du stockage de la VM 1.2</a> (1 day ago) <br/>
 <img src="https://img.shields.io/youtube/views/zX151C4A7GE?style=flat-square"> </img>
 </td>
 </tr>
@@ -134,7 +134,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/vhtzdi7JxJk/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=vhtzdi7JxJk">TUTO VMWARE ESXi vSphere - INSTALLATION XPENOLOGY</a> (8 months ago) <br/>
+<a href="https://www.youtube.com/watch?v=vhtzdi7JxJk">TUTO VMWARE ESXi vSphere - INSTALLATION XPENOLOGY</a> (9 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/vhtzdi7JxJk?style=flat-square"> </img>
 </td>
 </tr>
@@ -171,7 +171,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Drlanderf/SRV-DEB12-TEMPLATE](https://github.com/Drlanderf/SRV-DEB12-TEMPLATE) -  (today)
+- [Drlanderf/SRV-DEB12-TEMPLATE](https://github.com/Drlanderf/SRV-DEB12-TEMPLATE) -  (1 day ago)
 - [Drlanderf/omniopolis](https://github.com/Drlanderf/omniopolis) -  (2 weeks ago)
 - [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) - 🤖 Basic Discord Bot (2 months ago)
 - [Drlanderf/Dossier_JAVA_2023](https://github.com/Drlanderf/Dossier_JAVA_2023) -  (2 months ago)
@@ -208,7 +208,7 @@
 - [🎨 Reformat some code to improve visibility](https://github.com/Drlanderf/Dossier_JAVA_2023/pull/23) on [Drlanderf/Dossier_JAVA_2023](https://github.com/Drlanderf/Dossier_JAVA_2023) (2 months ago)
 - [17 fichier csv](https://github.com/Drlanderf/Dossier_JAVA_2023/pull/22) on [Drlanderf/Dossier_JAVA_2023](https://github.com/Drlanderf/Dossier_JAVA_2023) (2 months ago)
 - [✨ Adding config.properties](https://github.com/Drlanderf/Dossier_JAVA_2023/pull/21) on [Drlanderf/Dossier_JAVA_2023](https://github.com/Drlanderf/Dossier_JAVA_2023) (2 months ago)
-- [15 maingui](https://github.com/Drlanderf/Dossier_JAVA_2023/pull/20) on [Drlanderf/Dossier_JAVA_2023](https://github.com/Drlanderf/Dossier_JAVA_2023) (2 months ago)
+- [15 maingui](https://github.com/Drlanderf/Dossier_JAVA_2023/pull/20) on [Drlanderf/Dossier_JAVA_2023](https://github.com/Drlanderf/Dossier_JAVA_2023) (3 months ago)
 - [📝Update README.md](https://github.com/Drlanderf/Dossier_JAVA_2023/pull/19) on [Drlanderf/Dossier_JAVA_2023](https://github.com/Drlanderf/Dossier_JAVA_2023) (3 months ago)
 
 #### 📓 Gists I wrote
