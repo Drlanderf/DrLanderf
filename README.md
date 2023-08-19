@@ -99,14 +99,14 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/zX151C4A7GE/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=zX151C4A7GE">Modifier la taille a chaud du stockage de la VM 1.2</a> (1 week ago) <br/>
+<a href="https://www.youtube.com/watch?v=zX151C4A7GE">Modifier la taille a chaud du stockage de la VM 1.2</a> (2 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/zX151C4A7GE?style=flat-square"> </img>
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/q3hUL6bT_XE/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=q3hUL6bT_XE">Installer une VM Debian 12 avec du LVM 1.1</a> (2 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=q3hUL6bT_XE">Installer une VM Debian 12 avec du LVM 1.1</a> (3 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/q3hUL6bT_XE?style=flat-square"> </img>
 </td>
 </tr>
@@ -171,15 +171,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Drlanderf/SRV-DEB12-TEMPLATE](https://github.com/Drlanderf/SRV-DEB12-TEMPLATE) -  (1 week ago)
+- [Drlanderf/SRV-DEB12-TEMPLATE](https://github.com/Drlanderf/SRV-DEB12-TEMPLATE) -  (2 weeks ago)
 - [Drlanderf/omniopolis](https://github.com/Drlanderf/omniopolis) -  (1 month ago)
 - [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) - 🤖 Basic Discord Bot (2 months ago)
 - [Drlanderf/Dossier_JAVA_2023](https://github.com/Drlanderf/Dossier_JAVA_2023) -  (3 months ago)
 - [Drlanderf/laserotron_evo](https://github.com/Drlanderf/laserotron_evo) - 🤖 Basic Discord Bot (3 months ago)
-- [Drlanderf/Blockudoku](https://github.com/Drlanderf/Blockudoku) - 📚School project (6 months ago)
-- [Drlanderf/heplgarage](https://github.com/Drlanderf/heplgarage) - 📚School project (6 months ago)
-- [Drlanderf/DrLanderf](https://github.com/Drlanderf/DrLanderf) - 🧑It&#39;s just me with some automation (6 months ago)
-- [Drlanderf/Dossier_Unix_2020](https://github.com/Drlanderf/Dossier_Unix_2020) - 📚School project (6 months ago)
+- [Drlanderf/Blockudoku](https://github.com/Drlanderf/Blockudoku) - 📚School project (7 months ago)
+- [Drlanderf/heplgarage](https://github.com/Drlanderf/heplgarage) - 📚School project (7 months ago)
+- [Drlanderf/DrLanderf](https://github.com/Drlanderf/DrLanderf) - 🧑It&#39;s just me with some automation (7 months ago)
+- [Drlanderf/Dossier_Unix_2020](https://github.com/Drlanderf/Dossier_Unix_2020) - 📚School project (7 months ago)
 - [Drlanderf/Some-Scripts](https://github.com/Drlanderf/Some-Scripts) - some usefull script for postinstall (9 months ago)
 
 #### 🌱 My latest projects
