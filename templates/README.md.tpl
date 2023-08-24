@@ -19,7 +19,7 @@
 
 <h2 align=center> APITSNT - Analyst Programmer IT System | Networks and Telecommunications oriented Student</h2>
 
----
+###
 
 ## 🧰 Technologies & Tools
 
@@ -29,14 +29,27 @@
 
 ###
 
-![Cent OS](https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0)
-![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![OpenBSD](https://img.shields.io/badge/-OpenBSD-%23FCC771?style=for-the-badge&logo=openbsd&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Unraid](https://img.shields.io/badge/unraid-%23F15A2C.svg?style=for-the-badge&logo=unraid&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows11-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
-![vSphere](https://img.shields.io/badge/vSphere-008CC1?style=for-the-badge&logo=vmware&logoColor=ffdd54)
+<div align="left">
+  <img src="https://cdn.simpleicons.org/centos" height="40" alt="vmware logo"/>
+  <img src="https://cdn.simpleicons.org/debian" height="40" alt="vmware logo"/>
+  <img src="https://cdn.simpleicons.org/linux" height="40" alt="vmware logo"/>
+  <img src="https://cdn.simpleicons.org/ubuntu" height="40" alt="vmware logo"/>
+  <img src="https://cdn.simpleicons.org/redhat" height="40" alt="vmware logo"/>
+  <img src="https://cdn.simpleicons.org/gentoo" height="40" alt="vmware logo"/>
+  <img src="https://cdn.simpleicons.org/windows11" height="40" alt="vmware logo"/>
+</div>
+
+###
+
+<h3 align=left>🎛️ Hypervisor used :</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.simpleicons.org/vmware" height="40" alt="vmware logo"/>
+  <img src="https://cdn.simpleicons.org/unraid" height="40" alt="vmware logo"/>
+  <img src="https://cdn.simpleicons.org/proxmox" height="40" alt="vmware logo"/>
+</div>
 
 ###
 
@@ -87,11 +100,13 @@
 
 ###
 
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+<div align="left">
+  <img src="https://cdn.simpleicons.org/npm" height="40" alt="githubactions logo"  />
+  <img src="https://cdn.simpleicons.org/github" height="40" alt="githubactions logo"  />
+  <img src="https://cdn.simpleicons.org/git" height="40" alt="githubactions logo"  />
+  <img src="https://cdn.simpleicons.org/docker" height="40" alt="githubactions logo"  />
+  <img src="https://cdn.simpleicons.org/githubactions" height="40" alt="githubactions logo"  />
+</div>
 
 ###
 
@@ -99,12 +114,14 @@
 
 ###
 
-![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Redis](https://img.shields.io/badge/oracle-%23DD0031.svg?style=for-the-badge&logo=oracle&logoColor=white)
+<div align="left">
+  <img src="https://cdn.simpleicons.org/mariadb" height="40" alt="githubactions logo"  />
+  <img src="https://cdn.simpleicons.org/mysql" height="40" alt="githubactions logo"  />
+  <img src="https://cdn.simpleicons.org/influxdb" height="40" alt="githubactions logo"  />
+  <img src="https://cdn.simpleicons.org/sqlite" height="40" alt="githubactions logo"  />
+  <img src="https://cdn.simpleicons.org/oracle" height="40" alt="githubactions logo"  />
+  <img src="https://cdn.simpleicons.org/microsoftsqlserver" height="40" alt="githubactions logo"  />
+</div>
 
 ###
 
@@ -113,11 +130,8 @@
 ###
 
 🔐 | .env files - https://plugins.jetbrains.com/plugin/9525--env-files-support
-
 📦 | Icons - https://plugins.jetbrains.com/plugin/10044-atom-material-icons
-
 🟣 | Discord Integration: https://plugins.jetbrains.com/plugin/10233-discord-integration
-
 📝 | Formatter - https://plugins.jetbrains.com/plugin/10456-prettier
 
 
