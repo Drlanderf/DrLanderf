@@ -58,11 +58,11 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.simpleicons.org/jetbrains" height="40" alt="jetbrains logo"/>
-  <img src="https://cdn.simpleicons.org/intellijidea" height="40" alt="intellijidea logo"/>
-  <img src="https://cdn.simpleicons.org/pycharm" height="40" alt="pycharm logo"/>
-  <img src="https://cdn.simpleicons.org/phpstorm" height="40" alt="phpstorm logo"/>
-  <img src="https://cdn.simpleicons.org/webstorm" height="40" alt="webstorm logo"/>
+  <img src="https://cdn.simpleicons.org/jetbrains/555555" height="40" alt="jetbrains logo"/>
+  <img src="https://cdn.simpleicons.org/intellijidea/555555" height="40" alt="intellijidea logo"/>
+  <img src="https://cdn.simpleicons.org/pycharm/555555" height="40" alt="pycharm logo"/>
+  <img src="https://cdn.simpleicons.org/phpstorm/555555" height="40" alt="phpstorm logo"/>
+  <img src="https://cdn.simpleicons.org/webstorm/555555" height="40" alt="webstorm logo"/>
   <img src="https://cdn.simpleicons.org/visualstudiocode" height="40" alt="visualstudiocode logo"/>
   <img src="https://cdn.simpleicons.org/visualstudio" height="40" alt="visualstudio logo"/>
   <img src="https://cdn.simpleicons.org/notepadplusplus" height="40" alt="notepadplusplus logo"/>
