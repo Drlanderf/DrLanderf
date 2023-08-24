@@ -30,13 +30,13 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.simpleicons.org/centos" height="40" alt="vmware logo"/>
-  <img src="https://cdn.simpleicons.org/debian" height="40" alt="vmware logo"/>
-  <img src="https://cdn.simpleicons.org/linux" height="40" alt="vmware logo"/>
-  <img src="https://cdn.simpleicons.org/ubuntu" height="40" alt="vmware logo"/>
-  <img src="https://cdn.simpleicons.org/redhat" height="40" alt="vmware logo"/>
-  <img src="https://cdn.simpleicons.org/gentoo" height="40" alt="vmware logo"/>
-  <img src="https://cdn.simpleicons.org/windows11" height="40" alt="vmware logo"/>
+  <img src="https://cdn.simpleicons.org/centos" height="40" alt="centos logo"/>
+  <img src="https://cdn.simpleicons.org/debian" height="40" alt="debian logo"/>
+  <img src="https://cdn.simpleicons.org/linux" height="40" alt="linux logo"/>
+  <img src="https://cdn.simpleicons.org/ubuntu" height="40" alt="ubuntu logo"/>
+  <img src="https://cdn.simpleicons.org/redhat" height="40" alt="redhat logo"/>
+  <img src="https://cdn.simpleicons.org/gentoo" height="40" alt="gentoo logo"/>
+  <img src="https://cdn.simpleicons.org/windows11" height="40" alt="windows11 logo"/>
 </div>
 
 ###
@@ -47,8 +47,8 @@
 
 <div align="left">
   <img src="https://cdn.simpleicons.org/vmware" height="40" alt="vmware logo"/>
-  <img src="https://cdn.simpleicons.org/unraid" height="40" alt="vmware logo"/>
-  <img src="https://cdn.simpleicons.org/proxmox" height="40" alt="vmware logo"/>
+  <img src="https://cdn.simpleicons.org/unraid" height="40" alt="unraid logo"/>
+  <img src="https://cdn.simpleicons.org/proxmox" height="40" alt="proxmox logo"/>
 </div>
 
 ###
@@ -57,14 +57,16 @@
 
 ###
 
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
-![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
+<div align="left">
+  <img src="https://cdn.simpleicons.org/jetbrains" height="40" alt="jetbrains logo"/>
+  <img src="https://cdn.simpleicons.org/intellijidea" height="40" alt="intellijidea logo"/>
+  <img src="https://cdn.simpleicons.org/pycharm" height="40" alt="pycharm logo"/>
+  <img src="https://cdn.simpleicons.org/phpstorm" height="40" alt="phpstorm logo"/>
+  <img src="https://cdn.simpleicons.org/webstorm" height="40" alt="webstorm logo"/>
+  <img src="https://cdn.simpleicons.org/visualstudiocode" height="40" alt="visualstudiocode logo"/>
+  <img src="https://cdn.simpleicons.org/visualstudio" height="40" alt="visualstudio logo"/>
+  <img src="https://cdn.simpleicons.org/notepadplusplus" height="40" alt="notepadplusplus logo"/>
+</div>
 
 ###
 
@@ -101,10 +103,10 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.simpleicons.org/npm" height="40" alt="githubactions logo"  />
-  <img src="https://cdn.simpleicons.org/github" height="40" alt="githubactions logo"  />
-  <img src="https://cdn.simpleicons.org/git" height="40" alt="githubactions logo"  />
-  <img src="https://cdn.simpleicons.org/docker" height="40" alt="githubactions logo"  />
+  <img src="https://cdn.simpleicons.org/npm" height="40" alt="npm logo"  />
+  <img src="https://cdn.simpleicons.org/github" height="40" alt="github logo"  />
+  <img src="https://cdn.simpleicons.org/git" height="40" alt="git logo"  />
+  <img src="https://cdn.simpleicons.org/docker" height="40" alt="docker logo"  />
   <img src="https://cdn.simpleicons.org/githubactions" height="40" alt="githubactions logo"  />
 </div>
 
@@ -115,12 +117,12 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.simpleicons.org/mariadb" height="40" alt="githubactions logo"  />
-  <img src="https://cdn.simpleicons.org/mysql" height="40" alt="githubactions logo"  />
-  <img src="https://cdn.simpleicons.org/influxdb" height="40" alt="githubactions logo"  />
-  <img src="https://cdn.simpleicons.org/sqlite" height="40" alt="githubactions logo"  />
-  <img src="https://cdn.simpleicons.org/oracle" height="40" alt="githubactions logo"  />
-  <img src="https://cdn.simpleicons.org/microsoftsqlserver" height="40" alt="githubactions logo"  />
+  <img src="https://cdn.simpleicons.org/mariadb" height="40" alt="mariadb logo"  />
+  <img src="https://cdn.simpleicons.org/mysql" height="40" alt="mysql logo"  />
+  <img src="https://cdn.simpleicons.org/influxdb" height="40" alt="influxdb logo"  />
+  <img src="https://cdn.simpleicons.org/sqlite" height="40" alt="sqlite logo"  />
+  <img src="https://cdn.simpleicons.org/oracle" height="40" alt="oracle logo"  />
+  <img src="https://cdn.simpleicons.org/microsoftsqlserver" height="40" alt="microsoftsqlserver logo"  />
 </div>
 
 ###
@@ -129,10 +131,12 @@
 
 ###
 
-🔐 | .env files - https://plugins.jetbrains.com/plugin/9525--env-files-support
-📦 | Icons - https://plugins.jetbrains.com/plugin/10044-atom-material-icons
-🟣 | Discord Integration: https://plugins.jetbrains.com/plugin/10233-discord-integration
-📝 | Formatter - https://plugins.jetbrains.com/plugin/10456-prettier
+<p align="left">
+  <br>🔐 | .env files - https://plugins.jetbrains.com/plugin/9525--env-files-support
+  <br>📦 | Icons - https://plugins.jetbrains.com/plugin/10044-atom-material-icons
+  <br>🟣 | Discord Integration: https://plugins.jetbrains.com/plugin/10233-discord-integration
+  <br>📝 | Formatter - https://plugins.jetbrains.com/plugin/10456-prettier
+</p>
 
 
 ###
