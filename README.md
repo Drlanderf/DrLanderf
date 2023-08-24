@@ -11,12 +11,17 @@
 
 </h3>
 
-<h3 align=center> APITSNT - Analyst Programmer IT System | Networks and Telecommunications oriented Student</h3>
+<h2 align=center> APITSNT - Analyst Programmer IT System | Networks and Telecommunications oriented Student</h2>
 
 ---
 
 ## 🧰 Technologies & Tools
-<h4 align=left>🎛️ Operating System used</h4>
+
+###
+
+<h3 align=left>🎛️ Operating System used :</h3>
+
+###
 
 ![Cent OS](https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0)
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
@@ -26,7 +31,12 @@
 ![Unraid](https://img.shields.io/badge/unraid-%23F15A2C.svg?style=for-the-badge&logo=unraid&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows11-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
 ![vSphere](https://img.shields.io/badge/vSphere-008CC1?style=for-the-badge&logo=vmware&logoColor=ffdd54)
-<h4 align=left>💻 Editor.s used</h4>
+
+###
+
+<h3 align=left>💻 Editor.s used :</h3>
+
+###
 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
@@ -36,24 +46,52 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
-<h4 align=left>📋 Language.s used/know</h4>
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-<h4 align=left>🔧 Tool.s used</h4>
+###
+
+<h3 align="left">📋 Language.s used/know :</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/powershell/5391FE" height="40" alt="powershell logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/dotnet/512BD4" height="40" alt="dot-net logo"  />
+</div>
+
+###
+
+<h3 align=left>🔧 Tool.s used :</h3>
+
+###
 
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-<h4 align=left>💾 SGBD used</h4>
+
+###
+
+<h3 align=left>💾 SGBD used :</h3>
+
+###
 
 ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
@@ -61,14 +99,12 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Redis](https://img.shields.io/badge/oracle-%23DD0031.svg?style=for-the-badge&logo=oracle&logoColor=white)
-<h4 align=left>☁️ Hosting used</h4>
 
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D)
+###
 
+<h3 align=left>⚙️ JetBrain Extensions :</h3>
 
-## ⚙️ JetBrain Extensions
+###
 
 🔐 | .env files - https://plugins.jetbrains.com/plugin/9525--env-files-support
 
@@ -79,8 +115,11 @@
 📝 | Formatter - https://plugins.jetbrains.com/plugin/10456-prettier
 
 
-## 📊 GitHub Statistics
+###
 
+<h3 align=left>🔥 My Stats :</h3>
+
+###
 
 <p align="center">
 <a href="https://github.com/Drlanderf">
@@ -89,6 +128,12 @@
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Drlanderf&theme=dark&date_format=j%20M%5B%20Y%5D" /></a>
 </a>
 </p>
+
+###
+
+<img src="https://raw.githubusercontent.com/Drlanderf/Drlanderf/output/snake.svg" alt="Snake animation" />
+
+###
 
 ---
 
@@ -171,6 +216,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [Drlanderf/DrLanderf](https://github.com/Drlanderf/DrLanderf) - 🧑It&#39;s just me with some automation (today)
 - [Drlanderf/SRV-DEB12-TEMPLATE](https://github.com/Drlanderf/SRV-DEB12-TEMPLATE) -  (2 weeks ago)
 - [Drlanderf/omniopolis](https://github.com/Drlanderf/omniopolis) -  (1 month ago)
 - [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) - 🤖 Basic Discord Bot (2 months ago)
@@ -178,7 +224,6 @@
 - [Drlanderf/laserotron_evo](https://github.com/Drlanderf/laserotron_evo) - 🤖 Basic Discord Bot (3 months ago)
 - [Drlanderf/Blockudoku](https://github.com/Drlanderf/Blockudoku) - 📚School project (7 months ago)
 - [Drlanderf/heplgarage](https://github.com/Drlanderf/heplgarage) - 📚School project (7 months ago)
-- [Drlanderf/DrLanderf](https://github.com/Drlanderf/DrLanderf) - 🧑It&#39;s just me with some automation (7 months ago)
 - [Drlanderf/Dossier_Unix_2020](https://github.com/Drlanderf/Dossier_Unix_2020) - 📚School project (7 months ago)
 - [Drlanderf/Some-Scripts](https://github.com/Drlanderf/Some-Scripts) - some usefull script for postinstall (9 months ago)
 
