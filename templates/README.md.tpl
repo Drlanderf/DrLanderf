@@ -109,7 +109,30 @@
   <img src="https://cdn.simpleicons.org/influxdb" height="40" alt="influxdb logo"  />
   <img src="https://cdn.simpleicons.org/sqlite" height="40" alt="sqlite logo"  />
   <img src="https://cdn.simpleicons.org/oracle" height="40" alt="oracle logo"  />
+  <img src="https://cdn.simpleicons.org/mongodb" height="40" alt="mongodb logo"  />
   <img src="https://cdn.simpleicons.org/microsoftsqlserver" height="40" alt="microsoftsqlserver logo"  />
+</div>
+
+###
+
+<h3 align=left>💽 NAS OS used :</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.simpleicons.org/unraid" height="40" alt="unraid logo"  />
+  <img src="https://cdn.simpleicons.org/truenas" height="40" alt="truenas logo"  />
+  <img src="https://cdn.simpleicons.org/freenas" height="40" alt="freenas logo"  />
+  <img src="https://cdn.simpleicons.org/synology" height="40" alt="synology logo"  />
+<p>
+    ⚙️ Current NAS config : 
+    <br><img src="https://cdn.simpleicons.org/unraid" height="40" alt="unraid logo"/>
+    <br> | Main share for Domestic usage (HDD + cache)
+    <br> | Main NFS share for my hypervisor's ISO (HDD + cache)
+    <br> | Secondary NFS share for my hypervisor's VM (SSD) => For VM I need to put on SSD
+    <br><img src="https://cdn.simpleicons.org/synology" height="40" alt="synology logo"/>
+    <br> | NFS share for my hypervisor's VM (HDD) => For VM I don't need to put on SSD
+</p>
 </div>
 
 ###
