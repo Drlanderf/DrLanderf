@@ -177,14 +177,14 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/zX151C4A7GE/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=zX151C4A7GE">Modifier la taille a chaud du stockage de la VM 1.2</a> (2 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=zX151C4A7GE">Modifier la taille a chaud du stockage de la VM 1.2</a> (3 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/zX151C4A7GE?style=flat-square"> </img>
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/q3hUL6bT_XE/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=q3hUL6bT_XE">Installer une VM Debian 12 avec du LVM 1.1</a> (3 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=q3hUL6bT_XE">Installer une VM Debian 12 avec du LVM 1.1</a> (4 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/q3hUL6bT_XE?style=flat-square"> </img>
 </td>
 </tr>
@@ -249,8 +249,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Drlanderf/DrLanderf](https://github.com/Drlanderf/DrLanderf) - 🧑It&#39;s just me with some automation (today)
-- [Drlanderf/SRV-DEB12-TEMPLATE](https://github.com/Drlanderf/SRV-DEB12-TEMPLATE) -  (2 weeks ago)
+- [Drlanderf/DrLanderf](https://github.com/Drlanderf/DrLanderf) - 🧑It&#39;s just me with some automation (1 day ago)
+- [Drlanderf/SRV-DEB12-TEMPLATE](https://github.com/Drlanderf/SRV-DEB12-TEMPLATE) -  (3 weeks ago)
 - [Drlanderf/omniopolis](https://github.com/Drlanderf/omniopolis) -  (1 month ago)
 - [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) - 🤖 Basic Discord Bot (2 months ago)
 - [Drlanderf/Dossier_JAVA_2023](https://github.com/Drlanderf/Dossier_JAVA_2023) -  (3 months ago)
