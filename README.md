@@ -233,7 +233,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/_3ZPngikmQI/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=_3ZPngikmQI">Faire son bot discord, préparation de l&#39;environnement de travail #00bis || Discord JS v14</a> (9 months ago) <br/>
+<a href="https://www.youtube.com/watch?v=_3ZPngikmQI">Faire son bot discord, préparation de l&#39;environnement de travail #00bis || Discord JS v14</a> (10 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/_3ZPngikmQI?style=flat-square"> </img>
 </td>
 </tr>
@@ -249,8 +249,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) - 🤖 Basic Discord Bot (today)
-- [Drlanderf/DrLanderf](https://github.com/Drlanderf/DrLanderf) - 🧑It&#39;s just me with some automation (3 days ago)
+- [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) - 🤖 Basic Discord Bot (1 day ago)
+- [Drlanderf/DrLanderf](https://github.com/Drlanderf/DrLanderf) - 🧑It&#39;s just me with some automation (4 days ago)
 - [Drlanderf/SRV-DEB12-TEMPLATE](https://github.com/Drlanderf/SRV-DEB12-TEMPLATE) -  (3 weeks ago)
 - [Drlanderf/omniopolis](https://github.com/Drlanderf/omniopolis) -  (1 month ago)
 - [Drlanderf/Dossier_JAVA_2023](https://github.com/Drlanderf/Dossier_JAVA_2023) -  (3 months ago)
