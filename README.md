@@ -198,7 +198,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/F5J9y_rkVSk/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=F5J9y_rkVSk">TUTO VMWARE ESXi vSphere - FAIRE UNE NFS DATASTORE DE A à Z</a> (8 months ago) <br/>
+<a href="https://www.youtube.com/watch?v=F5J9y_rkVSk">TUTO VMWARE ESXi vSphere - FAIRE UNE NFS DATASTORE DE A à Z</a> (9 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/F5J9y_rkVSk?style=flat-square"> </img>
 </td>
 </tr>
@@ -249,12 +249,12 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) - 🤖 Basic Discord Bot (5 days ago)
+- [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) - 🤖 Basic Discord Bot (6 days ago)
 - [Drlanderf/DrLanderf](https://github.com/Drlanderf/DrLanderf) - 🧑It&#39;s just me with some automation (1 week ago)
 - [Drlanderf/SRV-DEB12-TEMPLATE](https://github.com/Drlanderf/SRV-DEB12-TEMPLATE) -  (4 weeks ago)
 - [Drlanderf/omniopolis](https://github.com/Drlanderf/omniopolis) -  (1 month ago)
 - [Drlanderf/Dossier_JAVA_2023](https://github.com/Drlanderf/Dossier_JAVA_2023) -  (3 months ago)
-- [Drlanderf/laserotron_evo](https://github.com/Drlanderf/laserotron_evo) - 🤖 Basic Discord Bot (3 months ago)
+- [Drlanderf/laserotron_evo](https://github.com/Drlanderf/laserotron_evo) - 🤖 Basic Discord Bot (4 months ago)
 - [Drlanderf/Blockudoku](https://github.com/Drlanderf/Blockudoku) - 📚School project (7 months ago)
 - [Drlanderf/heplgarage](https://github.com/Drlanderf/heplgarage) - 📚School project (7 months ago)
 - [Drlanderf/Dossier_Unix_2020](https://github.com/Drlanderf/Dossier_Unix_2020) - 📚School project (7 months ago)
