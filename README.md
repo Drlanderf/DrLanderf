@@ -249,7 +249,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Drlanderf/labo0_springboot](https://github.com/Drlanderf/labo0_springboot) -  (1 day ago)
+- [Drlanderf/labo0_springboot](https://github.com/Drlanderf/labo0_springboot) -  (2 days ago)
 - [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) - 🤖 Basic Discord Bot (3 weeks ago)
 - [Drlanderf/DrLanderf](https://github.com/Drlanderf/DrLanderf) - 🧑It&#39;s just me with some automation (4 weeks ago)
 - [Drlanderf/SRV-DEB12-TEMPLATE](https://github.com/Drlanderf/SRV-DEB12-TEMPLATE) -  (1 month ago)
@@ -275,7 +275,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) ([v5.4.3](https://github.com/Drlanderf/clara_oswald/releases/tag/v5.4.3), 1 day ago) - 🤖 Basic Discord Bot
+- [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) ([v5.4.3](https://github.com/Drlanderf/clara_oswald/releases/tag/v5.4.3), 2 days ago) - 🤖 Basic Discord Bot
 
 #### 🔨 My recent Pull Requests
 
