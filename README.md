@@ -240,7 +240,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/3coo6NVhHLY/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=3coo6NVhHLY">Faire son bot discord, préparation de l&#39;environnement de travail #00 || Discord.JS v14</a> (10 months ago) <br/>
+<a href="https://www.youtube.com/watch?v=3coo6NVhHLY">Faire son bot discord, préparation de l&#39;environnement de travail #00 || Discord.JS v14</a> (11 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/3coo6NVhHLY?style=flat-square"> </img>
 </td>
 </tr>
@@ -249,9 +249,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Drlanderf/labo0_springboot](https://github.com/Drlanderf/labo0_springboot) -  (2 days ago)
+- [Drlanderf/labo0_springboot](https://github.com/Drlanderf/labo0_springboot) -  (3 days ago)
 - [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) - 🤖 Basic Discord Bot (3 weeks ago)
-- [Drlanderf/DrLanderf](https://github.com/Drlanderf/DrLanderf) - 🧑It&#39;s just me with some automation (4 weeks ago)
+- [Drlanderf/DrLanderf](https://github.com/Drlanderf/DrLanderf) - 🧑It&#39;s just me with some automation (1 month ago)
 - [Drlanderf/SRV-DEB12-TEMPLATE](https://github.com/Drlanderf/SRV-DEB12-TEMPLATE) -  (1 month ago)
 - [Drlanderf/omniopolis](https://github.com/Drlanderf/omniopolis) -  (2 months ago)
 - [Drlanderf/Dossier_JAVA_2023](https://github.com/Drlanderf/Dossier_JAVA_2023) -  (4 months ago)
@@ -275,7 +275,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) ([v5.4.3](https://github.com/Drlanderf/clara_oswald/releases/tag/v5.4.3), 2 days ago) - 🤖 Basic Discord Bot
+- [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) ([v5.4.3](https://github.com/Drlanderf/clara_oswald/releases/tag/v5.4.3), 3 days ago) - 🤖 Basic Discord Bot
 
 #### 🔨 My recent Pull Requests
 
