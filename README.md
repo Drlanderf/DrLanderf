@@ -254,28 +254,28 @@
 #### 👷 Check out what I'm currently working on
 
 - [Drlanderf/DrLanderf](https://github.com/Drlanderf/DrLanderf) - 🧑It&#39;s just me with some automation (today)
-- [Drlanderf/ServeurMaraicher](https://github.com/Drlanderf/ServeurMaraicher) -  (2 days ago)
-- [Drlanderf/lib_socket](https://github.com/Drlanderf/lib_socket) -  (2 days ago)
+- [Drlanderf/lib_socket](https://github.com/Drlanderf/lib_socket) - 📚School project (2 days ago)
+- [Drlanderf/ServeurMaraicher](https://github.com/Drlanderf/ServeurMaraicher) - 📚School project (2 days ago)
 - [Drlanderf/labo0_springboot](https://github.com/Drlanderf/labo0_springboot) -  (6 days ago)
 - [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) - 🤖 Basic Discord Bot (1 month ago)
-- [Drlanderf/SRV-DEB12-TEMPLATE](https://github.com/Drlanderf/SRV-DEB12-TEMPLATE) -  (1 month ago)
-- [Drlanderf/omniopolis](https://github.com/Drlanderf/omniopolis) -  (2 months ago)
-- [Drlanderf/Dossier_JAVA_2023](https://github.com/Drlanderf/Dossier_JAVA_2023) -  (4 months ago)
+- [Drlanderf/SRV-DEB12-TEMPLATE](https://github.com/Drlanderf/SRV-DEB12-TEMPLATE) - 🧰 simple template (1 month ago)
+- [Drlanderf/Dossier_JAVA_2023](https://github.com/Drlanderf/Dossier_JAVA_2023) - 📚School project (4 months ago)
 - [Drlanderf/laserotron_evo](https://github.com/Drlanderf/laserotron_evo) - 🤖 Basic Discord Bot (4 months ago)
-- [Drlanderf/heplgarage](https://github.com/Drlanderf/heplgarage) - 📚School project (8 months ago)
+- [Drlanderf/Blockudoku](https://github.com/Drlanderf/Blockudoku) - 📚School project (8 months ago)
+- [Drlanderf/Dossier_Unix_2020](https://github.com/Drlanderf/Dossier_Unix_2020) - 📚School project (8 months ago)
 
 #### 🌱 My latest projects
 
-- [Drlanderf/ServeurMaraicher](https://github.com/Drlanderf/ServeurMaraicher) - 
-- [Drlanderf/lib_socket](https://github.com/Drlanderf/lib_socket) - 
+- [Drlanderf/ServeurMaraicher](https://github.com/Drlanderf/ServeurMaraicher) - 📚School project
+- [Drlanderf/lib_socket](https://github.com/Drlanderf/lib_socket) - 📚School project
 - [Drlanderf/labo0_springboot](https://github.com/Drlanderf/labo0_springboot) - 
-- [Drlanderf/SRV-DEB12-TEMPLATE](https://github.com/Drlanderf/SRV-DEB12-TEMPLATE) - 
-- [Drlanderf/omniopolis](https://github.com/Drlanderf/omniopolis) - 
-- [Drlanderf/Dossier_JAVA_2023](https://github.com/Drlanderf/Dossier_JAVA_2023) - 
+- [Drlanderf/SRV-DEB12-TEMPLATE](https://github.com/Drlanderf/SRV-DEB12-TEMPLATE) - 🧰 simple template
+- [Drlanderf/Dossier_JAVA_2023](https://github.com/Drlanderf/Dossier_JAVA_2023) - 📚School project
 - [Drlanderf/Blockudoku](https://github.com/Drlanderf/Blockudoku) - 📚School project
 - [Drlanderf/Dossier_Unix_2020](https://github.com/Drlanderf/Dossier_Unix_2020) - 📚School project
 - [Drlanderf/heplgarage](https://github.com/Drlanderf/heplgarage) - 📚School project
 - [Drlanderf/laserotron_evo](https://github.com/Drlanderf/laserotron_evo) - 🤖 Basic Discord Bot
+- [Drlanderf/Some-Scripts](https://github.com/Drlanderf/Some-Scripts) - some usefull script for postinstall
 
 #### 🔭 Latest releases I've contributed to
 
