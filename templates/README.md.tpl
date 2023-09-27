@@ -5,7 +5,6 @@
 ###
 
 <h3 align=center>
-https://github.com/Drlanderf/DrLanderf/blob/main/homelab.png
 ![](https://komarev.com/ghpvc/?username=DrLanderf&label=Views&color=lightgrey)
 [![Twitter Follow](https://img.shields.io/twitter/follow/LanderfCorp?label=Follow)](https://twitter.com/intent/follow?screen_name=LanderfCorp)
 [![GitHub followers](https://img.shields.io/github/followers/DrLanderf?label=Follow&style=social)](https://github.com/Drlanderf)
@@ -169,7 +168,7 @@ https://github.com/Drlanderf/DrLanderf/blob/main/homelab.png
 ###
 
 <div align="center">
-  <img height="150" src="https://github.com/Drlanderf/DrLanderf/blob/main/homelab.png"  />
+  <img src="https://github.com/Drlanderf/DrLanderf/blob/main/homelab.png"  />
 </div>
 
 ---
