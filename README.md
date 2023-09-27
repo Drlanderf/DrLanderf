@@ -254,6 +254,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [Drlanderf/DrLanderf](https://github.com/Drlanderf/DrLanderf) - 🧑It&#39;s just me with some automation (today)
+- [Drlanderf/Some-Scripts](https://github.com/Drlanderf/Some-Scripts) - some usefull script for postinstall (today)
 - [Drlanderf/lib_socket](https://github.com/Drlanderf/lib_socket) - 📚School project (2 days ago)
 - [Drlanderf/ServeurMaraicher](https://github.com/Drlanderf/ServeurMaraicher) - 📚School project (2 days ago)
 - [Drlanderf/labo0_springboot](https://github.com/Drlanderf/labo0_springboot) - 📚School project/test (6 days ago)
@@ -261,8 +262,7 @@
 - [Drlanderf/SRV-DEB12-TEMPLATE](https://github.com/Drlanderf/SRV-DEB12-TEMPLATE) - 🧰 simple template (1 month ago)
 - [Drlanderf/Dossier_JAVA_2023](https://github.com/Drlanderf/Dossier_JAVA_2023) - 📚School project (4 months ago)
 - [Drlanderf/laserotron_evo](https://github.com/Drlanderf/laserotron_evo) - 🤖 Basic Discord Bot (4 months ago)
-- [Drlanderf/Blockudoku](https://github.com/Drlanderf/Blockudoku) - 📚School project (8 months ago)
-- [Drlanderf/Dossier_Unix_2020](https://github.com/Drlanderf/Dossier_Unix_2020) - 📚School project (8 months ago)
+- [Drlanderf/heplgarage](https://github.com/Drlanderf/heplgarage) - 📚School project (8 months ago)
 
 #### 🌱 My latest projects
 
@@ -280,6 +280,7 @@
 #### 🔭 Latest releases I've contributed to
 
 - [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) ([v5.4.3](https://github.com/Drlanderf/clara_oswald/releases/tag/v5.4.3), 6 days ago) - 🤖 Basic Discord Bot
+- [Drlanderf/laserotron_evo](https://github.com/Drlanderf/laserotron_evo) ([0.0.1](https://github.com/Drlanderf/laserotron_evo/releases/tag/0.0.1), 10 months ago) - 🤖 Basic Discord Bot
 
 #### 🔨 My recent Pull Requests
 
