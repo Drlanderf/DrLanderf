@@ -256,7 +256,7 @@
 - [Drlanderf/DrLanderf](https://github.com/Drlanderf/DrLanderf) - 🧑It&#39;s just me with some automation (today)
 - [Drlanderf/lib_socket](https://github.com/Drlanderf/lib_socket) - 📚School project (2 days ago)
 - [Drlanderf/ServeurMaraicher](https://github.com/Drlanderf/ServeurMaraicher) - 📚School project (2 days ago)
-- [Drlanderf/labo0_springboot](https://github.com/Drlanderf/labo0_springboot) -  (6 days ago)
+- [Drlanderf/labo0_springboot](https://github.com/Drlanderf/labo0_springboot) - 📚School project/test (6 days ago)
 - [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) - 🤖 Basic Discord Bot (1 month ago)
 - [Drlanderf/SRV-DEB12-TEMPLATE](https://github.com/Drlanderf/SRV-DEB12-TEMPLATE) - 🧰 simple template (1 month ago)
 - [Drlanderf/Dossier_JAVA_2023](https://github.com/Drlanderf/Dossier_JAVA_2023) - 📚School project (4 months ago)
@@ -268,7 +268,7 @@
 
 - [Drlanderf/ServeurMaraicher](https://github.com/Drlanderf/ServeurMaraicher) - 📚School project
 - [Drlanderf/lib_socket](https://github.com/Drlanderf/lib_socket) - 📚School project
-- [Drlanderf/labo0_springboot](https://github.com/Drlanderf/labo0_springboot) - 
+- [Drlanderf/labo0_springboot](https://github.com/Drlanderf/labo0_springboot) - 📚School project/test
 - [Drlanderf/SRV-DEB12-TEMPLATE](https://github.com/Drlanderf/SRV-DEB12-TEMPLATE) - 🧰 simple template
 - [Drlanderf/Dossier_JAVA_2023](https://github.com/Drlanderf/Dossier_JAVA_2023) - 📚School project
 - [Drlanderf/Blockudoku](https://github.com/Drlanderf/Blockudoku) - 📚School project
