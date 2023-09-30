@@ -266,7 +266,6 @@
 
 #### 🌱 My latest projects
 
-- [Drlanderf/my_first_android_application_test](https://github.com/Drlanderf/my_first_android_application_test) - Simple project to test building,etc. to make some android/ios application
 - [Drlanderf/ServeurMaraicher](https://github.com/Drlanderf/ServeurMaraicher) - 📚School project
 - [Drlanderf/lib_socket](https://github.com/Drlanderf/lib_socket) - 📚School project
 - [Drlanderf/labo0_springboot](https://github.com/Drlanderf/labo0_springboot) - 📚School project/test
@@ -276,6 +275,7 @@
 - [Drlanderf/Dossier_Unix_2020](https://github.com/Drlanderf/Dossier_Unix_2020) - 📚School project
 - [Drlanderf/heplgarage](https://github.com/Drlanderf/heplgarage) - 📚School project
 - [Drlanderf/laserotron_evo](https://github.com/Drlanderf/laserotron_evo) - 🤖 Basic Discord Bot
+- [Drlanderf/Some-Scripts](https://github.com/Drlanderf/Some-Scripts) - some usefull script for postinstall
 
 #### 🔭 Latest releases I've contributed to
 
