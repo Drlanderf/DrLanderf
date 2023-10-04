@@ -181,7 +181,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/zX151C4A7GE/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=zX151C4A7GE">Modifier la taille a chaud du stockage de la VM 1.2</a> (1 month ago) <br/>
+<a href="https://www.youtube.com/watch?v=zX151C4A7GE">Modifier la taille a chaud du stockage de la VM 1.2</a> (2 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/zX151C4A7GE?style=flat-square"> </img>
 </td>
 </tr>
@@ -253,14 +253,14 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Drlanderf/bombe-flutterapp](https://github.com/Drlanderf/bombe-flutterapp) -  (today)
-- [Drlanderf/Some-Scripts](https://github.com/Drlanderf/Some-Scripts) - some usefull script for postinstall (6 days ago)
-- [Drlanderf/DrLanderf](https://github.com/Drlanderf/DrLanderf) - 🧑It&#39;s just me with some automation (6 days ago)
+- [Drlanderf/bombe-flutterapp](https://github.com/Drlanderf/bombe-flutterapp) -  (1 day ago)
+- [Drlanderf/Some-Scripts](https://github.com/Drlanderf/Some-Scripts) - some usefull script for postinstall (1 week ago)
+- [Drlanderf/DrLanderf](https://github.com/Drlanderf/DrLanderf) - 🧑It&#39;s just me with some automation (1 week ago)
 - [Drlanderf/lib_socket](https://github.com/Drlanderf/lib_socket) - 📚School project (1 week ago)
 - [Drlanderf/ServeurMaraicher](https://github.com/Drlanderf/ServeurMaraicher) - 📚School project (1 week ago)
 - [Drlanderf/labo0_springboot](https://github.com/Drlanderf/labo0_springboot) - 📚School project/test (1 week ago)
 - [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) - 🤖 Basic Discord Bot (1 month ago)
-- [Drlanderf/SRV-DEB12-TEMPLATE](https://github.com/Drlanderf/SRV-DEB12-TEMPLATE) - 🧰 simple template (1 month ago)
+- [Drlanderf/SRV-DEB12-TEMPLATE](https://github.com/Drlanderf/SRV-DEB12-TEMPLATE) - 🧰 simple template (2 months ago)
 - [Drlanderf/Dossier_JAVA_2023](https://github.com/Drlanderf/Dossier_JAVA_2023) - 📚School project (4 months ago)
 - [Drlanderf/laserotron_evo](https://github.com/Drlanderf/laserotron_evo) - 🤖 Basic Discord Bot (5 months ago)
 
