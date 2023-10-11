@@ -253,9 +253,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Drlanderf/DrLanderf](https://github.com/Drlanderf/DrLanderf) - 🧑It&#39;s just me with some automation (today)
+- [Drlanderf/DrLanderf](https://github.com/Drlanderf/DrLanderf) - 🧑It&#39;s just me with some automation (1 day ago)
 - [Drlanderf/bombe-flutterapp](https://github.com/Drlanderf/bombe-flutterapp) -  (1 week ago)
-- [Drlanderf/Some-Scripts](https://github.com/Drlanderf/Some-Scripts) - some usefull script for postinstall (1 week ago)
+- [Drlanderf/Some-Scripts](https://github.com/Drlanderf/Some-Scripts) - some usefull script for postinstall (2 weeks ago)
 - [Drlanderf/lib_socket](https://github.com/Drlanderf/lib_socket) - 📚School project (2 weeks ago)
 - [Drlanderf/ServeurMaraicher](https://github.com/Drlanderf/ServeurMaraicher) - 📚School project (2 weeks ago)
 - [Drlanderf/labo0_springboot](https://github.com/Drlanderf/labo0_springboot) - 📚School project/test (2 weeks ago)
