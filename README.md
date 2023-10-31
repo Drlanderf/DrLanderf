@@ -230,7 +230,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/vn788hCSlXI/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=vn788hCSlXI">Faire son bot discord,  Init du bot et le premier événement #01 || Discord JS v14</a> (11 months ago) <br/>
+<a href="https://www.youtube.com/watch?v=vn788hCSlXI">Faire son bot discord,  Init du bot et le premier événement #01 || Discord JS v14</a> (1 year ago) <br/>
 <img src="https://img.shields.io/youtube/views/vn788hCSlXI?style=flat-square"> </img>
 </td>
 </tr>
@@ -253,8 +253,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Drlanderf/DrLanderf](https://github.com/Drlanderf/DrLanderf) - 🧑It&#39;s just me with some automation (2 weeks ago)
-- [Drlanderf/bombe-flutterapp](https://github.com/Drlanderf/bombe-flutterapp) -  (3 weeks ago)
+- [Drlanderf/DrLanderf](https://github.com/Drlanderf/DrLanderf) - 🧑It&#39;s just me with some automation (3 weeks ago)
+- [Drlanderf/bombe-flutterapp](https://github.com/Drlanderf/bombe-flutterapp) -  (4 weeks ago)
 - [Drlanderf/Some-Scripts](https://github.com/Drlanderf/Some-Scripts) - some usefull script for postinstall (1 month ago)
 - [Drlanderf/lib_socket](https://github.com/Drlanderf/lib_socket) - 📚School project (1 month ago)
 - [Drlanderf/ServeurMaraicher](https://github.com/Drlanderf/ServeurMaraicher) - 📚School project (1 month ago)
