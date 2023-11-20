@@ -258,7 +258,7 @@
 - [Drlanderf/Some-Scripts](https://github.com/Drlanderf/Some-Scripts) - some usefull script for postinstall (1 month ago)
 - [Drlanderf/lib_socket](https://github.com/Drlanderf/lib_socket) - 📚School project (1 month ago)
 - [Drlanderf/ServeurMaraicher](https://github.com/Drlanderf/ServeurMaraicher) - 📚School project (1 month ago)
-- [Drlanderf/labo0_springboot](https://github.com/Drlanderf/labo0_springboot) - 📚School project/test (1 month ago)
+- [Drlanderf/labo0_springboot](https://github.com/Drlanderf/labo0_springboot) - 📚School project/test (2 months ago)
 - [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) - 🤖 Basic Discord Bot (2 months ago)
 - [Drlanderf/SRV-DEB12-TEMPLATE](https://github.com/Drlanderf/SRV-DEB12-TEMPLATE) - 🧰 simple template (3 months ago)
 - [Drlanderf/Dossier_JAVA_2023](https://github.com/Drlanderf/Dossier_JAVA_2023) - 📚School project (6 months ago)
@@ -279,7 +279,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) ([v5.4.3](https://github.com/Drlanderf/clara_oswald/releases/tag/v5.4.3), 1 month ago) - 🤖 Basic Discord Bot
+- [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) ([v5.4.3](https://github.com/Drlanderf/clara_oswald/releases/tag/v5.4.3), 2 months ago) - 🤖 Basic Discord Bot
 - [Drlanderf/laserotron_evo](https://github.com/Drlanderf/laserotron_evo) ([0.0.1](https://github.com/Drlanderf/laserotron_evo/releases/tag/0.0.1), 11 months ago) - 🤖 Basic Discord Bot
 
 #### 🔨 My recent Pull Requests
