@@ -280,7 +280,7 @@
 #### 🔭 Latest releases I've contributed to
 
 - [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) ([v5.4.3](https://github.com/Drlanderf/clara_oswald/releases/tag/v5.4.3), 2 months ago) - 🤖 Basic Discord Bot
-- [Drlanderf/laserotron_evo](https://github.com/Drlanderf/laserotron_evo) ([0.0.1](https://github.com/Drlanderf/laserotron_evo/releases/tag/0.0.1), 11 months ago) - 🤖 Basic Discord Bot
+- [Drlanderf/laserotron_evo](https://github.com/Drlanderf/laserotron_evo) ([0.0.1](https://github.com/Drlanderf/laserotron_evo/releases/tag/0.0.1), 1 year ago) - 🤖 Basic Discord Bot
 
 #### 🔨 My recent Pull Requests
 
