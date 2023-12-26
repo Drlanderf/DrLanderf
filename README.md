@@ -188,7 +188,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/q3hUL6bT_XE/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=q3hUL6bT_XE">Installer une VM Debian 12 avec du LVM 1.1</a> (4 months ago) <br/>
+<a href="https://www.youtube.com/watch?v=q3hUL6bT_XE">Installer une VM Debian 12 avec du LVM 1.1</a> (5 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/q3hUL6bT_XE?style=flat-square"> </img>
 </td>
 </tr>
@@ -255,11 +255,11 @@
 
 - [Drlanderf/DrLanderf](https://github.com/Drlanderf/DrLanderf) - 🧑It&#39;s just me with some automation (2 months ago)
 - [Drlanderf/bombe-flutterapp](https://github.com/Drlanderf/bombe-flutterapp) -  (2 months ago)
-- [Drlanderf/Some-Scripts](https://github.com/Drlanderf/Some-Scripts) - some usefull script for postinstall (2 months ago)
+- [Drlanderf/Some-Scripts](https://github.com/Drlanderf/Some-Scripts) - some usefull script for postinstall (3 months ago)
 - [Drlanderf/lib_socket](https://github.com/Drlanderf/lib_socket) - 📚School project (3 months ago)
 - [Drlanderf/ServeurMaraicher](https://github.com/Drlanderf/ServeurMaraicher) - 📚School project (3 months ago)
 - [Drlanderf/labo0_springboot](https://github.com/Drlanderf/labo0_springboot) - 📚School project/test (3 months ago)
-- [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) - 🤖 Basic Discord Bot (3 months ago)
+- [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) - 🤖 Basic Discord Bot (4 months ago)
 - [Drlanderf/SRV-DEB12-TEMPLATE](https://github.com/Drlanderf/SRV-DEB12-TEMPLATE) - 🧰 simple template (4 months ago)
 - [Drlanderf/Dossier_JAVA_2023](https://github.com/Drlanderf/Dossier_JAVA_2023) - 📚School project (7 months ago)
 - [Drlanderf/laserotron_evo](https://github.com/Drlanderf/laserotron_evo) - 🤖 Basic Discord Bot (7 months ago)
