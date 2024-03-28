@@ -253,7 +253,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Drlanderf/Mephisto](https://github.com/Drlanderf/Mephisto) - Simple Fork of WizardWardrobe included DLC dungeons (today)
+- [Drlanderf/Mephisto](https://github.com/Drlanderf/Mephisto) - Simple Fork of WizardWardrobe included DLC dungeons (1 day ago)
 - [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) - 🤖 Basic Discord Bot (1 month ago)
 - [Drlanderf/DrLanderf](https://github.com/Drlanderf/DrLanderf) - 🧑It&#39;s just me with some automation (5 months ago)
 - [Drlanderf/bombe-flutterapp](https://github.com/Drlanderf/bombe-flutterapp) -  (5 months ago)
@@ -279,7 +279,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Drlanderf/Mephisto](https://github.com/Drlanderf/Mephisto) ([2.2.4](https://github.com/Drlanderf/Mephisto/releases/tag/2.2.4), today) - Simple Fork of WizardWardrobe included DLC dungeons
+- [Drlanderf/Mephisto](https://github.com/Drlanderf/Mephisto) ([2.2.4](https://github.com/Drlanderf/Mephisto/releases/tag/2.2.4), 1 day ago) - Simple Fork of WizardWardrobe included DLC dungeons
 - [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) ([v5.4.4](https://github.com/Drlanderf/clara_oswald/releases/tag/v5.4.4), 1 month ago) - 🤖 Basic Discord Bot
 - [Drlanderf/laserotron_evo](https://github.com/Drlanderf/laserotron_evo) ([0.0.1](https://github.com/Drlanderf/laserotron_evo/releases/tag/0.0.1), 1 year ago) - 🤖 Basic Discord Bot
 
@@ -288,9 +288,9 @@
 - [📦️ Update the npm package &#43; add rolebutton](https://github.com/Drlanderf/clara_oswald/pull/155) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 month ago)
 - [✨ Starting create monothread APP](https://github.com/Drlanderf/ServeurMaraicher/pull/2) on [Drlanderf/ServeurMaraicher](https://github.com/Drlanderf/ServeurMaraicher) (6 months ago)
 - [✨ Making function for the lib](https://github.com/Drlanderf/lib_socket/pull/2) on [Drlanderf/lib_socket](https://github.com/Drlanderf/lib_socket) (6 months ago)
-- [🚑️ HOTFIX =&gt; Prevent probably crash](https://github.com/Drlanderf/clara_oswald/pull/149) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (9 months ago)
-- [🚑️ HOTFIX](https://github.com/Drlanderf/clara_oswald/pull/147) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (9 months ago)
-- [143 music bot.hotfix](https://github.com/Drlanderf/clara_oswald/pull/146) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (9 months ago)
+- [🚑️ HOTFIX =&gt; Prevent probably crash](https://github.com/Drlanderf/clara_oswald/pull/149) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (10 months ago)
+- [🚑️ HOTFIX](https://github.com/Drlanderf/clara_oswald/pull/147) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (10 months ago)
+- [143 music bot.hotfix](https://github.com/Drlanderf/clara_oswald/pull/146) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (10 months ago)
 - [✨ Bot can singging now !](https://github.com/Drlanderf/clara_oswald/pull/144) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (10 months ago)
 - [24 working keypad](https://github.com/Drlanderf/Dossier_JAVA_2023/pull/25) on [Drlanderf/Dossier_JAVA_2023](https://github.com/Drlanderf/Dossier_JAVA_2023) (10 months ago)
 - [🎨 Reformat some code to improve visibility](https://github.com/Drlanderf/Dossier_JAVA_2023/pull/23) on [Drlanderf/Dossier_JAVA_2023](https://github.com/Drlanderf/Dossier_JAVA_2023) (10 months ago)
