@@ -279,8 +279,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [Drlanderf/Mephisto](https://github.com/Drlanderf/Mephisto) ([2.2.6-2](https://github.com/Drlanderf/Mephisto/releases/tag/2.2.6-2), today) - Fork of WizardWardrobe with fix/update
 - [Drlanderf/legio_bot](https://github.com/Drlanderf/legio_bot) ([1.0.0](https://github.com/Drlanderf/legio_bot/releases/tag/1.0.0), 3 days ago) - 
-- [Drlanderf/Mephisto](https://github.com/Drlanderf/Mephisto) ([2.2.5](https://github.com/Drlanderf/Mephisto/releases/tag/2.2.5), 5 days ago) - Fork of WizardWardrobe with fix/update
 - [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) ([v5.4.4](https://github.com/Drlanderf/clara_oswald/releases/tag/v5.4.4), 1 month ago) - 🤖 Basic Discord Bot
 - [Drlanderf/laserotron_evo](https://github.com/Drlanderf/laserotron_evo) ([0.0.1](https://github.com/Drlanderf/laserotron_evo/releases/tag/0.0.1), 1 year ago) - 🤖 Basic Discord Bot
 
