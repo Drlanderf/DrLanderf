@@ -253,8 +253,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [Drlanderf/Mephisto](https://github.com/Drlanderf/Mephisto) - Fork of WizardWardrobe with fix/update (today)
 - [Drlanderf/legio_bot](https://github.com/Drlanderf/legio_bot) -  (2 days ago)
-- [Drlanderf/Mephisto](https://github.com/Drlanderf/Mephisto) - Fork of WizardWardrobe with fix/update (5 days ago)
 - [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) - 🤖 Basic Discord Bot (1 month ago)
 - [Drlanderf/DrLanderf](https://github.com/Drlanderf/DrLanderf) - 🧑It&#39;s just me with some automation (5 months ago)
 - [Drlanderf/bombe-flutterapp](https://github.com/Drlanderf/bombe-flutterapp) -  (6 months ago)
