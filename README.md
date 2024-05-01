@@ -181,7 +181,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/zX151C4A7GE/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=zX151C4A7GE">Modifier la taille a chaud du stockage de la VM 1.2</a> (8 months ago) <br/>
+<a href="https://www.youtube.com/watch?v=zX151C4A7GE">Modifier la taille a chaud du stockage de la VM 1.2</a> (9 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/zX151C4A7GE?style=flat-square"> </img>
 </td>
 </tr>
@@ -253,7 +253,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Drlanderf/Mephisto](https://github.com/Drlanderf/Mephisto) - Fork of WizardWardrobe with fix/update (2 weeks ago)
+- [Drlanderf/Mephisto](https://github.com/Drlanderf/Mephisto) - Fork of WizardWardrobe with fix/update (3 weeks ago)
 - [Drlanderf/legio_bot](https://github.com/Drlanderf/legio_bot) -  (4 weeks ago)
 - [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) - 🤖 Basic Discord Bot (2 months ago)
 - [Drlanderf/DrLanderf](https://github.com/Drlanderf/DrLanderf) - 🧑It&#39;s just me with some automation (6 months ago)
@@ -262,7 +262,7 @@
 - [Drlanderf/ServeurMaraicher](https://github.com/Drlanderf/ServeurMaraicher) - 📚School project (7 months ago)
 - [Drlanderf/lib_socket](https://github.com/Drlanderf/lib_socket) - 📚School project (7 months ago)
 - [Drlanderf/labo0_springboot](https://github.com/Drlanderf/labo0_springboot) - 📚School project/test (7 months ago)
-- [Drlanderf/SRV-DEB12-TEMPLATE](https://github.com/Drlanderf/SRV-DEB12-TEMPLATE) - 🧰 simple template (8 months ago)
+- [Drlanderf/SRV-DEB12-TEMPLATE](https://github.com/Drlanderf/SRV-DEB12-TEMPLATE) - 🧰 simple template (9 months ago)
 
 #### 🌱 My latest projects
 
@@ -280,14 +280,14 @@
 #### 🔭 Latest releases I've contributed to
 
 - [Drlanderf/Mephisto](https://github.com/Drlanderf/Mephisto) ([2.2.7](https://github.com/Drlanderf/Mephisto/releases/tag/2.2.7), 3 weeks ago) - Fork of WizardWardrobe with fix/update
-- [Drlanderf/legio_bot](https://github.com/Drlanderf/legio_bot) ([1.0.0](https://github.com/Drlanderf/legio_bot/releases/tag/1.0.0), 4 weeks ago) - 
+- [Drlanderf/legio_bot](https://github.com/Drlanderf/legio_bot) ([1.0.0](https://github.com/Drlanderf/legio_bot/releases/tag/1.0.0), 1 month ago) - 
 - [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) ([v5.4.4](https://github.com/Drlanderf/clara_oswald/releases/tag/v5.4.4), 2 months ago) - 🤖 Basic Discord Bot
 - [Drlanderf/laserotron_evo](https://github.com/Drlanderf/laserotron_evo) ([0.0.1](https://github.com/Drlanderf/laserotron_evo/releases/tag/0.0.1), 1 year ago) - 🤖 Basic Discord Bot
 
 #### 🔨 My recent Pull Requests
 
 - [From Mephisto to WizardsWardrobe](https://github.com/nicokimmel/wizardswardrobe/pull/21) on [nicokimmel/wizardswardrobe](https://github.com/nicokimmel/wizardswardrobe) (4 weeks ago)
-- [update CI CD name](https://github.com/Drlanderf/legio_bot/pull/1) on [Drlanderf/legio_bot](https://github.com/Drlanderf/legio_bot) (4 weeks ago)
+- [update CI CD name](https://github.com/Drlanderf/legio_bot/pull/1) on [Drlanderf/legio_bot](https://github.com/Drlanderf/legio_bot) (1 month ago)
 - [📦️ Update the npm package &#43; add rolebutton](https://github.com/Drlanderf/clara_oswald/pull/155) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (2 months ago)
 - [✨ Starting create monothread APP](https://github.com/Drlanderf/ServeurMaraicher/pull/2) on [Drlanderf/ServeurMaraicher](https://github.com/Drlanderf/ServeurMaraicher) (7 months ago)
 - [✨ Making function for the lib](https://github.com/Drlanderf/lib_socket/pull/2) on [Drlanderf/lib_socket](https://github.com/Drlanderf/lib_socket) (7 months ago)
