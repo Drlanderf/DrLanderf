@@ -259,8 +259,8 @@
 - [Drlanderf/DrLanderf](https://github.com/Drlanderf/DrLanderf) - 🧑It&#39;s just me with some automation (6 months ago)
 - [Drlanderf/bombe-flutterapp](https://github.com/Drlanderf/bombe-flutterapp) -  (7 months ago)
 - [Drlanderf/Some-Scripts](https://github.com/Drlanderf/Some-Scripts) - some usefull script for postinstall (7 months ago)
-- [Drlanderf/ServeurMaraicher](https://github.com/Drlanderf/ServeurMaraicher) - 📚School project (7 months ago)
 - [Drlanderf/lib_socket](https://github.com/Drlanderf/lib_socket) - 📚School project (7 months ago)
+- [Drlanderf/ServeurMaraicher](https://github.com/Drlanderf/ServeurMaraicher) - 📚School project (7 months ago)
 - [Drlanderf/labo0_springboot](https://github.com/Drlanderf/labo0_springboot) - 📚School project/test (7 months ago)
 - [Drlanderf/SRV-DEB12-TEMPLATE](https://github.com/Drlanderf/SRV-DEB12-TEMPLATE) - 🧰 simple template (9 months ago)
 
@@ -282,7 +282,6 @@
 - [Drlanderf/Mephisto](https://github.com/Drlanderf/Mephisto) ([2.2.7](https://github.com/Drlanderf/Mephisto/releases/tag/2.2.7), 4 weeks ago) - Fork of WizardWardrobe with fix/update
 - [Drlanderf/legio_bot](https://github.com/Drlanderf/legio_bot) ([1.0.0](https://github.com/Drlanderf/legio_bot/releases/tag/1.0.0), 1 month ago) - 
 - [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) ([v5.4.4](https://github.com/Drlanderf/clara_oswald/releases/tag/v5.4.4), 2 months ago) - 🤖 Basic Discord Bot
-- [Drlanderf/laserotron_evo](https://github.com/Drlanderf/laserotron_evo) ([0.0.1](https://github.com/Drlanderf/laserotron_evo/releases/tag/0.0.1), 1 year ago) - 🤖 Basic Discord Bot
 
 #### 🔨 My recent Pull Requests
 
