@@ -283,6 +283,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [🚧 Updating Distube](https://github.com/Drlanderf/clara_oswald/pull/157) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
 - [👽️ Update API](https://github.com/Drlanderf/clara_oswald/pull/156) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (today)
 - [From Mephisto to WizardsWardrobe](https://github.com/nicokimmel/wizardswardrobe/pull/21) on [nicokimmel/wizardswardrobe](https://github.com/nicokimmel/wizardswardrobe) (5 months ago)
 - [update CI CD name](https://github.com/Drlanderf/legio_bot/pull/1) on [Drlanderf/legio_bot](https://github.com/Drlanderf/legio_bot) (5 months ago)
@@ -292,7 +293,6 @@
 - [🚑️ HOTFIX =&gt; Prevent probably crash](https://github.com/Drlanderf/clara_oswald/pull/149) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 year ago)
 - [🚑️ HOTFIX](https://github.com/Drlanderf/clara_oswald/pull/147) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 year ago)
 - [143 music bot.hotfix](https://github.com/Drlanderf/clara_oswald/pull/146) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 year ago)
-- [✨ Bot can singging now !](https://github.com/Drlanderf/clara_oswald/pull/144) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 year ago)
 
 #### 📓 Gists I wrote
 
