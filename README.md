@@ -253,7 +253,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) - 🤖 Basic Discord Bot (today)
+- [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) - 🤖 Basic Discord Bot (1 day ago)
 - [Drlanderf/Mephisto](https://github.com/Drlanderf/Mephisto) - Fork of WizardWardrobe with fix/update (5 months ago)
 - [Drlanderf/legio_bot](https://github.com/Drlanderf/legio_bot) -  (5 months ago)
 - [Drlanderf/DrLanderf](https://github.com/Drlanderf/DrLanderf) - 🧑It&#39;s just me with some automation (11 months ago)
@@ -283,9 +283,9 @@
 
 #### 🔨 My recent Pull Requests
 
-- [🚧 Working on New Distube implementation](https://github.com/Drlanderf/clara_oswald/pull/158) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 day ago)
-- [🚧 Updating Distube](https://github.com/Drlanderf/clara_oswald/pull/157) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 day ago)
-- [👽️ Update API](https://github.com/Drlanderf/clara_oswald/pull/156) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 day ago)
+- [🚧 Working on New Distube implementation](https://github.com/Drlanderf/clara_oswald/pull/158) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (2 days ago)
+- [🚧 Updating Distube](https://github.com/Drlanderf/clara_oswald/pull/157) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (2 days ago)
+- [👽️ Update API](https://github.com/Drlanderf/clara_oswald/pull/156) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (2 days ago)
 - [From Mephisto to WizardsWardrobe](https://github.com/nicokimmel/wizardswardrobe/pull/21) on [nicokimmel/wizardswardrobe](https://github.com/nicokimmel/wizardswardrobe) (5 months ago)
 - [update CI CD name](https://github.com/Drlanderf/legio_bot/pull/1) on [Drlanderf/legio_bot](https://github.com/Drlanderf/legio_bot) (5 months ago)
 - [📦️ Update the npm package &#43; add rolebutton](https://github.com/Drlanderf/clara_oswald/pull/155) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (6 months ago)
