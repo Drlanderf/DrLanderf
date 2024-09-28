@@ -253,7 +253,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) - 🤖 Basic Discord Bot (2 weeks ago)
+- [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) - 🤖 Basic Discord Bot (3 weeks ago)
 - [Drlanderf/Mephisto](https://github.com/Drlanderf/Mephisto) - Fork of WizardWardrobe with fix/update (5 months ago)
 - [Drlanderf/legio_bot](https://github.com/Drlanderf/legio_bot) -  (5 months ago)
 - [Drlanderf/DrLanderf](https://github.com/Drlanderf/DrLanderf) - 🧑It&#39;s just me with some automation (11 months ago)
@@ -278,7 +278,7 @@
 #### 🔭 Latest releases I've contributed to
 
 - [Drlanderf/Mephisto](https://github.com/Drlanderf/Mephisto) ([2.2.7](https://github.com/Drlanderf/Mephisto/releases/tag/2.2.7), 5 months ago) - Fork of WizardWardrobe with fix/update
-- [Drlanderf/legio_bot](https://github.com/Drlanderf/legio_bot) ([1.0.0](https://github.com/Drlanderf/legio_bot/releases/tag/1.0.0), 5 months ago) - 
+- [Drlanderf/legio_bot](https://github.com/Drlanderf/legio_bot) ([1.0.0](https://github.com/Drlanderf/legio_bot/releases/tag/1.0.0), 6 months ago) - 
 
 #### 🔨 My recent Pull Requests
 
@@ -286,7 +286,7 @@
 - [🚧 Updating Distube](https://github.com/Drlanderf/clara_oswald/pull/157) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (3 weeks ago)
 - [👽️ Update API](https://github.com/Drlanderf/clara_oswald/pull/156) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (3 weeks ago)
 - [From Mephisto to WizardsWardrobe](https://github.com/nicokimmel/wizardswardrobe/pull/21) on [nicokimmel/wizardswardrobe](https://github.com/nicokimmel/wizardswardrobe) (5 months ago)
-- [update CI CD name](https://github.com/Drlanderf/legio_bot/pull/1) on [Drlanderf/legio_bot](https://github.com/Drlanderf/legio_bot) (5 months ago)
+- [update CI CD name](https://github.com/Drlanderf/legio_bot/pull/1) on [Drlanderf/legio_bot](https://github.com/Drlanderf/legio_bot) (6 months ago)
 - [📦️ Update the npm package &#43; add rolebutton](https://github.com/Drlanderf/clara_oswald/pull/155) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (7 months ago)
 - [✨ Starting create monothread APP](https://github.com/Drlanderf/ServeurMaraicher/pull/2) on [Drlanderf/ServeurMaraicher](https://github.com/Drlanderf/ServeurMaraicher) (1 year ago)
 - [✨ Making function for the lib](https://github.com/Drlanderf/lib_socket/pull/2) on [Drlanderf/lib_socket](https://github.com/Drlanderf/lib_socket) (1 year ago)
