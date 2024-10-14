@@ -256,7 +256,6 @@
 - [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) - 🤖 Basic Discord Bot (1 month ago)
 - [Drlanderf/Mephisto](https://github.com/Drlanderf/Mephisto) - Fork of WizardWardrobe with fix/update (6 months ago)
 - [Drlanderf/legio_bot](https://github.com/Drlanderf/legio_bot) -  (6 months ago)
-- [Drlanderf/DrLanderf](https://github.com/Drlanderf/DrLanderf) - 🧑It&#39;s just me with some automation (1 year ago)
 
 #### 🌱 My latest projects
 
