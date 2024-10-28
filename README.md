@@ -273,7 +273,7 @@
 #### 🔭 Latest releases I've contributed to
 
 - [Drlanderf/Mephisto](https://github.com/Drlanderf/Mephisto) ([2.2.7](https://github.com/Drlanderf/Mephisto/releases/tag/2.2.7), 6 months ago) - Fork of WizardWardrobe with fix/update
-- [Drlanderf/legio_bot](https://github.com/Drlanderf/legio_bot) ([1.0.0](https://github.com/Drlanderf/legio_bot/releases/tag/1.0.0), 6 months ago) - 
+- [Drlanderf/legio_bot](https://github.com/Drlanderf/legio_bot) ([1.0.0](https://github.com/Drlanderf/legio_bot/releases/tag/1.0.0), 7 months ago) - 
 
 #### 🔨 My recent Pull Requests
 
@@ -281,7 +281,7 @@
 - [🚧 Updating Distube](https://github.com/Drlanderf/clara_oswald/pull/157) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 month ago)
 - [👽️ Update API](https://github.com/Drlanderf/clara_oswald/pull/156) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (1 month ago)
 - [From Mephisto to WizardsWardrobe](https://github.com/nicokimmel/wizardswardrobe/pull/21) on [nicokimmel/wizardswardrobe](https://github.com/nicokimmel/wizardswardrobe) (6 months ago)
-- [update CI CD name](https://github.com/Drlanderf/legio_bot/pull/1) on [Drlanderf/legio_bot](https://github.com/Drlanderf/legio_bot) (6 months ago)
+- [update CI CD name](https://github.com/Drlanderf/legio_bot/pull/1) on [Drlanderf/legio_bot](https://github.com/Drlanderf/legio_bot) (7 months ago)
 - [📦️ Update the npm package &#43; add rolebutton](https://github.com/Drlanderf/clara_oswald/pull/155) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (8 months ago)
 - [✨ Starting create monothread APP](https://github.com/Drlanderf/ServeurMaraicher/pull/2) on [Drlanderf/ServeurMaraicher](https://github.com/Drlanderf/ServeurMaraicher) (1 year ago)
 - [✨ Making function for the lib](https://github.com/Drlanderf/lib_socket/pull/2) on [Drlanderf/lib_socket](https://github.com/Drlanderf/lib_socket) (1 year ago)
