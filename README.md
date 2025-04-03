@@ -272,7 +272,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Drlanderf/Mephisto](https://github.com/Drlanderf/Mephisto) ([2.2.7](https://github.com/Drlanderf/Mephisto/releases/tag/2.2.7), 11 months ago) - Fork of WizardWardrobe with fix/update
+- [Drlanderf/Mephisto](https://github.com/Drlanderf/Mephisto) ([2.2.7](https://github.com/Drlanderf/Mephisto/releases/tag/2.2.7), 1 year ago) - Fork of WizardWardrobe with fix/update
 
 #### 🔨 My recent Pull Requests
 
