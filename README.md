@@ -254,7 +254,6 @@
 #### 👷 Check out what I'm currently working on
 
 - [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) - 🤖 Basic Discord Bot (7 months ago)
-- [Drlanderf/Mephisto](https://github.com/Drlanderf/Mephisto) - Fork of WizardWardrobe with fix/update (1 year ago)
 
 #### 🌱 My latest projects
 
