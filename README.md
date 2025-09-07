@@ -253,7 +253,6 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) - 🤖 Basic Discord Bot (1 year ago)
 
 #### 🌱 My latest projects
 
