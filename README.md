@@ -253,9 +253,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [Drlanderf/programmation-procedurale-lukas-paquay](https://github.com/Drlanderf/programmation-procedurale-lukas-paquay) -  (today)
 
 #### 🌱 My latest projects
 
+- [Drlanderf/programmation-procedurale-lukas-paquay](https://github.com/Drlanderf/programmation-procedurale-lukas-paquay) - 
 - [Drlanderf/legio_bot](https://github.com/Drlanderf/legio_bot) - 
 - [Drlanderf/Mephisto](https://github.com/Drlanderf/Mephisto) - Fork of WizardWardrobe with fix/update
 - [Drlanderf/bombe-flutterapp](https://github.com/Drlanderf/bombe-flutterapp) - 
@@ -265,7 +267,6 @@
 - [Drlanderf/SRV-DEB12-TEMPLATE](https://github.com/Drlanderf/SRV-DEB12-TEMPLATE) - 🧰 simple template
 - [Drlanderf/Dossier_JAVA_2023](https://github.com/Drlanderf/Dossier_JAVA_2023) - 📚School project
 - [Drlanderf/Blockudoku](https://github.com/Drlanderf/Blockudoku) - 📚School project
-- [Drlanderf/Dossier_Unix_2020](https://github.com/Drlanderf/Dossier_Unix_2020) - 📚School project
 
 #### 🔭 Latest releases I've contributed to
 
