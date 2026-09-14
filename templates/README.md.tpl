@@ -1,5 +1,4 @@
 <h3 align="center">
-
 ![](https://komarev.com/ghpvc/?username=DrLanderf\&label=Views\&color=lightgrey)
 [![Twitter Follow](https://img.shields.io/twitter/follow/LanderfCorp?label=Follow)](https://twitter.com/intent/follow?screen_name=LanderfCorp)
 [![GitHub followers](https://img.shields.io/github/followers/DrLanderf?label=Follow\&style=social)](https://github.com/Drlanderf)
@@ -8,17 +7,11 @@
 [![Twitch](https://img.shields.io/twitch/status/doc_landerf?style=social)](https://www.twitch.tv/doc_landerf)
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/landerf0311)
-
 </h3>
-
 <h2 align="center">APITSNT - Analyst Programmer IT System | Networks and Telecommunications oriented Student</h2>
-
 ###
-
 <h3 align="left">🎛️ Operating Systems used :</h3>
-
 ###
-
 <div align="left">
   <img src="https://cdn.simpleicons.org/centos" height="40" alt="CentOS logo"/>
   <img src="https://cdn.simpleicons.org/debian" height="40" alt="Debian logo"/>
@@ -28,25 +21,17 @@
   <img src="https://cdn.simpleicons.org/gentoo" height="40" alt="Gentoo logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="Windows logo"/>
 </div>
-
 ###
-
 <h3 align="left">🎛️ Hypervisors used :</h3>
-
 ###
-
 <div align="left">
   <img src="https://cdn.simpleicons.org/vmware" height="40" alt="VMware logo"/>
   <img src="https://cdn.simpleicons.org/unraid" height="40" alt="Unraid logo"/>
   <img src="https://cdn.simpleicons.org/proxmox" height="40" alt="Proxmox logo"/>
 </div>
-
 ###
-
 <h3 align="left">💻 Editors & IDEs used :</h3>
-
 ###
-
 <div align="left">
   <img src="https://cdn.simpleicons.org/jetbrains/555555" height="40" alt="JetBrains logo"/>
   <img src="https://cdn.simpleicons.org/intellijidea/555555" height="40" alt="IntelliJ IDEA logo"/>
@@ -57,13 +42,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="Visual Studio logo"/>
   <img src="https://cdn.simpleicons.org/notepadplusplus" height="40" alt="Notepad++ logo"/>
 </div>
-
 ###
-
 <h3 align="left">📋 Languages used / known :</h3>
-
 ###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ logo"/>
@@ -76,13 +57,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo"/>
   <img src="https://cdn.simpleicons.org/dotnet/512BD4" height="40" alt=".NET logo"/>
 </div>
-
 ###
-
 <h3 align="left">🔧 Tools used :</h3>
-
 ###
-
 <div align="left">
   <img src="https://cdn.simpleicons.org/npm" height="40" alt="npm logo"/>
   <img src="https://cdn.simpleicons.org/github" height="40" alt="GitHub logo"/>
@@ -90,13 +67,9 @@
   <img src="https://cdn.simpleicons.org/docker" height="40" alt="Docker logo"/>
   <img src="https://cdn.simpleicons.org/githubactions" height="40" alt="GitHub Actions logo"/>
 </div>
-
 ###
-
 <h3 align="left">💾 Database Management Systems used :</h3>
-
 ###
-
 <div align="left">
   <img src="https://cdn.simpleicons.org/mariadb" height="40" alt="MariaDB logo"/>
   <img src="https://cdn.simpleicons.org/mysql" height="40" alt="MySQL logo"/>
@@ -106,19 +79,14 @@
   <img src="https://cdn.simpleicons.org/mongodb" height="40" alt="MongoDB logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="Microsoft SQL Server logo"/>
 </div>
-
 ###
-
 <h3 align="left">💽 NAS OS used :</h3>
-
 ###
-
 <div align="left">
   <img src="https://cdn.simpleicons.org/unraid" height="40" alt="Unraid logo"/>
   <img src="https://cdn.simpleicons.org/truenas" height="40" alt="TrueNAS logo"/>
   <img src="https://cdn.simpleicons.org/freenas" height="40" alt="FreeNAS logo"/>
   <img src="https://cdn.simpleicons.org/synology" height="40" alt="Synology logo"/>
-
   <p>
     ⚙️ Current NAS config :
     <br><img src="https://cdn.simpleicons.org/unraid" height="40" alt="Unraid logo"/>
@@ -129,56 +97,33 @@
     <br> | NFS share for my hypervisor's VM (HDD) => For VM I don't need to put on SSD
   </p>
 </div>
-
 ###
-
 <h3 align="left">⚙️ JetBrains Plugins :</h3>
-
 ###
-
 <p align="left">
   🔐 | .env files - https://plugins.jetbrains.com/plugin/9525--env-files-support
   <br>📦 | Icons - https://plugins.jetbrains.com/plugin/10044-atom-material-icons
   <br>🟣 | Discord Integration - https://plugins.jetbrains.com/plugin/10233-discord-integration
   <br>📝 | Formatter - https://plugins.jetbrains.com/plugin/10456-prettier
 </p>
-
 ###
-
 <h3 align="left">🔥 My Stats :</h3>
-
 ###
-
-<p align="center">
-  <a href="https://github.com/Drlanderf">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Drlanderf&show_icons=true&theme=dark"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drlanderf&layout=compact&theme=dark"/>
-  </a>
-</p>
 <p align="center">
   <a href="https://github.com/Drlanderf">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Drlanderf&theme=dark&date_format=j%20M%5B%20Y%5D" />
   </a>
 </p>
-
 ###
-
 <img src="https://raw.githubusercontent.com/Drlanderf/Drlanderf/output/snake.svg" alt="Snake animation" />
-
 ###
-
 <h3 align="left">🧰 My Homelab :</h3>
-
 <div align="center">
   <img src="https://github.com/Drlanderf/DrLanderf/blob/main/homelab.png" />
 </div>
-
 ---
-
 ## 📜 YouTube French videos
-
 <img src="https://img.shields.io/youtube/channel/subscribers/UCnK7oWn1A7RvKiB19ZIECZg?style=for-the-badge" alt="YouTube subscribers"/>
-
 <table>
 {{range rss "https://www.youtube.com/feeds/videos.xml?channel_id=UCnK7oWn1A7RvKiB19ZIECZg" 10}}
 <tr>
@@ -190,64 +135,44 @@
 </tr>
 {{- end}}
 </table>
-
 ---
-
 #### 👷 Check out what I'm currently working on
-
 {{range recentContributions 10}}
 
 * [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
   {{- end}}
-
 #### 🌱 My latest projects
-
 {{range recentRepos 10}}
 
 * [{{.Name}}]({{.URL}}) - {{.Description}}
   {{- end}}
-
 #### 🔭 Latest releases I've contributed to
-
 {{range recentReleases 10}}
 
 * [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
   {{- end}}
-
 #### 🔨 My recent Pull Requests
-
 {{range recentPullRequests 10}}
 
 * [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
   {{- end}}
-
 #### 📓 Gists I wrote
-
 {{range gists 5}}
 
 * [{{.Description}}]({{.URL}}) ({{humanize .CreatedAt}})
   {{- end}}
-
 #### ❤️ These awesome people sponsor me (thank you!)
-
 {{range sponsors 5}}
 
 * [{{.User.Login}}]({{.User.URL}}) ({{humanize .CreatedAt}})
   {{- end}}
-
 ---
-
 <h2 align="center">DevOps Enthusiast</h2>
-
 <h2 align="center">
 Contact / hire me :
-
 [![OUTLOOK](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge\&logo=microsoft-outlook\&logoColor=white)][hireme]
-
 </h2>
-
 <h5 align="center">Show some ❤️ by starring some of the repositories or dropping a follow!</h5>
-
 <h5 align="center">
   <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">
     <img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" />
@@ -258,5 +183,4 @@ Contact / hire me :
     Licence Creative Commons Attribution - Pas d'Utilisation Commerciale - Pas de Modification 4.0 International
   </a>.
 </h5>
-
 [hireme]: mailto:lukas.paquay@outlook.be
