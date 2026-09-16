@@ -230,4 +230,5 @@ Contact / hire me :
     Licence Creative Commons Attribution - Pas d'Utilisation Commerciale - Pas de Modification 4.0 International
   </a>.
 </h5>
+
 [hireme]: mailto:lukas.paquay@outlook.be
