@@ -1,13 +1,16 @@
 <h3 align="center">
-[!](https://komarev.com/ghpvc/?username=DrLanderf\&label=Views\&color=lightgrey)
-[![Twitter Follow](https://img.shields.io/twitter/follow/LanderfCorp?label=Follow)](https://twitter.com/intent/follow?screen_name=LanderfCorp)
-[![GitHub followers](https://img.shields.io/github/followers/DrLanderf?label=Follow\&style=social)](https://github.com/Drlanderf)
-[![Discord](https://img.shields.io/badge/Join_Discord-5865F2.svg?\&style=flat-square\&logo=discord\&logoColor=white\&link=https://discord.gg/rqNgRkvZsq)](https://discord.gg/rqNgRkvZsq)
-[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCnK7oWn1A7RvKiB19ZIECZg?style=social)](https://www.youtube.com/channel/UCnK7oWn1A7RvKiB19ZIECZg)
-[![Twitch](https://img.shields.io/twitch/status/doc_landerf?style=social)](https://www.twitch.tv/doc_landerf)
+
+(https://komarev.com/ghpvc/?username=DrLanderf\&label=Views\&color=lightgrey)
+[Twitter Follow](https://img.shields.io/twitter/follow/LanderfCorp?label=Follow)(https://twitter.com/intent/follow?screen_name=LanderfCorp)
+[GitHub followers](https://img.shields.io/github/followers/DrLanderf?label=Follow\&style=social)(https://github.com/Drlanderf)
+[Discord](https://img.shields.io/badge/Join_Discord-5865F2.svg?\&style=flat-square\&logo=discord\&logoColor=white\&link=https://discord.gg/rqNgRkvZsq)](https://discord.gg/rqNgRkvZsq)
+[YouTube](https://img.shields.io/youtube/channel/subscribers/UCnK7oWn1A7RvKiB19ZIECZg?style=social)(https://www.youtube.com/channel/UCnK7oWn1A7RvKiB19ZIECZg)
+[Twitch](https://img.shields.io/twitch/status/doc_landerf?style=social)(https://www.twitch.tv/doc_landerf)
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/landerf0311)
+
 </h3>
+
 <h2 align="center">APITSNT - Analyst Programmer IT System | Networks and Telecommunications oriented Student</h2>
 
 ###
