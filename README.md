@@ -1,7 +1,6 @@
 <h3 align="center">
 
-![](https://komarev.com/ghpvc/?username=Drlanderf&color=lightgrey)(https://github.com/Drlanderf)
-
+![](https://komarev.com/ghpvc/?username=Drlanderf&color=lightgrey)
 [![Youtube](https://img.shields.io/badge/Youtube-red?/&style=social/&logo=youtube)](https://www.youtube.com/channel/UCnK7oWn1A7RvKiB19ZIECZg) 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?/&style=social/&logo=discord)](https://discord.gg/rqNgRkvZsq) 
 [![twitter](https://img.shields.io/twitter/follow/LanderfCorp?/&label=twitter&style=social)](https://twitter.com/intent/follow?screen_name=LanderfCorp) 
