@@ -1,9 +1,9 @@
 <h3 align="center">
 
 [![](https://komarev.com/ghpvc/?username=Drlanderf&color=lightgrey)](https://github.com/Drlanderf)
-[![Youtube](https://img.shields.io/badge/Youtube-red.svg?/&style=social/&logo=youtube)](https://www.youtube.com/channel/UCnK7oWn1A7RvKiB19ZIECZg) 
-[![Join_Discord](https://img.shields.io/badge/Join_Discord-5865F2.svg?/&style=social/&logo=discord/&logoColor=white)](https://discord.gg/rqNgRkvZsq) 
-[![twitter](https://img.shields.io/twitter/follow/LanderfCorp?/&label=Follow/&style=social)](https://twitter.com/intent/follow?screen_name=LanderfCorp) 
+[![Youtube](https://img.shields.io/badge/Youtube-red?/&style=social/&logo=youtube)](https://www.youtube.com/channel/UCnK7oWn1A7RvKiB19ZIECZg) 
+[![Join_Discord](https://img.shields.io/badge/Discord-5865F2?/&style=social/&logo=Discord)](https://discord.gg/rqNgRkvZsq) 
+[![twitter](https://img.shields.io/twitter/follow/LanderfCorp?/&label=twitter&style=social)](https://twitter.com/intent/follow?screen_name=LanderfCorp) 
 [![twitch](https://img.shields.io/twitch/status/doc_landerf?/&style=social)](https://www.twitch.tv/doc_landerf) 
 [![github](https://img.shields.io/github/followers/DrLanderf?/&label=Follow/&style=social)](https://github.com/Drlanderf)
 
