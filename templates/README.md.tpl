@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=Drlanderf&color=lightgrey&style=social)
 [![Youtube](https://img.shields.io/badge/Youtube_Tech-red?/&style=social/&logo=youtube)](https://www.youtube.com/@LanderfTech) 
 [![Youtube](https://img.shields.io/badge/Youtube_Gaming-red?/&style=social/&logo=youtube)](https://www.youtube.com/@LanderfGaming) 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?/&style=social/&logo=discord/&logoColor=white)](https://discord.gg/rqNgRkvZsq) 
+[![Discord](https://img.shields.io/badge/Discord-5865F2?/&style=social/&logo=discord&logoColor=f5f5f5)](https://discord.gg/rqNgRkvZsq) 
 [![twitter](https://img.shields.io/twitter/follow/LanderfCorp?/&label=twitter&style=social)](https://twitter.com/intent/follow?screen_name=LanderfCorp) 
 [![twitch](https://img.shields.io/twitch/status/doc_landerf?/&style=social)](https://www.twitch.tv/doc_landerf) 
 ![github](https://img.shields.io/github/followers/DrLanderf?/&label=Follow&style=social)
