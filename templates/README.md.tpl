@@ -6,7 +6,7 @@
 [![Discord](https://img.shields.io/badge/Discord-5865F2?/&style=social/&logo=discord)](https://discord.gg/rqNgRkvZsq) 
 [![twitter](https://img.shields.io/twitter/follow/LanderfCorp?/&label=twitter&style=social)](https://twitter.com/intent/follow?screen_name=LanderfCorp) 
 [![twitch](https://img.shields.io/twitch/status/doc_landerf?/&style=social)](https://www.twitch.tv/doc_landerf) 
-[![github](https://img.shields.io/github/followers/DrLanderf?/&label=Follow&style=social)]
+![github](https://img.shields.io/github/followers/DrLanderf?/&label=Follow&style=social)
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/landerf0311)
 
