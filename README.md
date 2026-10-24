@@ -270,11 +270,11 @@
 
 * [Drlanderf/labo0_springboot](https://github.com/Drlanderf/labo0_springboot) - 📚School project/test
 
+* [Drlanderf/iBot-GPT](https://github.com/Drlanderf/iBot-GPT) - 
+
 * [Drlanderf/SRV-DEB12-TEMPLATE](https://github.com/Drlanderf/SRV-DEB12-TEMPLATE) - 🧰 simple template
 
 * [Drlanderf/Dossier_JAVA_2023](https://github.com/Drlanderf/Dossier_JAVA_2023) - 📚School project
-
-* [Drlanderf/Blockudoku](https://github.com/Drlanderf/Blockudoku) - 📚School project
 #### 🔭 Latest releases I've contributed to
 
 #### 🔨 My recent Pull Requests
