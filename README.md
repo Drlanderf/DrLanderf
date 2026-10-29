@@ -250,11 +250,15 @@
 #### 👷 Check out what I'm currently working on
 
 
+* [Drlanderf/DiscordBot-Botpy](https://github.com/Drlanderf/DiscordBot-Botpy) -  (1 day ago)
+
 * [Drlanderf/DrLanderf](https://github.com/Drlanderf/DrLanderf) - 🧑It&#39;s just me with some automation (1 week ago)
 
 * [Drlanderf/programmation-procedurale-lukas-paquay](https://github.com/Drlanderf/programmation-procedurale-lukas-paquay) -  (1 month ago)
 #### 🌱 My latest projects
 
+
+* [Drlanderf/DiscordBot-Botpy](https://github.com/Drlanderf/DiscordBot-Botpy) - 
 
 * [Drlanderf/programmation-procedurale-lukas-paquay](https://github.com/Drlanderf/programmation-procedurale-lukas-paquay) - 
 
@@ -273,10 +277,10 @@
 * [Drlanderf/iBot-GPT](https://github.com/Drlanderf/iBot-GPT) - 
 
 * [Drlanderf/SRV-DEB12-TEMPLATE](https://github.com/Drlanderf/SRV-DEB12-TEMPLATE) - 🧰 simple template
-
-* [Drlanderf/Dossier_JAVA_2023](https://github.com/Drlanderf/Dossier_JAVA_2023) - 📚School project
 #### 🔭 Latest releases I've contributed to
 
+
+* [Drlanderf/DiscordBot-Botpy](https://github.com/Drlanderf/DiscordBot-Botpy) ([1.0.0](https://github.com/Drlanderf/DiscordBot-Botpy/releases/tag/1.0.0), 1 day ago) - 
 #### 🔨 My recent Pull Requests
 
 
