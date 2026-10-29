@@ -279,8 +279,6 @@
 * [Drlanderf/SRV-DEB12-TEMPLATE](https://github.com/Drlanderf/SRV-DEB12-TEMPLATE) - 🧰 simple template
 #### 🔭 Latest releases I've contributed to
 
-
-* [Drlanderf/DiscordBot-Botpy](https://github.com/Drlanderf/DiscordBot-Botpy) ([1.0.0](https://github.com/Drlanderf/DiscordBot-Botpy/releases/tag/1.0.0), 1 day ago) - 
 #### 🔨 My recent Pull Requests
 
 
