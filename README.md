@@ -250,7 +250,7 @@
 #### 👷 Check out what I'm currently working on
 
 
-* [Drlanderf/DiscordBot-Botpy](https://github.com/Drlanderf/DiscordBot-Botpy) -  (1 day ago)
+* [Drlanderf/DiscordBot-Botpy](https://github.com/Drlanderf/DiscordBot-Botpy) -  (today)
 
 * [Drlanderf/DrLanderf](https://github.com/Drlanderf/DrLanderf) - 🧑It&#39;s just me with some automation (1 week ago)
 
@@ -282,6 +282,8 @@
 #### 🔨 My recent Pull Requests
 
 
+* [Twitchnotification](https://github.com/Drlanderf/DiscordBot-Botpy/pull/1) on [Drlanderf/DiscordBot-Botpy](https://github.com/Drlanderf/DiscordBot-Botpy) (today)
+
 * [🚧 Working on New Distube implementation](https://github.com/Drlanderf/clara_oswald/pull/158) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (2 years ago)
 
 * [🚧 Updating Distube](https://github.com/Drlanderf/clara_oswald/pull/157) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (2 years ago)
@@ -299,8 +301,6 @@
 * [✨ Making function for the lib](https://github.com/Drlanderf/lib_socket/pull/2) on [Drlanderf/lib_socket](https://github.com/Drlanderf/lib_socket) (3 years ago)
 
 * [🚑️ HOTFIX =&gt; Prevent probably crash](https://github.com/Drlanderf/clara_oswald/pull/149) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (3 years ago)
-
-* [🚑️ HOTFIX](https://github.com/Drlanderf/clara_oswald/pull/147) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (3 years ago)
 #### 📓 Gists I wrote
 
 #### ❤️ These awesome people sponsor me (thank you!)
