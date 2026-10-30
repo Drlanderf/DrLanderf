@@ -250,15 +250,15 @@
 #### 👷 Check out what I'm currently working on
 
 
-* [Drlanderf/DiscordBot-Botpy](https://github.com/Drlanderf/DiscordBot-Botpy) -  (today)
+* [Drlanderf/DiscordBot-Botpy](https://github.com/Drlanderf/DiscordBot-Botpy) - 🤖 Basic Py Discord Bot (today)
 
-* [Drlanderf/DrLanderf](https://github.com/Drlanderf/DrLanderf) - 🧑It&#39;s just me with some automation (1 week ago)
+* [Drlanderf/DrLanderf](https://github.com/Drlanderf/DrLanderf) - 🧑It&#39;s just me with some automation (2 weeks ago)
 
 * [Drlanderf/programmation-procedurale-lukas-paquay](https://github.com/Drlanderf/programmation-procedurale-lukas-paquay) -  (1 month ago)
 #### 🌱 My latest projects
 
 
-* [Drlanderf/DiscordBot-Botpy](https://github.com/Drlanderf/DiscordBot-Botpy) - 
+* [Drlanderf/DiscordBot-Botpy](https://github.com/Drlanderf/DiscordBot-Botpy) - 🤖 Basic Py Discord Bot
 
 * [Drlanderf/programmation-procedurale-lukas-paquay](https://github.com/Drlanderf/programmation-procedurale-lukas-paquay) - 
 
@@ -282,7 +282,11 @@
 #### 🔨 My recent Pull Requests
 
 
-* [Twitchnotification](https://github.com/Drlanderf/DiscordBot-Botpy/pull/1) on [Drlanderf/DiscordBot-Botpy](https://github.com/Drlanderf/DiscordBot-Botpy) (today)
+* [botban](https://github.com/Drlanderf/DiscordBot-Botpy/pull/3) on [Drlanderf/DiscordBot-Botpy](https://github.com/Drlanderf/DiscordBot-Botpy) (1 day ago)
+
+* [Youtubenotification](https://github.com/Drlanderf/DiscordBot-Botpy/pull/2) on [Drlanderf/DiscordBot-Botpy](https://github.com/Drlanderf/DiscordBot-Botpy) (1 day ago)
+
+* [Twitchnotification](https://github.com/Drlanderf/DiscordBot-Botpy/pull/1) on [Drlanderf/DiscordBot-Botpy](https://github.com/Drlanderf/DiscordBot-Botpy) (1 day ago)
 
 * [🚧 Working on New Distube implementation](https://github.com/Drlanderf/clara_oswald/pull/158) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (2 years ago)
 
@@ -297,10 +301,6 @@
 * [📦️ Update the npm package &#43; add rolebutton](https://github.com/Drlanderf/clara_oswald/pull/155) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (2 years ago)
 
 * [✨ Starting create monothread APP](https://github.com/Drlanderf/ServeurMaraicher/pull/2) on [Drlanderf/ServeurMaraicher](https://github.com/Drlanderf/ServeurMaraicher) (3 years ago)
-
-* [✨ Making function for the lib](https://github.com/Drlanderf/lib_socket/pull/2) on [Drlanderf/lib_socket](https://github.com/Drlanderf/lib_socket) (3 years ago)
-
-* [🚑️ HOTFIX =&gt; Prevent probably crash](https://github.com/Drlanderf/clara_oswald/pull/149) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (3 years ago)
 #### 📓 Gists I wrote
 
 #### ❤️ These awesome people sponsor me (thank you!)
