@@ -250,11 +250,11 @@
 #### 👷 Check out what I'm currently working on
 
 
-* [Drlanderf/DiscordBot-Botpy](https://github.com/Drlanderf/DiscordBot-Botpy) - 🤖 Basic Py Discord Bot (today)
+* [Drlanderf/DiscordBot-Botpy](https://github.com/Drlanderf/DiscordBot-Botpy) - 🤖 Basic Py Discord Bot (1 day ago)
 
-* [Drlanderf/programmation-procedurale-lukas-paquay](https://github.com/Drlanderf/programmation-procedurale-lukas-paquay) - 📚School repo (today)
+* [Drlanderf/programmation-procedurale-lukas-paquay](https://github.com/Drlanderf/programmation-procedurale-lukas-paquay) - 📚School repo (1 day ago)
 
-* [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) - 🤖 depreciated Basic Discord Bot (today)
+* [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) - 🤖 depreciated Basic Discord Bot (1 day ago)
 
 * [Drlanderf/DrLanderf](https://github.com/Drlanderf/DrLanderf) - 🧑It&#39;s just me with some automation (2 weeks ago)
 #### 🌱 My latest projects
@@ -284,11 +284,11 @@
 #### 🔨 My recent Pull Requests
 
 
-* [botban](https://github.com/Drlanderf/DiscordBot-Botpy/pull/3) on [Drlanderf/DiscordBot-Botpy](https://github.com/Drlanderf/DiscordBot-Botpy) (1 day ago)
+* [botban](https://github.com/Drlanderf/DiscordBot-Botpy/pull/3) on [Drlanderf/DiscordBot-Botpy](https://github.com/Drlanderf/DiscordBot-Botpy) (2 days ago)
 
-* [Youtubenotification](https://github.com/Drlanderf/DiscordBot-Botpy/pull/2) on [Drlanderf/DiscordBot-Botpy](https://github.com/Drlanderf/DiscordBot-Botpy) (1 day ago)
+* [Youtubenotification](https://github.com/Drlanderf/DiscordBot-Botpy/pull/2) on [Drlanderf/DiscordBot-Botpy](https://github.com/Drlanderf/DiscordBot-Botpy) (2 days ago)
 
-* [Twitchnotification](https://github.com/Drlanderf/DiscordBot-Botpy/pull/1) on [Drlanderf/DiscordBot-Botpy](https://github.com/Drlanderf/DiscordBot-Botpy) (1 day ago)
+* [Twitchnotification](https://github.com/Drlanderf/DiscordBot-Botpy/pull/1) on [Drlanderf/DiscordBot-Botpy](https://github.com/Drlanderf/DiscordBot-Botpy) (2 days ago)
 
 * [🚧 Working on New Distube implementation](https://github.com/Drlanderf/clara_oswald/pull/158) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (2 years ago)
 
