@@ -250,7 +250,7 @@
 #### 👷 Check out what I'm currently working on
 
 
-* [Drlanderf/DiscordBot-Botpy](https://github.com/Drlanderf/DiscordBot-Botpy) - 🤖 Basic Py Discord Bot (1 day ago)
+* [Drlanderf/DiscordBot-Botpy](https://github.com/Drlanderf/DiscordBot-Botpy) - 🤖 Basic Py Discord Bot (today)
 
 * [Drlanderf/programmation-procedurale-lukas-paquay](https://github.com/Drlanderf/programmation-procedurale-lukas-paquay) - 📚School repo (2 days ago)
 
@@ -284,6 +284,10 @@
 #### 🔨 My recent Pull Requests
 
 
+* [🧵 Update README.md](https://github.com/Drlanderf/DiscordBot-Botpy/pull/11) on [Drlanderf/DiscordBot-Botpy](https://github.com/Drlanderf/DiscordBot-Botpy) (today)
+
+* [✨ Embed creator](https://github.com/Drlanderf/DiscordBot-Botpy/pull/10) on [Drlanderf/DiscordBot-Botpy](https://github.com/Drlanderf/DiscordBot-Botpy) (today)
+
 * [moderation](https://github.com/Drlanderf/DiscordBot-Botpy/pull/5) on [Drlanderf/DiscordBot-Botpy](https://github.com/Drlanderf/DiscordBot-Botpy) (1 day ago)
 
 * [arrivee-depart-log](https://github.com/Drlanderf/DiscordBot-Botpy/pull/4) on [Drlanderf/DiscordBot-Botpy](https://github.com/Drlanderf/DiscordBot-Botpy) (1 day ago)
@@ -299,10 +303,6 @@
 * [🚧 Updating Distube](https://github.com/Drlanderf/clara_oswald/pull/157) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (2 years ago)
 
 * [👽️ Update API](https://github.com/Drlanderf/clara_oswald/pull/156) on [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) (2 years ago)
-
-* [From Mephisto to WizardsWardrobe](https://github.com/nicokimmel/wizardswardrobe/pull/21) on [nicokimmel/wizardswardrobe](https://github.com/nicokimmel/wizardswardrobe) (2 years ago)
-
-* [update CI CD name](https://github.com/Drlanderf/legio_bot/pull/1) on [Drlanderf/legio_bot](https://github.com/Drlanderf/legio_bot) (2 years ago)
 #### 📓 Gists I wrote
 
 #### ❤️ These awesome people sponsor me (thank you!)
