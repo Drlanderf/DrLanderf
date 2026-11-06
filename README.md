@@ -250,13 +250,13 @@
 #### 👷 Check out what I'm currently working on
 
 
-* [Drlanderf/DiscordBot-Botpy](https://github.com/Drlanderf/DiscordBot-Botpy) - 🤖 Basic Py Discord Bot (4 days ago)
+* [Drlanderf/DiscordBot-Botpy](https://github.com/Drlanderf/DiscordBot-Botpy) - 🤖 Basic Py Discord Bot (5 days ago)
 
-* [Drlanderf/programmation-procedurale-lukas-paquay](https://github.com/Drlanderf/programmation-procedurale-lukas-paquay) - 📚School repo (6 days ago)
+* [Drlanderf/programmation-procedurale-lukas-paquay](https://github.com/Drlanderf/programmation-procedurale-lukas-paquay) - 📚School repo (1 week ago)
 
-* [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) - 🤖 depreciated Basic Discord Bot (6 days ago)
+* [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) - 🤖 depreciated Basic Discord Bot (1 week ago)
 
-* [Drlanderf/DrLanderf](https://github.com/Drlanderf/DrLanderf) - 🧑It&#39;s just me with some automation (2 weeks ago)
+* [Drlanderf/DrLanderf](https://github.com/Drlanderf/DrLanderf) - 🧑It&#39;s just me with some automation (3 weeks ago)
 #### 🌱 My latest projects
 
 
@@ -284,13 +284,13 @@
 #### 🔨 My recent Pull Requests
 
 
-* [🧵 Update README.md](https://github.com/Drlanderf/DiscordBot-Botpy/pull/11) on [Drlanderf/DiscordBot-Botpy](https://github.com/Drlanderf/DiscordBot-Botpy) (4 days ago)
+* [🧵 Update README.md](https://github.com/Drlanderf/DiscordBot-Botpy/pull/11) on [Drlanderf/DiscordBot-Botpy](https://github.com/Drlanderf/DiscordBot-Botpy) (5 days ago)
 
-* [✨ Embed creator](https://github.com/Drlanderf/DiscordBot-Botpy/pull/10) on [Drlanderf/DiscordBot-Botpy](https://github.com/Drlanderf/DiscordBot-Botpy) (4 days ago)
+* [✨ Embed creator](https://github.com/Drlanderf/DiscordBot-Botpy/pull/10) on [Drlanderf/DiscordBot-Botpy](https://github.com/Drlanderf/DiscordBot-Botpy) (5 days ago)
 
-* [moderation](https://github.com/Drlanderf/DiscordBot-Botpy/pull/5) on [Drlanderf/DiscordBot-Botpy](https://github.com/Drlanderf/DiscordBot-Botpy) (5 days ago)
+* [moderation](https://github.com/Drlanderf/DiscordBot-Botpy/pull/5) on [Drlanderf/DiscordBot-Botpy](https://github.com/Drlanderf/DiscordBot-Botpy) (6 days ago)
 
-* [arrivee-depart-log](https://github.com/Drlanderf/DiscordBot-Botpy/pull/4) on [Drlanderf/DiscordBot-Botpy](https://github.com/Drlanderf/DiscordBot-Botpy) (5 days ago)
+* [arrivee-depart-log](https://github.com/Drlanderf/DiscordBot-Botpy/pull/4) on [Drlanderf/DiscordBot-Botpy](https://github.com/Drlanderf/DiscordBot-Botpy) (6 days ago)
 
 * [botban](https://github.com/Drlanderf/DiscordBot-Botpy/pull/3) on [Drlanderf/DiscordBot-Botpy](https://github.com/Drlanderf/DiscordBot-Botpy) (1 week ago)
 
