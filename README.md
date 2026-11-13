@@ -252,11 +252,11 @@
 
 * [Drlanderf/DiscordBot-Botpy](https://github.com/Drlanderf/DiscordBot-Botpy) - 🤖 Basic Py Discord Bot (1 week ago)
 
-* [Drlanderf/programmation-procedurale-lukas-paquay](https://github.com/Drlanderf/programmation-procedurale-lukas-paquay) - 📚School repo (1 week ago)
+* [Drlanderf/programmation-procedurale-lukas-paquay](https://github.com/Drlanderf/programmation-procedurale-lukas-paquay) - 📚School repo (2 weeks ago)
 
-* [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) - 🤖 depreciated Basic Discord Bot (1 week ago)
+* [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) - 🤖 depreciated Basic Discord Bot (2 weeks ago)
 
-* [Drlanderf/DrLanderf](https://github.com/Drlanderf/DrLanderf) - 🧑It&#39;s just me with some automation (3 weeks ago)
+* [Drlanderf/DrLanderf](https://github.com/Drlanderf/DrLanderf) - 🧑It&#39;s just me with some automation (4 weeks ago)
 #### 🌱 My latest projects
 
 
