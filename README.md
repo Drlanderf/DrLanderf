@@ -288,9 +288,9 @@
 
 * [✨ Embed creator](https://github.com/Drlanderf/DiscordBot-Botpy/pull/10) on [Drlanderf/DiscordBot-Botpy](https://github.com/Drlanderf/DiscordBot-Botpy) (1 week ago)
 
-* [moderation](https://github.com/Drlanderf/DiscordBot-Botpy/pull/5) on [Drlanderf/DiscordBot-Botpy](https://github.com/Drlanderf/DiscordBot-Botpy) (1 week ago)
+* [moderation](https://github.com/Drlanderf/DiscordBot-Botpy/pull/5) on [Drlanderf/DiscordBot-Botpy](https://github.com/Drlanderf/DiscordBot-Botpy) (2 weeks ago)
 
-* [arrivee-depart-log](https://github.com/Drlanderf/DiscordBot-Botpy/pull/4) on [Drlanderf/DiscordBot-Botpy](https://github.com/Drlanderf/DiscordBot-Botpy) (1 week ago)
+* [arrivee-depart-log](https://github.com/Drlanderf/DiscordBot-Botpy/pull/4) on [Drlanderf/DiscordBot-Botpy](https://github.com/Drlanderf/DiscordBot-Botpy) (2 weeks ago)
 
 * [botban](https://github.com/Drlanderf/DiscordBot-Botpy/pull/3) on [Drlanderf/DiscordBot-Botpy](https://github.com/Drlanderf/DiscordBot-Botpy) (2 weeks ago)
 
