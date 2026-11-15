@@ -250,13 +250,13 @@
 #### 👷 Check out what I'm currently working on
 
 
-* [Drlanderf/DiscordBot-Botpy](https://github.com/Drlanderf/DiscordBot-Botpy) - 🤖 Basic Py Discord Bot (1 week ago)
+* [Drlanderf/DiscordBot-Botpy](https://github.com/Drlanderf/DiscordBot-Botpy) - 🤖 Basic Py Discord Bot (2 weeks ago)
 
 * [Drlanderf/programmation-procedurale-lukas-paquay](https://github.com/Drlanderf/programmation-procedurale-lukas-paquay) - 📚School repo (2 weeks ago)
 
 * [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) - 🤖 depreciated Basic Discord Bot (2 weeks ago)
 
-* [Drlanderf/DrLanderf](https://github.com/Drlanderf/DrLanderf) - 🧑It&#39;s just me with some automation (4 weeks ago)
+* [Drlanderf/DrLanderf](https://github.com/Drlanderf/DrLanderf) - 🧑It&#39;s just me with some automation (1 month ago)
 #### 🌱 My latest projects
 
 
@@ -284,9 +284,9 @@
 #### 🔨 My recent Pull Requests
 
 
-* [🧵 Update README.md](https://github.com/Drlanderf/DiscordBot-Botpy/pull/11) on [Drlanderf/DiscordBot-Botpy](https://github.com/Drlanderf/DiscordBot-Botpy) (1 week ago)
+* [🧵 Update README.md](https://github.com/Drlanderf/DiscordBot-Botpy/pull/11) on [Drlanderf/DiscordBot-Botpy](https://github.com/Drlanderf/DiscordBot-Botpy) (2 weeks ago)
 
-* [✨ Embed creator](https://github.com/Drlanderf/DiscordBot-Botpy/pull/10) on [Drlanderf/DiscordBot-Botpy](https://github.com/Drlanderf/DiscordBot-Botpy) (1 week ago)
+* [✨ Embed creator](https://github.com/Drlanderf/DiscordBot-Botpy/pull/10) on [Drlanderf/DiscordBot-Botpy](https://github.com/Drlanderf/DiscordBot-Botpy) (2 weeks ago)
 
 * [moderation](https://github.com/Drlanderf/DiscordBot-Botpy/pull/5) on [Drlanderf/DiscordBot-Botpy](https://github.com/Drlanderf/DiscordBot-Botpy) (2 weeks ago)
 
